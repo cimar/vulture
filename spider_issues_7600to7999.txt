@@ -1,0 +1,267 @@
+volume_name,volume_id,issue_id,cover_date
+Universe X;9149;69361;2000-11-01
+Peter Parker: Spider-Man;9142;68500;2000-11-01
+Gambit;9111;66910;2000-11-01
+Wolverine;4250;51223;2000-11-01
+Spider-Girl;6218;49402;2000-11-01
+Darkdevil;6700;47794;2000-11-01
+Avengers Universe;40565;273382;2000-10-01
+Avengers Universe;40565;273380;2000-10-01
+Spider-Man: Death and Destiny;31431;195914;2000-10-01
+Spider-Man: Revenge of the Green Goblin;20677;124017;2000-10-01
+The Amazing Spider-Man;78701;113453;2000-10-01
+Universe X;9149;69360;2000-10-01
+Peter Parker: Spider-Man;9142;68499;2000-10-01
+Avataars: Covenant of the Shield;9076;64480;2000-10-01
+Ultimate Spider-Man;7257;51619;2000-10-01
+Spider-Man: Death and Destiny;31431;195913;2000-09-01
+The Amazing Spider-Man;78701;113452;2000-09-01
+Peter Parker: Spider-Man;9142;68498;2000-09-01
+Spider-Girl;6218;49400;2000-09-01
+Spider-Man: Death and Destiny;31431;195911;2000-08-01
+The Amazing Spider-Man;78701;113451;2000-08-01
+X-Men: The Hidden Years;9202;70476;2000-08-01
+Peter Parker: Spider-Man;9142;68497;2000-08-01
+Spider-Man vs Punisher;21887;131863;2000-07-01
+The Amazing Spider-Man;78701;113450;2000-07-01
+Peter Parker: Spider-Man;9142;68496;2000-07-01
+Spider-Girl;6218;49398;2000-07-01
+Webspinners: Tales of Spider-Man;9375;117435;2000-06-26
+The Amazing Spider-Man;78701;113449;2000-06-01
+Peter Parker: Spider-Man;9142;68495;2000-06-01
+Earth X;6354;66296;2000-06-01
+Avengers;7084;50788;2000-06-01
+Spider-Girl;6218;49397;2000-06-01
+Webspinners: Tales of Spider-Man;9375;117434;2000-05-31
+The History of Marvels Comics;33822;268917;2000-05-03
+Marvels Comics: Spider-Man #1;22899;137487;2000-05-03
+Blade;31627;219407;2000-05-01
+The Amazing Spider-Man;78701;113448;2000-05-01
+Warlock;11006;95862;2000-05-01
+Spider-Woman;9573;82320;2000-05-01
+Thor;6226;75669;2000-05-01
+Peter Parker: Spider-Man;9142;68494;2000-05-01
+Bishop: The Last X-Man;6352;65818;2000-05-01
+The New Warriors;6787;48485;2000-05-01
+Spider-Girl;6218;47882;2000-05-01
+Black Panther;6496;46498;2000-05-01
+Webspinners: Tales of Spider-Man;9375;117433;2000-04-26
+Spider-Man vs. Doctor Octopus;67394;425794;2000-04-01
+The Amazing Spider-Man;78701;113447;2000-04-01
+Spider-Man Unlimited;10760;91362;2000-04-01
+Spider-Man Unlimited;10760;91361;2000-04-01
+Peter Parker: Spider-Man;9142;68493;2000-04-01
+Earth X;6354;66295;2000-04-01
+Spider-Girl;6218;47881;2000-04-01
+Black Panther;6496;46497;2000-04-01
+The Amazing Spider-Man 2000;60441;143312;2000-03-31
+Webspinners: Tales of Spider-Man;9375;117432;2000-03-31
+Webspinners: Tales of Spider-Man;9375;117431;2000-03-31
+Thunderbolts;6020;46305;2000-03-31
+Blade;31627;210024;2000-03-01
+The Amazing Spider-Man;78701;113446;2000-03-01
+Warlock;11006;95860;2000-03-01
+Spider-Woman;9573;82318;2000-03-01
+Peter Parker: Spider-Man;9142;68492;2000-03-01
+Earth X;6354;66294;2000-03-01
+Bishop: The Last X-Man;6352;65816;2000-03-01
+Cable;4993;65655;2000-03-01
+Wolverine;4250;51215;2000-03-01
+Spider-Girl;6218;47880;2000-03-01
+Fantastic Four;6211;46309;2000-03-01
+The Amazing Spider-Man;78701;113445;2000-02-29
+X-Man;5567;136073;2000-02-01
+Ant-Man's Big Christmas;20128;120141;2000-02-01
+Spider-Man Unlimited;10760;91360;2000-02-01
+Peter Parker: Spider-Man;9142;68491;2000-02-01
+Avengers;7084;50784;2000-02-01
+Spider-Girl;6218;47879;2000-02-01
+Mutant X;6217;46282;2000-02-01
+Wild Thing;6360;46267;2000-02-01
+Webspinners: Tales of Spider-Man;9375;117430;2000-01-31
+Thunderbolts 2000;60491;107040;2000-01-31
+Iron Man;6504;51038;2000-01-31
+Thunderbolts;6020;46230;2000-01-31
+Spider-Man Activision;52384;358697;2000-01-01
+Blade;31627;197697;2000-01-01
+Heroes Reborn: Doomsday;21943;132413;2000-01-01
+The Amazing Spider-Man;78701;113444;2000-01-01
+Domination Factor: Fantastic Four;11389;99855;2000-01-01
+Domination Factor: Avengers;11388;99851;2000-01-01
+Warlock;11006;95859;2000-01-01
+Spider-Man Unlimited;10760;91359;2000-01-01
+Generation X;5300;83124;2000-01-01
+Thor;6226;75666;2000-01-01
+Peter Parker: Spider-Man;9142;68490;2000-01-01
+Gambit;9111;66900;2000-01-01
+Earth X;6354;66293;2000-01-01
+Avengers;7084;50783;2000-01-01
+Deadpool;6000;50742;2000-01-01
+Spider-Girl;6218;47878;2000-01-01
+Black Panther;6496;46494;2000-01-01
+Mutant X;6217;46235;2000-01-01
+The Amazing Spider-Man;78701;113443;1999-12-31
+Webspinners: Tales of Spider-Man;9375;117429;1999-12-26
+Blade;31627;208855;1999-12-01
+X-Men: The Hidden Years;9202;124309;1999-12-01
+Spider-Man Unlimited;10760;91358;1999-12-01
+Avengers;7084;78495;1999-12-01
+Peter Parker: Spider-Man;9142;68489;1999-12-01
+Galactus the Devourer;9110;66887;1999-12-01
+Daredevil;6209;46149;1999-12-01
+Webspinners: Tales of Spider-Man;9375;117427;1999-11-30
+Gambit;9111;66898;1999-11-30
+Iron Man;6504;51036;1999-11-30
+Thunderbolts;6020;46123;1999-11-30
+X-Man;5567;132385;1999-11-01
+Juggernaut: The Eighth Day;19218;115161;1999-11-01
+The Amazing Spider-Man;78701;113442;1999-11-01
+Slingers;11305;99250;1999-11-01
+Avengers Forever;11015;96145;1999-11-01
+Peter Parker: Spider-Man;9142;68488;1999-11-01
+Galactus the Devourer;9110;66886;1999-11-01
+Earth X;6354;66291;1999-11-01
+Bishop: The Last X-Man;6352;65814;1999-11-01
+Deadpool;6000;50740;1999-11-01
+Contest of Champions II;6353;46127;1999-11-01
+Fantastic Four;6211;46125;1999-11-01
+X-Men: True Friends;6361;46118;1999-11-01
+Contest of Champions II;6353;46099;1999-11-01
+Spider-Girl;6218;46092;1999-11-01
+The Amazing Spider-Man;78701;113441;1999-10-31
+Webspinners: Tales of Spider-Man;9375;75632;1999-10-26
+Spider-Man: Chapter One;6219;46082;1999-10-18
+Spider-Man Unlimited;10760;268921;1999-10-01
+X-Man;5567;132384;1999-10-01
+Spider-Woman;9573;82313;1999-10-01
+Peter Parker: Spider-Man;9142;68487;1999-10-01
+Galactus the Devourer;9110;66885;1999-10-01
+Fantastic Four;6211;46081;1999-10-01
+Contest of Champions II;6353;46057;1999-10-01
+The Amazing Spider-Man;78701;113440;1999-09-30
+Webspinners: Tales of Spider-Man;9375;75631;1999-09-26
+Spider-Man: Chapter One;6219;46036;1999-09-18
+Nova;20997;126199;1999-09-01
+Peter Parker: Spider-Man;9142;68486;1999-09-01
+Earth X;6354;66289;1999-09-01
+Contest of Champions II;6353;46012;1999-09-01
+Mutant X;6217;46005;1999-09-01
+Peter Parker: Spider-Man 1999;39919;269238;1999-08-31
+The Amazing Spider-Man;78701;113439;1999-08-31
+Webspinners: Tales of Spider-Man;9375;75630;1999-08-26
+Spider-Man: Chapter One;6219;45989;1999-08-18
+Spider-Woman;9573;82311;1999-08-01
+Peter Parker: Spider-Man;9142;68485;1999-08-01
+Spider-Girl;6218;45957;1999-08-01
+The Amazing Spider-Man;78701;113438;1999-07-31
+Webspinners: Tales of Spider-Man;9375;75629;1999-07-26
+Spider-Man: Chapter One;6219;45944;1999-07-18
+Incredible Hulk vs Superman;18929;111966;1999-07-01
+Spider-Woman;9573;82310;1999-07-01
+Peter Parker: Spider-Man;9142;68484;1999-07-01
+Spider-Girl;6218;45922;1999-07-01
+The Amazing Spider-Man 1999;60440;143311;1999-06-30
+Spider-Girl 1999;23208;139640;1999-06-30
+The Amazing Spider-Man;78701;113437;1999-06-30
+Webspinners: Tales of Spider-Man;9375;75628;1999-06-30
+Spider-Man: Chapter One;6219;45905;1999-06-18
+Black Widow: Web of Intrigue;32505;205562;1999-06-01
+Peter Parker: Spider-Man;9142;68483;1999-06-01
+Earth X;6354;66286;1999-06-01
+Daredevil;6209;66257;1999-06-01
+X-Men;4605;65788;1999-06-01
+Spider-Girl;6218;45877;1999-06-01
+The Amazing Spider-Man;78701;113436;1999-05-31
+Webspinners: Tales of Spider-Man;9375;75627;1999-05-26
+Spider-Man: Chapter One;6219;45859;1999-05-18
+Spider-Man: Chapter One;6219;45815;1999-05-18
+Fantastic Four 1999;60494;111017;1999-05-05
+Avengers: Visionaries;54836;373088;1999-05-01
+Nova;20997;125695;1999-05-01
+X-Man;5567;74573;1999-05-01
+Peter Parker: Spider-Man;9142;68482;1999-05-01
+Avengers;7084;50775;1999-05-01
+Spider-Girl;6218;45833;1999-05-01
+Marvel Super Hero Island Adventures;20064;119746;1999-04-30
+The Amazing Spider-Man;78701;113435;1999-04-30
+Webspinners: Tales of Spider-Man;9375;75626;1999-04-26
+Spider-Man: Chapter One;6219;45811;1999-04-18
+Slingers;11305;99243;1999-04-01
+Peter Parker: Spider-Man;9142;68481;1999-04-01
+Mutant X;6217;45787;1999-04-01
+Spider-Girl;6218;45784;1999-04-01
+Earth X;6354;45773;1999-04-01
+The Amazing Spider-Man;78701;113434;1999-03-31
+Spider-Girl;6218;46004;1999-03-31
+Webspinners: Tales of Spider-Man;9375;75625;1999-03-26
+Spider-Man: Chapter One;6219;45761;1999-03-18
+Slingers;11305;99242;1999-03-01
+Peter Parker: Spider-Man;9142;68480;1999-03-01
+Mutant X;6217;45737;1999-03-01
+Spider-Girl;6218;45735;1999-03-01
+Earth X;6354;45724;1999-03-01
+The Amazing Spider-Man;78701;113433;1999-02-28
+Webspinners: Tales of Spider-Man;9375;75624;1999-02-26
+Spider-Man: Chapter One;6219;45703;1999-02-18
+Slingers;11305;99241;1999-02-01
+Peter Parker: Spider-Man;9142;68479;1999-02-01
+Mutant X;6217;45683;1999-02-01
+Spider-Girl;6218;45679;1999-02-01
+Thor;6226;45665;1999-02-01
+The Amazing Spider-Man;78701;113432;1999-01-31
+Webspinners: Tales of Spider-Man;9375;75623;1999-01-26
+Spider-Man: Chapter One;6219;45646;1999-01-18
+Amazing Spider-Man Toy Fair Special;25095;148170;1999-01-01
+Billy The Marlin;23853;142466;1999-01-01
+Slingers;11305;99240;1999-01-01
+Peter Parker: Spider-Man;9142;68478;1999-01-01
+Spider-Girl;6218;45618;1999-01-01
+Earth X Sketchbook;37375;249043;1998-12-30
+Spider-Man: Chapter One;6219;45558;1998-12-18
+Spider-Man: Chapter One;6219;45554;1998-12-18
+Giant Size Spider-Man;42490;290433;1998-12-01
+The Supernaturals;20582;123893;1998-12-01
+Slingers;11305;99239;1998-12-01
+Avengers;7084;50770;1998-12-01
+Daredevil;6209;45544;1998-12-01
+Spider-Girl;6218;45526;1998-12-01
+The Amazing Spider-Man;2127;64477;1998-11-01
+Spider-Man Unlimited;5048;57306;1998-11-01
+Avengers;7084;50769;1998-11-01
+Spider-Man;4421;45504;1998-11-01
+Spider-Girl;6218;45467;1998-11-01
+Thor;6226;45453;1998-11-01
+Spider-Man;4421;45441;1998-11-01
+What If...?;4249;45440;1998-11-01
+The Spectacular Spider-Man;2870;45428;1998-11-01
+The Sensational Spider-Man;5788;45427;1998-11-01
+Encyclopdia Deadpoolica;25618;151025;1998-10-21
+Spider-Girl;6218;68476;1998-10-01
+Excalibur;4052;66407;1998-10-01
+The Amazing Spider-Man;2127;64476;1998-10-01
+Mutant X;6217;45399;1998-10-01
+Spider-Girl;6218;45395;1998-10-01
+The Spectacular Spider-Man;2870;45364;1998-10-01
+The Sensational Spider-Man;5788;45363;1998-10-01
+Spider-Man;4421;45291;1998-10-01
+Fantastic Four;6211;45356;1998-09-28
+Spider-Man: Identity Crisis;27219;165785;1998-09-01
+The Amazing Spider-Man;2127;64475;1998-09-01
+The Amazing Spider-Man;2127;64474;1998-09-01
+Iron Man: The Iron Age;6215;45311;1998-09-01
+What If...?;4249;45307;1998-09-01
+The Spectacular Spider-Man;2870;45290;1998-09-01
+The Sensational Spider-Man;5788;45289;1998-09-01
+The Incredible Hulk;2406;152728;1998-08-22
+Spider-Man Mysteries;64126;413273;1998-08-01
+Marvel Collectible Classics: X-Men;38724;259703;1998-08-01
+Marvel Adventures;31326;227425;1998-08-01
+Spider-Man;4421;64663;1998-08-01
+The Amazing Spider-Man;2127;64473;1998-08-01
+Spider-Man Unlimited;5048;57305;1998-08-01
+What If...?;4249;45217;1998-08-01
+Spider-Man;4421;45204;1998-08-01
+The Spectacular Spider-Man;2870;45203;1998-08-01
+The Sensational Spider-Man;5788;45202;1998-08-01
+Fantastic Four;6211;45176;1998-07-28
+Avengers Rough Cut;39506;266892;1998-07-01

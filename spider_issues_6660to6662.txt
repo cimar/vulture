@@ -1,0 +1,3 @@
+volume_name,volume_id,issue_id,cover_date
+The Pulse;11310;99292;2004-05-01
+Spider-Man Unlimited;11306;99252;2004-05-01

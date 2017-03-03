@@ -1,0 +1,239 @@
+volume_name,volume_id,issue_id,cover_date
+Iron Man Magazine Special Edition;46263;318693;2010-04-01
+The New Avengers;40895;275712;2010-04-01
+Marvel Adventures Spider-Man: Peter Parker Vs. The X-Men;33136;213929;2010-04-01
+Marvel Adventures: Spider-Man;18094;198626;2010-04-01
+Spider-Man: The Clone Saga;25144;198524;2010-04-01
+Ultimate Enemy;31298;198501;2010-04-01
+Ms. Marvel;17990;198263;2010-04-01
+Deadpool;22955;198261;2010-04-01
+New Avengers;11497;198259;2010-04-01
+The Amazing Spider-Man;2127;198252;2010-04-01
+Spider-Man 1602;28515;197798;2010-04-01
+Marvels: Eye of the Camera;24399;197540;2010-04-01
+Deadpool;22955;197512;2010-04-01
+Web of Spider-Man;28576;197359;2010-04-01
+Dark Avengers;25512;197355;2010-04-01
+The Amazing Spider-Man;2127;197353;2010-04-01
+Spider-Man & The Secret Wars;30318;196741;2010-04-01
+Amazing Spider-Man Presents: Jackpot;30919;196740;2010-04-01
+Ultimate Spider-Man;27381;196592;2010-04-01
+The Amazing Spider-Man;2127;196462;2010-04-01
+Marvel Heartbreakers;31374;195402;2010-04-01
+Siege;30904;195362;2010-04-01
+The Amazing Spider-Man by JMS Ultimate Collection;35415;244344;2010-03-31
+The Amazing Spider-Man: The Complete Clone Saga Epic;32701;209111;2010-03-31
+New Avengers: Power Loss;32455;204640;2010-03-31
+Fantastic Four By Jonathan Hickman;32296;202822;2010-03-31
+Hulk: Hulk No More;31878;200024;2010-03-31
+Doctor Voodoo: Avenger of the Supernatural;28412;193704;2010-03-31
+Incredible Hercules;20588;193350;2010-03-31
+Avengers vs. Atlas;31128;193348;2010-03-31
+Spider-Man Noir: Eyes Without A Face;30187;191659;2010-03-31
+Incredible Hercules;20588;189507;2010-03-31
+New Avengers Annual;18198;186664;2010-03-31
+Mighty Avengers: Secret Invasion;65596;285154;2010-03-29
+Daredevil/Echo: Parts of a Hole;43113;294047;2010-03-24
+Ultimate Comics Spider-Man: The New World According to Peter Parker;32477;204761;2010-03-24
+Deadpool;22955;201709;2010-03-24
+Incredible Hulk;24715;193351;2010-03-21
+Spider-Girl: The Games Villains Play;32493;205179;2010-03-10
+The Invincible Iron Man Omnibus;32341;203406;2010-03-03
+Spider-Man: American Son;31806;199358;2010-03-03
+Deadpool: Suicide Kings;32321;203177;2010-03-01
+Marvel Adventures: Iron Man and Spider-Man;32315;203152;2010-03-01
+Captain America: Reborn;32188;202003;2010-03-01
+Ultimate Enemy;31298;194835;2010-03-01
+Spider-Man: The Clone Saga;25144;194831;2010-03-01
+Marvel Adventures: Spider-Man;18094;194828;2010-03-01
+Captain America: Reborn;26966;194589;2010-03-01
+The Amazing Spider-Man;2127;194422;2010-03-01
+New Avengers;11497;194421;2010-03-01
+Web of Spider-Man;28576;194269;2010-03-01
+Spider-Man 1602;28515;194241;2010-03-01
+The Amazing Spider-Man;2127;193352;2010-03-01
+Spider-Man & The Secret Wars;30318;192763;2010-03-01
+Spider-Man Magazine;31034;192312;2010-03-01
+The Amazing Spider-Man;2127;192294;2010-03-01
+Ultimate Spider-Man;27381;191459;2010-03-01
+Amazing Spider-Man Presents: Jackpot;30919;191273;2010-03-01
+Incredible Hulk: Son of Banner;32624;207654;2010-02-28
+Wolverine: Dark Wolverine;32155;201717;2010-02-28
+Fantastic Four: In Search Of Galactus;31797;199292;2010-02-28
+Captain America: Theater Of War;31612;197509;2010-02-28
+Spider-Man Noir: Eyes Without A Face;30187;186110;2010-02-28
+Avengers: The Korvac Saga;31927;200261;2010-02-24
+Deadpool and Cable Ultimate Collection;31919;200233;2010-02-24
+Daredevil: Lone Stranger;31801;199300;2010-02-24
+House Of M: Wolverine, Iron Man & Hulk;31672;198492;2010-02-24
+Spider-Man: The Gauntlet - Electro And Sandman;32192;202011;2010-02-17
+Excalibur Visionaries: Alan Davis;31714;198689;2010-02-17
+Fantastic Four;6211;189516;2010-02-11
+Marvel 1602;31889;200110;2010-02-10
+Essential Daredevil;23940;199872;2010-02-10
+Deadpool: X Marks The Spot;31475;196454;2010-02-03
+Marvel Adventures: Spider-Man;18094;191212;2010-02-01
+What If? Spider-Man House of M;30692;189584;2010-02-01
+New Avengers;11497;189508;2010-02-01
+The Amazing Spider-Man;2127;189487;2010-02-01
+Spider-Man 1602;28515;189470;2010-02-01
+Spider-Man: The Clone Saga;25144;188266;2010-02-01
+The Amazing Spider-Man;2127;187607;2010-02-01
+Spider-Man & The Secret Wars;30318;186692;2010-02-01
+Dark X-Men;29623;186674;2010-02-01
+Web of Spider-Man;28576;186660;2010-02-01
+The Amazing Spider-Man;2127;186659;2010-02-01
+Fall of the Hulks: Alpha;30188;186112;2010-02-01
+Ultimate Spider-Man;27381;186107;2010-02-01
+What If? Secret Invasion;30182;186068;2010-02-01
+Thor By Dan Jurgens & John Romita Jr.;32067;258715;2010-01-31
+Ultimate Spider-Man: Ultimatum;35953;237657;2010-01-31
+Captain America: Road to Reborn;31803;199302;2010-01-31
+Siege: Storming Asgard  Heroes & Villains;31275;194624;2010-01-31
+New Avengers;11497;184944;2010-01-31
+Incredible Hercules;20588;184806;2010-01-31
+Dark Reign: The List - Amazing Spider-Man;29838;183670;2010-01-31
+Vengeance of the Moon Knight;27914;182686;2010-01-31
+Marvel Adventures: Spider-Man and the Avengers;32352;203580;2010-01-27
+Marvel Adventures: Spider-Man;18094;185427;2010-01-25
+Marvel Fairy Tales;59211;394803;2010-01-20
+Spider-Man: Return of The Black Cat;32428;204468;2010-01-13
+Spider-Man: Election Day;31754;199163;2010-01-13
+Daredevil Omnibus by Brian Michael Bendis and Alex Maleev;30861;294025;2010-01-06
+Essential Avengers;23558;191937;2010-01-06
+Siege Prelude;30960;191688;2010-01-06
+Civil War: Spider-Man;37331;248409;2010-01-01
+Hulk Visionaries: Peter David;32519;205861;2010-01-01
+List;30977;191896;2010-01-01
+Marvel Adventures Spider-Man: Thwip!;30734;189773;2010-01-01
+Spider-Man: The Clone Saga;25144;185027;2010-01-01
+Ms. Marvel;17990;184820;2010-01-01
+Web of Spider-Man;28576;184775;2010-01-01
+The Amazing Spider-Man;2127;184769;2010-01-01
+Spider-Man 1602;28515;184039;2010-01-01
+The Amazing Spider-Man;2127;183671;2010-01-01
+The Amazing Spider-Man;2127;182579;2010-01-01
+Marvel Zombies: Evil Evolution;29427;181678;2010-01-01
+Ultimate Spider-Man;27381;181637;2010-01-01
+Assault on New Olympus Prologue;29297;181089;2010-01-01
+The Amazing Spider-Man;2127;181081;2010-01-01
+Pet Avengers Classic;34890;229295;2009-12-31
+Ms Marvel: Dark Reign;33029;212759;2009-12-31
+Marvel Zombies Return;33018;212701;2009-12-31
+Incredible Hercules: Mighty Thorcules;32621;207630;2009-12-31
+What If? Classic;28489;192526;2009-12-31
+Agents Of Atlas: Dark Reign;30822;190502;2009-12-31
+Ms. Marvel: War of the Marvels;30707;189657;2009-12-31
+New Avengers;11497;179033;2009-12-31
+Origins of Siege;30823;190503;2009-12-30
+Exiles Ultimate Collection;28237;190476;2009-12-30
+Deadpool Classic;21748;189519;2009-12-23
+Incredible Hercules;20588;179104;2009-12-21
+Marvel Masterworks: Nick Fury, Agent of S.H.I.E.L.D.;35211;307505;2009-12-16
+Ultimatum: March on Ultimatum;37516;249316;2009-12-09
+Spider-Man: Red-Headed Stranger;32423;204292;2009-12-09
+Dark Reign: The Underside;32320;203176;2009-12-09
+X-Men/Spider-Man;31089;192871;2009-12-09
+Wolverine: Tales of Weapon X;30947;191515;2009-12-09
+Spider-Man Magazine;31034;192311;2009-12-01
+Dark Reign: The Sinister Spider-Man;30769;189949;2009-12-01
+Brian Michael Bendis: Ten Years At Marvel;30702;189634;2009-12-01
+Marvel 70th Anniversary Frame Art;30344;186931;2009-12-01
+Marvel Holiday Spectacular;29196;179955;2009-12-01
+Marvel Adventures: Spider-Man;18094;179942;2009-12-01
+Spider-Man: The Clone Saga;25144;179918;2009-12-01
+Thunderbolts;18128;176849;2009-12-01
+Dark Reign: The List - Hulk;28715;176842;2009-12-01
+The Amazing Spider-Man;2127;176838;2009-12-01
+Web of Spider-Man;28576;176118;2009-12-01
+Spider-Man 1602;28515;175654;2009-12-01
+Ultimate Spider-Man;27381;175288;2009-12-01
+The Amazing Spider-Man;2127;174819;2009-12-01
+New Avengers: Search For the Sorcerer Supreme;32453;204638;2009-11-30
+Marvel Zombies Return;27709;173435;2009-11-30
+Marvel Zombies Return;27709;172561;2009-11-30
+New Avengers;11497;172381;2009-11-30
+Marvel Zombies Return;27709;171555;2009-11-30
+Marvel Zombies Return;27709;169517;2009-11-30
+Marvel Masterworks: Deathlok;35208;232218;2009-11-25
+Death of Captain America Omnibus;34208;223072;2009-11-25
+Official Handbook of the Marvel Universe A to Z;22981;211114;2009-11-25
+X-Men Legacy: Salvage;36998;246739;2009-11-11
+The Amazing Spider-Man by JMS Ultimate Collection;35415;244343;2009-11-11
+Spider-Man: Died In Your Arms Tonight;32422;204291;2009-11-11
+Marvel Zombies 3;32872;211530;2009-11-04
+Fantastic Four Visionaries: Walter Simonson;29259;181370;2009-11-04
+Timestorm 2009/2099;33282;215100;2009-11-01
+Avengers/X-Men: Utopia;30200;186229;2009-11-01
+Marvel Adventures: Spider-Man;18094;174433;2009-11-01
+Punisher Annual;28304;174144;2009-11-01
+Hulk;20291;173682;2009-11-01
+The Amazing Spider-Man;2127;173423;2009-11-01
+Astonishing X-Men/Amazing Spider-Man: The Gauntlet Sketchbook;28104;172577;2009-11-01
+The Amazing Spider-Man;2127;172378;2009-11-01
+The Amazing Spider-Man;2127;171645;2009-11-01
+Marvel Adventures Super Heroes;22319;170929;2009-11-01
+The Amazing Spider-Man;2127;170719;2009-11-01
+Dark Reign: The List - Avengers;27803;170311;2009-11-01
+Ultimate Spider-Man;27381;169284;2009-11-01
+Exiles;26159;169213;2009-11-01
+Spider-Man: The Clone Saga;25144;148443;2009-11-01
+Ultimatum: Requiem;31315;194953;2009-10-31
+X-Men Origins;29748;183108;2009-10-31
+New Avengers;11497;168307;2009-10-31
+Dark Reign: Mister Negative;26766;167442;2009-10-31
+Ultimate Spider-Man;27381;166815;2009-10-31
+Spider-Man: The Short Halloween;33421;216669;2009-10-28
+Ultimatum;29962;184337;2009-10-28
+Marvel Masterworks: Inhumans;34836;228822;2009-10-21
+Marvel Adventures Avengers: Invasion;32383;203882;2009-10-21
+Spider-Man: Death and Dating;31700;198661;2009-10-21
+Astonishing X-Men Omnibus;28975;178421;2009-10-21
+Dark Reign: Fantastic Four;32319;203175;2009-10-07
+Official Index to the Marvel Universe;26963;175475;2009-10-07
+Marvel Previews;28516;218058;2009-10-01
+Timestorm 2009/2099;26163;168315;2009-10-01
+Marvel Adventures: Spider-Man;18094;168305;2009-10-01
+Incredible Hulk;24715;168304;2009-10-01
+Deadpool: Suicide Kings;2709;167376;2009-10-01
+The Amazing Spider-Man;2127;167368;2009-10-01
+Marvel Adventures: Avengers;18100;167367;2009-10-01
+The Marvels Project;27392;166887;2009-10-01
+Ms. Marvel;17990;166836;2009-10-01
+The Amazing Spider-Man;2127;166792;2009-10-01
+Deadpool: Merc With a Mouth;26958;166138;2009-10-01
+The Amazing Spider-Man;2127;166136;2009-10-01
+Thor By Dan Jurgens & John Romita Jr.;32067;201172;2009-09-30
+Fantastic Four: The Master of Doom;30735;189774;2009-09-30
+Dark Reign: The Goblin Legacy;27230;165857;2009-09-30
+New Avengers;11497;165577;2009-09-30
+Ms. Marvel;17990;164960;2009-09-30
+Deadpool: Suicide Kings;2709;164774;2009-09-30
+Dark Reign: Mister Negative;26766;164128;2009-09-30
+Ms. Marvel;17990;163541;2009-09-30
+The Amazing Spider-Man Annual;2189;163378;2009-09-30
+Amazing Spider-Man Family;22669;162737;2009-09-30
+Marvel Apes: Evolution Starts Here;32625;207655;2009-09-23
+Guiding Light;34474;224974;2009-09-16
+Spider-Man Noir;33405;216553;2009-09-16
+Black Widow: The Sting of the Widow;28946;178293;2009-09-16
+Spider-Man/Mary Jane:...You Just Hit the Jackpot;28302;174132;2009-09-16
+Marvel Superhero Team-Up;36971;246587;2009-09-09
+Ultimatum: Spider-Man;31004;192101;2009-09-09
+Spider-Man 24/7;30964;191699;2009-09-02
+Marvel Zombies vs. Army Of Darkness;30903;191145;2009-09-02
+Moon Knight Saga;29828;183608;2009-09-02
+Spider-Man: Sinister Six;29734;183023;2009-09-02
+Exiles Ultimate Collection;28237;173689;2009-09-02
+Spider-Man and the Human Torch;28161;172999;2009-09-02
+Deadpool;22955;169211;2009-09-02
+Spider-Man Magazine;31034;192310;2009-09-01
+The Mighty Avengers: Earth's Mightiest;30729;189763;2009-09-01
+Dark Avengers: Dark Avengers Assemble;30292;186619;2009-09-01
+Essential Marvel Team-Up;23724;184207;2009-09-01
+Fantastic Four;6211;165471;2009-09-01
+Ultimatum: Spider-Man - Requiem;26749;165423;2009-09-01
+Marvel Adventures: Spider-Man;18094;165188;2009-09-01
+Incredible Hulk;24715;165068;2009-09-01
+The Amazing Spider-Man;2127;164777;2009-09-01
+Marvel Adventures: Avengers;18100;164589;2009-09-01

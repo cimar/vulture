@@ -1,0 +1,5 @@
+volume_name,volume_id,issue_id,cover_date
+Ultimate Spider-Man;7257;69351;2001-06-01
+Peter Parker: Spider-Man;9142;68507;2001-06-01
+Ultimate Marvel Team-Up;7515;55326;2001-06-01
+Spider-Girl;6218;51757;2001-06-01

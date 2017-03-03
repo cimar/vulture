@@ -1,0 +1,46 @@
+name, id, count_of_issue_appearances, site_url
+Mysterio, 4333, 466, http://comicvine.gamespot.com/mysterio/4005-4333/
+Mysterio (Berkhart), 84871, 43, http://comicvine.gamespot.com/mysterio-berkhart/4005-84871/
+Francis Klum, 84872, 21, http://comicvine.gamespot.com/francis-klum/4005-84872/
+Hobgoblin (Kingsley), 7605, 317, http://comicvine.gamespot.com/hobgoblin-kingsley/4005-7605/
+Hobgoblin (Macendale), 26374, 152, http://comicvine.gamespot.com/hobgoblin-macendale/4005-26374/
+Hobgoblin 2211, 74190, 12, http://comicvine.gamespot.com/hobgoblin-2211/4005-74190/
+Lefty Donovan, 69850, 5, http://comicvine.gamespot.com/lefty-donovan/4005-69850/
+Demogoblin, 15272, 100, http://comicvine.gamespot.com/demogoblin/4005-15272/
+Ned Leeds, 12354, 280, http://comicvine.gamespot.com/ned-leeds/4005-12354/
+Harry Osborn, 2478, 806, http://comicvine.gamespot.com/harry-osborn/4005-2478/
+Phil Urich, 2246, 236, http://comicvine.gamespot.com/phil-urich/4005-2246/
+Sandman, 3544, 901, http://comicvine.gamespot.com/sandman/4005-3544/
+Mud-Thing, 57441, 5, http://comicvine.gamespot.com/mud-thing/4005-57441/
+Chameleon, 4458, 334, http://comicvine.gamespot.com/chameleon/4005-4458/
+Red Vulture, 69888, 22, http://comicvine.gamespot.com/red-vulture/4005-69888/
+Vulture, 4459, 651, http://comicvine.gamespot.com/vulture/4005-4459/
+Vulture (Drago), 62054, 40, http://comicvine.gamespot.com/vulture-drago/4005-62054/
+Scorpion, 4484, 814, http://comicvine.gamespot.com/scorpion/4005-4484/
+Electro, 3228, 660, http://comicvine.gamespot.com/electro/4005-3228/
+Francine Frye, 132403, 0, http://comicvine.gamespot.com/francine-frye/4005-132403/
+Lizard, 1488, 645, http://comicvine.gamespot.com/lizard/4005-1488/
+Rhino, 69235, 4, http://comicvine.gamespot.com/rhino/4005-69235/
+Rhino, 2126, 640, http://comicvine.gamespot.com/rhino/4005-2126/
+Morbius, 6722, 396, http://comicvine.gamespot.com/morbius/4005-6722/
+Tinkerer, 3144, 194, http://comicvine.gamespot.com/tinkerer/4005-3144/
+Kingpin, 1483, 1191, http://comicvine.gamespot.com/kingpin/4005-1483/
+Alfredo Morelli, 26331, 29, http://comicvine.gamespot.com/alfredo-morelli/4005-26331/
+Ashley Barton, 57101, 27, http://comicvine.gamespot.com/ashley-barton/4005-57101/
+The Rose, 14570, 130, http://comicvine.gamespot.com/the-rose/4005-14570/
+Daredevil, 24694, 3361, http://comicvine.gamespot.com/daredevil/4005-24694/
+Doctor Octopus, 1485, 1535, http://comicvine.gamespot.com/doctor-octopus/4005-1485/
+Lady Octopus, 15649, 52, http://comicvine.gamespot.com/lady-octopus/4005-15649/
+Shocker, 4825, 361, http://comicvine.gamespot.com/shocker/4005-4825/
+Green Goblin Construct, 73890, 15, http://comicvine.gamespot.com/green-goblin-construct/4005-73890/
+Proto-Goblin, 13735, 2, http://comicvine.gamespot.com/proto-goblin/4005-13735/
+Fury The Goblin Queen, 48386, 28, http://comicvine.gamespot.com/fury-the-goblin-queen/4005-48386/
+Jackal, 10974, 276, http://comicvine.gamespot.com/jackal/4005-10974/
+Carnage, 1490, 352, http://comicvine.gamespot.com/carnage/4005-1490/
+Cletus Kasady, 85179, 217, http://comicvine.gamespot.com/cletus-kasady/4005-85179/
+Scorn, 10467, 19, http://comicvine.gamespot.com/scorn/4005-10467/
+Patrick Mulligan, 25581, 16, http://comicvine.gamespot.com/patrick-mulligan/4005-25581/
+Toxin, 40783, 43, http://comicvine.gamespot.com/toxin/4005-40783/
+Ben Reilly, 6286, 395, http://comicvine.gamespot.com/ben-reilly/4005-6286/
+Gwen Stacy, 1480, 923, http://comicvine.gamespot.com/gwen-stacy/4005-1480/
+Kraven the Hunter, 2475, 515, http://comicvine.gamespot.com/kraven-the-hunter/4005-2475/

@@ -1,0 +1,257 @@
+volume_name,volume_id,issue_id,cover_date
+The Heroic Age: Super Heroes;35497;234657;2010-11-15
+Amazing Spider-Man: One Moment in Time;36727;244845;2010-11-10
+The Amazing Spider-Man by JMS Ultimate Collection;35415;244450;2010-11-10
+Thor by J. Michael Straczynski Omnibus;39328;265662;2010-11-03
+Spectacular Spider-Girl: The Last Stand;36651;243645;2010-11-03
+The Heroic Age;36627;243330;2010-11-03
+Marvel Universe vs. The Punisher;34724;232537;2010-11-03
+November 2010 Sneak Peeks;36625;243328;2010-11-01
+Amazing Spider-Man Presents: Black Cat;33776;238479;2010-11-01
+Spider-Man: Back In Quack;35876;237207;2010-11-01
+Atlas;33236;236703;2010-11-01
+Heroic Age: One Month To Live;35335;236697;2010-11-01
+The Amazing Spider-Man;2127;236285;2010-11-01
+Marvel Adventures Spider-Man;32888;235694;2010-11-01
+Ultimate Spider-Man;27381;235439;2010-11-01
+Avengers;33227;235387;2010-11-01
+Avengers and the Infinity Gauntlet;35001;234876;2010-11-01
+Web of Spider-Man;28576;234856;2010-11-01
+Spider-Man/Fantastic Four;34260;234685;2010-11-01
+The Amazing Spider-Man;2127;234676;2010-11-01
+Astonishing Spider-Man & Wolverine;32931;234675;2010-11-01
+Heroic Age: One Month To Live;35335;234264;2010-11-01
+The Amazing Spider-Man;2127;233867;2010-11-01
+New Avengers;33777;233761;2010-11-01
+Heroic Age: One Month To Live;35335;232947;2010-11-01
+Shadowland;34243;232570;2010-11-01
+Avengers: The Children's Crusade;34241;232535;2010-11-01
+Incredible Hulk: World War Hulks;36515;241163;2010-10-31
+Civil War: Front Line;36498;241083;2010-10-31
+Wolverine Weapon X: Tomorrow Dies Today;36277;239295;2010-10-31
+Shadowland: Power Man;34978;230364;2010-10-31
+Fantastic Four By Jonathan Hickman;32296;242811;2010-10-27
+Peter Parker;36512;241158;2010-10-27
+Secret Warriors: Last Ride of the Howling Commandos;36511;241155;2010-10-27
+Marvel Universe: The End;36500;241089;2010-10-27
+Spider-Man Saga;36354;239857;2010-10-27
+Ghost Rider by Jason Aaron Omnibus;38529;258538;2010-10-26
+Amazing Spider-Man: Grim Hunt;36371;240122;2010-10-20
+Hulk: World War Hulks;36342;239815;2010-10-20
+Essential Ghost Rider;25969;239679;2010-10-20
+Marvel Universe vs. The Punisher;34724;230329;2010-10-20
+X-Men: Second Coming Revelations;36045;238082;2010-10-13
+Marvel Universe vs. The Punisher;34724;227821;2010-10-06
+Civil War: Fantastic Four;39469;266652;2010-10-01
+Astonishing Spider-Man & Wolverine Director's Cut;39059;262940;2010-10-01
+X-Factor Forever;36513;241160;2010-10-01
+Doomwar;36499;241087;2010-10-01
+Ultimate Comics Avengers: Crime and Punishment;36375;240131;2010-10-01
+The Amazing Spider-Man;2127;233834;2010-10-01
+Amazing Spider-Man Presents: Black Cat;33776;232785;2010-10-01
+Marvel Adventures Spider-Man;32888;232053;2010-10-01
+Amazing Spider-Man Presents: American Son;33255;232017;2010-10-01
+Spider-Girl:  The End!;35111;231684;2010-10-01
+Avengers;33227;231595;2010-10-01
+Avengers and the Infinity Gauntlet;35001;230719;2010-10-01
+Web of Spider-Man;28576;230325;2010-10-01
+New Avengers;33777;230322;2010-10-01
+The Amazing Spider-Man;2127;230259;2010-10-01
+Ultimate Spider-Man;27381;229060;2010-10-01
+Incredible Hulk;24715;228986;2010-10-01
+Spectacular Spider-Girl;33063;228974;2010-10-01
+The Thanos Imperative;33509;228973;2010-10-01
+Spider-Man/Fantastic Four;34260;227832;2010-10-01
+Shadowland;34243;227712;2010-10-01
+New Avengers: Luke Cage: Town Without Pity;35917;237420;2010-09-30
+The Amazing Spider-Man: The Complete Clone Saga Epic;32701;232983;2010-09-30
+World War Hulks: Spider-Man vs. Thor;34435;227103;2010-09-30
+World War Hulks: Spider-Man vs. Thor;34435;224825;2010-09-30
+Marvel Adventures Spider-Man: Amazing;38931;261470;2010-09-29
+Civil War: Avengers;35918;237421;2010-09-22
+Deadpool and Cable Ultimate Collection;31919;237408;2010-09-22
+Marvel Masterworks: The Amazing Spider-Man;23402;264613;2010-09-15
+Daredevil by Bendis and Maleev Ultimate Collection;36980;246608;2010-09-15
+Spider-Man: The Gauntlet: Lizard;35738;236460;2010-09-15
+Siege: Mighty Avengers;35592;235302;2010-09-15
+Spider-Man: Fever;35680;236006;2010-09-08
+Siege: Dark Avengers;35591;235301;2010-09-08
+X-Men: Dark Phoenix Saga;40248;270630;2010-09-01
+Ultimate X-Men: Ultimate Collection;27602;236768;2010-09-01
+Exiles Ultimate Collection;28237;235152;2010-09-01
+New Avengers: Siege;35402;233511;2010-09-01
+The Amazing Spider-Man;2127;227715;2010-09-01
+Doomwar;31608;227711;2010-09-01
+Marvel Adventures Spider-Man;32888;227374;2010-09-01
+Peter Parker;32170;227335;2010-09-01
+Heroic Age Magazine;34669;227333;2010-09-01
+Amazing Spider-Man Presents: Black Cat;33776;227102;2010-09-01
+Wolverine Weapon X;26150;226907;2010-09-01
+Amazing Spider-Man Presents: American Son;33255;226227;2010-09-01
+Web of Spider-Man;28576;226220;2010-09-01
+New Avengers;33777;225782;2010-09-01
+Age of Heroes;33241;225780;2010-09-01
+The Amazing Spider-Man;2127;225675;2010-09-01
+Avengers;33227;225674;2010-09-01
+Astonishing Spider-Man & Wolverine;32931;224649;2010-09-01
+The Amazing Spider-Man;2127;224565;2010-09-01
+X-Men Forever 2;33670;224512;2010-09-01
+Spider-Man/Fantastic Four;34260;223500;2010-09-01
+Shadowland;34243;223400;2010-09-01
+Avengers: The Children's Crusade;34241;223380;2010-09-01
+The Amazing Spider-Man;2127;223277;2010-09-01
+Spider-Woman: Agent of S.W.O.R.D.;36990;246731;2010-08-31
+Marvel Adventures Spider-Man;32888;221150;2010-08-31
+Vengeance of the Moon Knight;27914;218554;2010-08-31
+Ultimate Spider-Man: Ultimate Collection;28977;232980;2010-08-25
+Ultimate Mystery;34653;231669;2010-08-25
+Incredible Hulk;24715;219571;2010-08-21
+Avengers/Invaders;65438;418057;2010-08-17
+Ultimates 2 Ultimate Collection;35166;231976;2010-08-11
+Siege: Avengers: The Initiative;35048;231136;2010-08-11
+Spider-Man: The Gauntlet - Juggernaut;35046;231133;2010-08-04
+Fall of the Hulks: The Savage She-Hulks;34755;228231;2010-08-04
+Iron Man Magazine;32600;266224;2010-08-01
+X-Men: Inferno Crossovers;35543;234899;2010-08-01
+Amazing Spider-Man Presents: American Son;33255;222364;2010-08-01
+X-Men Forever 2;33670;222261;2010-08-01
+New Avengers: Luke Cage;32450;221958;2010-08-01
+Wolverine Weapon X;26150;220843;2010-08-01
+Ultimate Avengers;27388;220746;2010-08-01
+Peter Parker;32170;220723;2010-08-01
+Avengers;33227;220585;2010-08-01
+The Amazing Spider-Man;2127;220583;2010-08-01
+Age of Heroes;33241;219600;2010-08-01
+Web of Spider-Man;28576;219572;2010-08-01
+Amazing Spider-Man Presents: Black Cat;33776;219565;2010-08-01
+New Avengers;33777;219558;2010-08-01
+The Amazing Spider-Man;2127;219556;2010-08-01
+Ultimate Spider-Man;27381;218355;2010-08-01
+The Amazing Spider-Man MGC;33574;217927;2010-08-01
+Spectacular Spider-Girl;33063;217880;2010-08-01
+Siege: X-Men;35588;235283;2010-07-31
+Agents of Atlas: Vs.;34407;224540;2010-07-31
+Siege: Battlefield;35579;235163;2010-07-28
+Ultimate Mystery;34653;226893;2010-07-28
+The Amazing Spider-Man by JMS Ultimate Collection;35415;244430;2010-07-21
+Siege: Embedded;35026;230949;2010-07-21
+Hulk;20291;213441;2010-07-21
+Siege;35041;231116;2010-07-14
+Young Avengers Ultimate Collection;34768;228286;2010-07-14
+Silver Surfer: Rebirth of Thanos;34746;228108;2010-07-14
+Fantastic Four;6211;216200;2010-07-11
+Vengeance of Moon Knight: Shock and Awe;34479;224982;2010-07-07
+Women of Marvel: Celebrating Seven Decades;35142;231868;2010-07-01
+The Amazing Spider-Man;2127;219553;2010-07-01
+Ultimate Enemy;31298;216695;2010-07-01
+Marvel Adventures Spider-Man;32888;216556;2010-07-01
+Peter Parker;32170;216451;2010-07-01
+Wolverine Weapon X;26150;216275;2010-07-01
+The Thanos Imperative: Ignition;33348;216176;2010-07-01
+The Amazing Spider-Man Annual;2189;216118;2010-07-01
+The Amazing Spider-Man;2127;216005;2010-07-01
+Amazing Spider-Man Presents: American Son;33255;214935;2010-07-01
+Age of Heroes;33241;214896;2010-07-01
+Galacta: Daughter of Galactus;33246;214878;2010-07-01
+Avengers;33227;214810;2010-07-01
+Marvel 1602 MGC;33188;214699;2010-07-01
+X-Factor Forever;32034;213843;2010-07-01
+Web of Spider-Man;28576;213799;2010-07-01
+Wolverine;10809;213629;2010-07-01
+Ultimate Spider-Man;27381;213496;2010-07-01
+New Avengers Finale;33091;213493;2010-07-01
+Siege: Embedded;30906;213458;2010-07-01
+The Amazing Spider-Man;2127;213457;2010-07-01
+Siege;30904;213449;2010-07-01
+Many Loves Of The Amazing Spider-Man;32935;212049;2010-07-01
+Astonishing Spider-Man & Wolverine;32931;212014;2010-07-01
+The Amazing Spider-Man;2127;211974;2010-07-01
+Iron Man Magazine;32600;207310;2010-07-01
+The Amazing Spider-Man Presents: Jackpot;71264;443688;2010-06-30
+Thor By Dan Jurgens & John Romita Jr.;32067;258714;2010-06-30
+Hulk vs. X-Force;36382;240156;2010-06-30
+Amazing Spider-Man Presents: Jackpot;35185;232051;2010-06-30
+Avengers: Vision and the Scarlet Witch: A Year In the Life;35132;231809;2010-06-30
+Ghost Rider: Danny Ketch Classic;30930;227377;2010-06-30
+The Ultimates Ultimate Collection;34299;223844;2010-06-30
+Spider-Man Noir: Eyes Without A Face;34137;222750;2010-06-30
+X-Men: Curse Of The Mutants Saga;34032;221891;2010-06-30
+Hulked-Out Heroes;32593;210889;2010-06-30
+Fall of the Hulks: The Savage She-Hulks;31734;208680;2010-06-30
+Avengers vs. Atlas;31128;208663;2010-06-30
+Daredevil by Bendis and Maleev Ultimate Collection;36980;246607;2010-06-23
+Deadpool and Cable Ultimate Collection;31919;223684;2010-06-23
+Spider-Man & the Secret Wars;34180;222978;2010-06-23
+Avengers: The Contest;34101;222329;2010-06-16
+Deadpool: Monkey Business;34093;222243;2010-06-16
+Official Handbook of the Marvel Universe A to Z Update;31857;219893;2010-06-16
+Avengers: I am an Avenger II;34182;222980;2010-06-09
+Daredevil Omnibus by Ed Brubaker;30111;244342;2010-06-02
+The New Avengers;40895;275713;2010-06-01
+Avengers: The Initiative;18419;213072;2010-06-01
+Civil War MGC;32890;211684;2010-06-01
+Marvel Adventures Spider-Man;32888;211668;2010-06-01
+Peter Parker;32170;211117;2010-06-01
+Siege: Secret Warriors;32779;210241;2010-06-01
+The Amazing Spider-Man;2127;210222;2010-06-01
+The Mighty Avengers;18239;210217;2010-06-01
+New Avengers;11497;210216;2010-06-01
+New Avengers MGC;32681;208808;2010-06-01
+Ultimate Spider-Man;27381;208685;2010-06-01
+X-Factor;18109;208661;2010-06-01
+Siege: Spider-Man;32661;208654;2010-06-01
+The Amazing Spider-Man;2127;208548;2010-06-01
+Amazing Spider-Man: Origin of the Hunter;32629;207760;2010-06-01
+Ultimate Enemy;31298;207651;2010-06-01
+Amazing Spider-Man Presents: Jackpot;30919;207345;2010-06-01
+Web of Spider-Man;28576;206819;2010-06-01
+New Avengers: Luke Cage;32450;204632;2010-06-01
+Incredible Hulk: Fall of the Hulks;34944;229935;2010-05-31
+Incredible Hercules: Assault on New Olympus;34289;223755;2010-05-31
+Spider-Man: The Real Clone Saga;34091;222241;2010-05-31
+Marvel 1602: Spider-Man;33388;216448;2010-05-31
+Dark X-Men;32973;212439;2010-05-31
+Avengers vs. Atlas;31128;200995;2010-05-31
+Spider-Woman;28083;200993;2010-05-31
+Vengeance of the Moon Knight;27914;200990;2010-05-31
+Spider-Man Noir: Eyes Without A Face;30187;199168;2010-05-31
+Captain Marvel: The Death of Captain Marvel;34102;222331;2010-05-26
+The Amazing Spider-Man: The Complete Clone Saga Epic;32701;216449;2010-05-26
+Avengers: West Coast Avengers Assemble;33385;216424;2010-05-26
+Incredible Hulk;24715;201038;2010-05-21
+Spider-Man: The Gauntlet - Vulture and Morbius;33404;216551;2010-05-19
+Origins of Marvel Comics;33240;214880;2010-05-19
+Spider-Man: Grim Hunt - The Kraven Saga;32953;212305;2010-05-14
+Avengers: I am an Avenger;33019;212706;2010-05-05
+House of M: No More Mutants;33689;218835;2010-05-01
+Free Comic Book Day 2010 (Iron Man: Supernova);32954;212311;2010-05-01
+Marvel Previews;28516;207323;2010-05-01
+She-Hulk Sensational;32290;202663;2010-05-01
+The Amazing Spider-Man;2127;202575;2010-05-01
+Marvel Adventures: Spider-Man;18094;201940;2010-05-01
+Peter Parker;32170;201849;2010-05-01
+The Amazing Spider-Man;2127;201706;2010-05-01
+New Avengers;11497;201704;2010-05-01
+Avengers: The Initiative;18419;201700;2010-05-01
+Spider-Man & The Secret Wars;30318;201338;2010-05-01
+Hercules: Fall of an Avenger;32050;201041;2010-05-01
+The Amazing Spider-Man;2127;200765;2010-05-01
+Siege;30904;200744;2010-05-01
+Breaking Into Comics The Marvel Way!;31899;200191;2010-05-01
+Ultimate Spider-Man;27381;200172;2010-05-01
+Web of Spider-Man;28576;200043;2010-05-01
+The Amazing Spider-Man;2127;199902;2010-05-01
+The Amazing Spider-Man;2127;198697;2010-05-01
+Incredible Hercules;20588;197797;2010-05-01
+What If? Secret Invasion;33387;216431;2010-04-30
+Punisher: Dead End;33100;213521;2010-04-30
+New Warriors Classic;28012;212988;2010-04-30
+Ms. Marvel: Best You Can Be;33021;212731;2010-04-30
+Avengers vs. Atlas;31128;197479;2010-04-30
+Vengeance of the Moon Knight;27914;196589;2010-04-30
+Spider-Man Noir: Eyes Without A Face;30187;195408;2010-04-30
+The Romita Legacy;38660;260028;2010-04-28
+Spectacular Spider-Girl;33063;213087;2010-04-21
+Incredible Hulk;24715;197521;2010-04-21
+Spider-Man: The Gauntlet - Rhino and Mysterio;32699;209108;2010-04-14
+Exiles Ultimate Collection;28237;204863;2010-04-07

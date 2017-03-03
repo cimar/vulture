@@ -1,0 +1,247 @@
+volume_name,volume_id,issue_id,cover_date
+Thunderbolts Classic;40490;317032;2012-02-22
+Spider-Man Fights Substance Abuse;46071;317024;2012-02-22
+Quasar Classic;46070;317023;2012-02-22
+Marvel Adventures Spider-Man: Tangled Web;46069;317022;2012-02-22
+Iron Man 2.0: Asymmetry;46068;317020;2012-02-22
+Spider-Man: Spider-Island Companion;45915;316042;2012-02-15
+Fear Itself: Deadpool/Fearsome Four;45914;316041;2012-02-15
+Avengers Omnibus;45913;316038;2012-02-15
+Spider-Man: The Next Chapter;42958;315553;2012-02-08
+The Amazing Spider-Man;2127;305690;2012-02-07
+Avengers vs. X-Men Program;47463;326414;2012-02-01
+X-Men: FF;46073;317034;2012-02-01
+Ultimate Comics Spider-Man by Brian Michael Bendis;45916;316044;2012-02-01
+Fear Itself: Heroes for Hire;45591;314093;2012-02-01
+The Mighty Thor;39763;308696;2012-02-01
+Marvel Adventures Spider-Man;32888;308675;2012-02-01
+Annihilators: Earthfall;43020;308544;2012-02-01
+Fantastic Four;6211;307697;2012-02-01
+S.H.I.E.L.D.;40434;306728;2012-02-01
+Iron Man 2.0;39122;306727;2012-02-01
+New Avengers;33777;306639;2012-02-01
+Carnage U.S.A.;44526;306628;2012-02-01
+Avengers: X-Sanction;44477;306478;2012-02-01
+Venom;39301;305789;2012-02-01
+Avenging Spider-Man;43884;305691;2012-02-01
+Moon Knight;39957;305671;2012-02-01
+Deadpool Classic;21748;312120;2012-01-31
+Amazing Spider-Man: Spider-Island;45175;311298;2012-01-31
+The Amazing Spider-Man: The Complete Ben Reilly Epic;42056;311042;2012-01-31
+Shame Itself;43800;301055;2012-01-31
+FF by Jonathan Hickman;42957;313542;2012-01-25
+Avengers: Solo Avengers Classic;45527;313515;2012-01-25
+X-23: Chaos Theory;45354;312424;2012-01-18
+Marvel Point One II;45314;312160;2012-01-18
+Marvel Firsts: The 1970's;45310;312132;2012-01-18
+Fear Itself: Avengers;45116;310926;2012-01-11
+Fear Itself;44974;309600;2012-01-04
+Uncanny X-Men by Kieron Gillen;47000;366845;2012-01-01
+Fear Itself: Journey Into Mystery;45306;312121;2012-01-01
+Essential Marvel Two-In-One;23949;310920;2012-01-01
+Spider-Man: Masques;44977;309610;2012-01-01
+Avengers: The Children's Crusade;34241;308624;2012-01-01
+Marvel Adventures Spider-Man;32888;304589;2012-01-01
+Wolverine;35263;304470;2012-01-01
+Avengers Origins: Scarlet Witch & Quicksilver;44148;303673;2012-01-01
+The Mighty Thor;39763;303552;2012-01-01
+Annihilators: Earthfall;43020;303548;2012-01-01
+Fantastic Four;6211;303357;2012-01-01
+Avengers;33227;302678;2012-01-01
+The Amazing Spider-Man;2127;302650;2012-01-01
+Battle Scars;43894;301666;2012-01-01
+Fear Itself;39611;301654;2012-01-01
+Avenging Spider-Man;43884;301508;2012-01-01
+X-23;35496;301079;2012-01-01
+The Amazing Spider-Man;2127;301042;2012-01-01
+Moon Knight;39957;300975;2012-01-01
+Marvel Holiday Special;18442;443695;2011-12-31
+Hulk by John Byrne and Ron Garney;44849;308851;2011-12-31
+Siege Oversized Hardcover Edition;44756;307909;2011-12-31
+Secret Wars II;49730;341205;2011-12-28
+Secret Wars;49729;341204;2011-12-28
+The Amazing Spider-Man;2127;299744;2011-12-26
+Spider-Man: Chapter One;44770;308170;2011-12-21
+Avengers;33227;298471;2011-12-19
+Moon Knight by Bendis and Maleev;44700;307713;2011-12-14
+The Amazing Spider-Man;2127;294956;2011-12-12
+X-Statix Omnibus;44698;307711;2011-12-07
+The Amazing Spider-Man: Through the Decades;44692;307684;2011-12-07
+Hasbro/Thanos & Warlock;60890;401112;2011-12-01
+Spider-Man: With Great Power Comes Great Responsibility;53184;362499;2011-12-01
+Avengers: Saving the Day;47329;324808;2011-12-01
+Avengers: West Coast Avengers - Sins of the Past;44689;307678;2011-12-01
+Marvel Adventures Spider-Man;32888;299921;2011-12-01
+Annihilators: Earthfall;43020;299804;2011-12-01
+FF;39453;299749;2011-12-01
+Avengers Academy;33633;299745;2011-12-01
+Journey into Mystery;39761;298263;2011-12-01
+Captain America Corps;40712;297691;2011-12-01
+Invincible Iron Man;21487;297673;2011-12-01
+Fear Itself: The Home Front;39618;297580;2011-12-01
+Fear Itself;39611;297217;2011-12-01
+New Avengers;33777;295041;2011-12-01
+FF;39453;294897;2011-12-01
+X-23;35496;294198;2011-12-01
+Moon Knight;39957;294192;2011-12-01
+Spider-Man: Marvel Team-Up by Claremont & Byrne;44275;304663;2011-11-30
+Ultimate Comics Spider-Man: Death of Spider-Man Fallout;44152;303672;2011-11-30
+Thor: Heaven and Earth;44151;303671;2011-11-30
+Captain America Corps;44134;303502;2011-11-30
+The Amazing Spider-Man;2127;293619;2011-11-28
+The Amazing Spider-Man: The Origin of the Hobgoblin;23306;139983;2011-11-23
+Avengers: The Children's Crusade;34241;293355;2011-11-21
+The Amazing Spider-Man;2127;292609;2011-11-14
+Fantastic Four by John Byrne Omnibus;43976;302181;2011-11-09
+Incredible Hulks: Heart of the Monster;43901;301801;2011-11-09
+Spider-Man: With Great Power Comes Great Responsibility;53184;362498;2011-11-01
+Marvel Universe vs. Wolverine;44065;302779;2011-11-01
+Marvel Adventures Spider-Man;32888;299817;2011-11-01
+New Avengers;33777;293633;2011-11-01
+Annihilators: Earthfall;43020;293582;2011-11-01
+FF;39453;293581;2011-11-01
+Thunderbolts;18128;293452;2011-11-01
+Captain America Corps;40712;293383;2011-11-01
+Avengers;33227;293354;2011-11-01
+New Avengers;33777;292618;2011-11-01
+Fear Itself;39611;292590;2011-11-01
+New Avengers Annual;42683;291697;2011-11-01
+X-23;35496;291179;2011-11-01
+Moon Knight;39957;291146;2011-11-01
+Spider-Island: Emergence of Evil - Jackal & Hobgoblin;42547;290910;2011-11-01
+The Amazing Spider-Man: The Complete Ben Reilly Epic;42056;300963;2011-10-31
+Daken: Dark Wolverine: Big Break;43774;300930;2011-10-31
+Venom: Lethal Protector;43379;297582;2011-10-31
+Fantastic Four by Waid and Wieringo Ultimate Collection;41502;297558;2011-10-31
+The Amazing Spider-Man;2127;290665;2011-10-31
+Spider-Man: Deadly Foes of Spider-Man;43780;300936;2011-10-26
+Fear Itself: Youth in Revolt;40105;290942;2011-10-24
+Daily Bugle: Avenging Spider-Man;43536;299502;2011-10-19
+Ultimate Comics Spider-Man: Death of Spider-Man;43375;297574;2011-10-19
+Wolverine by Jason Aaron Omnibus;43268;295699;2011-10-12
+Marvel Firsts: The 1960's;43252;295213;2011-10-12
+The Amazing Spider-Man;2127;285544;2011-10-10
+Amazing Spider-Man: The Return of Anti-Venom;43148;294315;2011-10-05
+Red Hulk: Planet Red Hulk;43147;294313;2011-10-05
+Spider-Man: With Great Power Comes Great Responsibility;53184;362497;2011-10-01
+Season One Guide;43738;300756;2011-10-01
+Fear Itself: Fellowship of Fear;42738;292136;2011-10-01
+Amazing Spider-Man: Infested;42589;291101;2011-10-01
+Thor: Heaven & Earth;41511;288832;2011-10-01
+Marvel Adventures Spider-Man;32888;288773;2011-10-01
+X-Men;34221;288488;2011-10-01
+FF;39453;288455;2011-10-01
+Fear Itself: Fearsome Four;40603;287763;2011-10-01
+Avengers;33227;286934;2011-10-01
+Invincible Iron Man;21487;286911;2011-10-01
+New Avengers;33777;285550;2011-10-01
+Fear Itself;39611;285335;2011-10-01
+X-23;35496;283916;2011-10-01
+Thor: Heaven & Earth;41511;283867;2011-10-01
+Moon Knight;39957;283184;2011-10-01
+Essential Defenders;25670;293860;2011-09-28
+Captain Britain: The Siege of Camelot;43033;293648;2011-09-28
+The Amazing Spider-Man;2127;281822;2011-09-27
+Venom by Rick Remender;43031;293645;2011-09-21
+Spider-Man: The Vengeance of Venom;43029;293610;2011-09-21
+Spider-Island: Cloak & Dagger;41955;293399;2011-09-21
+Marvel Adventures Avengers: Thor/Captain America;43024;293588;2011-09-14
+Evolutionary War Omnibus;43011;293541;2011-09-14
+The Amazing Spider-Man;2127;278710;2011-09-13
+The New Avengers;40895;292544;2011-09-09
+Fantastic Four: World's Greatest Comics Magazine;42995;293493;2011-09-07
+Spider-Man: With Great Power Comes Great Responsibility;53184;362496;2011-09-01
+Ultimate Avengers vs. New Ultimates: Death of Spider-Man;43062;293867;2011-09-01
+Marvel Adventures Spider-Man;32888;290092;2011-09-01
+Venom;39301;281845;2011-09-01
+Fear Itself: The Worthy;41551;281836;2011-09-01
+Marvel Adventures Super Heroes;32628;280882;2011-09-01
+Captain America Corps;40712;280826;2011-09-01
+Fear Itself: Fearsome Four;40603;280616;2011-09-01
+Avengers;33227;280332;2011-09-01
+Hulk-Sized Mini-Hulks;41386;279785;2011-09-01
+Fear Itself: Spider-Man;39960;278718;2011-09-01
+New Avengers;33777;278714;2011-09-01
+Fear Itself;39611;277536;2011-09-01
+Ultimate Spider-Man;27381;275726;2011-09-01
+New Avengers: Nannies and Nazis;54984;373978;2011-08-31
+Spider-Girl: Family Values;42993;293491;2011-08-31
+Invincible Iron Man: Unfixable;42991;293488;2011-08-31
+Green Goblin: A Lighter Shade of Green;42990;293486;2011-08-31
+Essential Web of Spider-Man;42960;293337;2011-08-31
+New Avengers by Brian Michael Bendis;39277;292766;2011-08-31
+Amazing Spider-Man: The Fantastic Spider-Man;42582;291033;2011-08-31
+Spider-Island: Deadly Hands of Kung Fu;42513;290625;2011-08-31
+Incredible Hulks Annual;41040;276683;2011-08-31
+X-Men: To Serve and Protect;40425;272360;2011-08-31
+The Amazing Spider-Man;2127;276636;2011-08-29
+Spider-Man: The Next Chapter;42958;293335;2011-08-24
+FF by Jonathan Hickman;42957;293334;2011-08-24
+Silver Surfer: Devolution;42372;289470;2011-08-24
+Carnage: Family Feud;42370;289469;2011-08-24
+Hulk;20291;272434;2011-08-21
+Marvel Universe vs. Wolverine;41039;287075;2011-08-18
+Marvel Adventures Spider-Man: Friendly Neighborhood;42846;292765;2011-08-17
+Avengers Academy: Arcade Death Game;42845;292763;2011-08-17
+Acts of Vengeance Crossovers Omnibus;57564;387330;2011-08-10
+Spider-Man/Hulk/Deadpool: Identity Wars;42580;291030;2011-08-10
+The Amazing Spider-Man Omnibus;42441;289926;2011-08-10
+Spider-Island: Deadly Foes;42012;286181;2011-08-10
+Ultimate Fallout;41289;283008;2011-08-03
+Amazing Spider-Man/Ghost Rider: Motorstorm;54969;373925;2011-08-01
+Spider-Man: With Great Power Comes Great Responsibility;53184;362495;2011-08-01
+Mighty Avengers: Dark Reign;65597;285151;2011-08-01
+Spider-Girl;36750;277974;2011-08-01
+Marvel Adventures Spider-Man;32888;277680;2011-08-01
+Venom;39301;276657;2011-08-01
+FF;39453;276606;2011-08-01
+Fantastic Four: The Last Stand;40891;276171;2011-08-01
+X-Men: Age of X;40911;275854;2011-08-01
+Carnage;36240;275725;2011-08-01
+Silver Surfer;39031;275661;2011-08-01
+Avengers;33227;274483;2011-08-01
+Marvel Adventures Super Heroes;32628;273114;2011-08-01
+Ultimate Spider-Man;27381;273112;2011-08-01
+Fear Itself: Spider-Man;39960;273108;2011-08-01
+New Avengers;33777;273089;2011-08-01
+Heroes for Hire;37120;272432;2011-08-01
+The Amazing Spider-Man;2127;272428;2011-08-01
+Spider-Island Spotlight;64146;413350;2011-07-31
+The Amazing Spider-Man: The Complete Ben Reilly Epic;42056;286202;2011-07-31
+Spider-Man: Am I an Avenger?;41966;285576;2011-07-31
+X-Factor: Scar Tissue;41829;284404;2011-07-31
+Deadpool Annual;39973;269530;2011-07-31
+Astonishing Spider-Man and Wolverine;42577;291027;2011-07-27
+Essential Spectacular Spider-Man;25702;286201;2011-07-27
+The Amazing Spider-Man;2127;271547;2011-07-25
+Marvel Universe vs. Wolverine;41039;281154;2011-07-22
+Wolverine: Wolverine vs. the X-Men;42053;286197;2011-07-20
+Venom: Flashpoint;41982;285720;2011-07-20
+Marvel Point One;41854;284853;2011-07-20
+Ultimate Fallout;41289;280828;2011-07-20
+The Amazing Spider-Man;2127;270462;2011-07-18
+Dark Avengers;42932;293167;2011-07-13
+Spider-Man: The Death of Jean DeWolff;42927;293162;2011-07-13
+Avengers by Brian Michael Bendis;38936;290870;2011-07-13
+Black Panther: The Man Without Fear: Urban Jungle;41524;281446;2011-07-13
+The Amazing Spider-Man;2127;269832;2011-07-11
+Marvel Adventures: Captain America;41523;281445;2011-07-06
+Heroes for Hire: Control;41507;281336;2011-07-06
+Spider-Island Daily Bugle;41280;278722;2011-07-06
+Spider-Man: With Great Power Comes Great Responsibility;53184;362494;2011-07-01
+Williams-Sonoma Spider-Man & The Avengers;43177;294505;2011-07-01
+Onslaught Unleashed;41965;285569;2011-07-01
+Captain America: Hail Hydra;41506;281335;2011-07-01
+Marvel Adventures Spider-Man;32888;275019;2011-07-01
+Onslaught Unleashed;38905;272281;2011-07-01
+Marvel Adventures Super Heroes;32628;271872;2011-07-01
+Spider-Girl;36750;271744;2011-07-01
+Venom;39301;271611;2011-07-01
+FF;39453;271610;2011-07-01
+Daken: Dark Wolverine;35409;271596;2011-07-01
+Astonishing Spider-Man & Wolverine;32931;271595;2011-07-01
+Heroes for Hire;37120;270513;2011-07-01
+Avengers;33227;270491;2011-07-01
+Ultimate Spider-Man;27381;270467;2011-07-01
+Ultimate Avengers vs. New Ultimates;38900;270466;2011-07-01
+Silver Surfer;39031;270410;2011-07-01

@@ -1,0 +1,200 @@
+volume_name,volume_id,issue_id,cover_date
+Ultimate Spider-Man;7257;125977;2008-05-01
+The Amazing Spider-Man;2127;125665;2008-05-01
+The Amazing Spider-Girl;18195;125195;2008-05-01
+The Amazing Spider-Man;2127;125190;2008-05-01
+The Mighty Avengers;18239;125180;2008-05-01
+The Amazing Spider-Man;2127;124674;2008-05-01
+Daredevil: Hell to Pay;32464;204680;2008-04-30
+Incredible Hulk: Planet Hulk;31132;193372;2008-04-30
+Peter Parker, Spider-Man: Back in Black;28590;176179;2008-04-30
+X-Men vs. Apocalypse;26953;162314;2008-04-30
+Marvel Comics Presents;19164;129067;2008-04-30
+Spider-Man Family;18459;126501;2008-04-30
+Marvel Adventures Avengers: Some Assembling Required;32378;203742;2008-04-16
+Marvel Adventures Spider-Man: Fiercest Foes;32343;203560;2008-04-09
+Avengers: The Initiative: Basic Training;27828;170500;2008-04-09
+Secret Invasion: The Infiltration;33130;213822;2008-04-02
+The New Avengers;40895;275710;2008-04-01
+Marvel Adventures: Iron Man Special Edition;39859;268835;2008-04-01
+Moon Knight: Midnight Sun;28026;171946;2008-04-01
+Ultimate Spider-Man Hardcover;26105;154959;2008-04-01
+Marvel Adventures: Avengers;18100;133994;2008-04-01
+Avengers/Invaders Sketchbook;21298;128424;2008-04-01
+Marvel Adventures: Spider-Man;18094;127865;2008-04-01
+Wolverine: First Class;21049;126013;2008-04-01
+World War Hulk Aftersmash: Damage Control;20402;124233;2008-04-01
+Black Panther Annual;20713;124232;2008-04-01
+Marvel Zombies 2;19255;124225;2008-04-01
+Ultimate Spider-Man;7257;124082;2008-04-01
+Cable & Deadpool;18070;123541;2008-04-01
+Ultimate X-Men;7258;123416;2008-04-01
+The Amazing Spider-Man;2127;123372;2008-04-01
+The Amazing Spider-Girl;18195;123004;2008-04-01
+Civil War Chronicles;18899;122929;2008-04-01
+New Avengers;11497;122774;2008-04-01
+ClanDestine;20448;122417;2008-04-01
+The Mighty Avengers;18239;122068;2008-04-01
+Civil War Chronicles;18899;121581;2008-04-01
+Marvel Fanfare: Strange Tales;32702;209182;2008-03-26
+Spider-Man Family: Untold Team-Ups;33401;216548;2008-03-12
+Spider-Man: Back in Black;27863;170819;2008-03-12
+Spider-Man/Red Sonja;68844;431782;2008-03-01
+Marvel Adventures: Avengers;18100;133589;2008-03-01
+Marvel Adventures: Spider-Man;18094;127864;2008-03-01
+The Amazing Spider-Man;2127;122778;2008-03-01
+The Amazing Spider-Man;2127;122408;2008-03-01
+What If? Spider-Man Vs. Wolverine;20410;122073;2008-03-01
+World War Hulk Aftersmash: Damage Control;20402;122005;2008-03-01
+Marvel Zombies 2;19255;121948;2008-03-01
+The Amazing Spider-Man;2127;121883;2008-03-01
+The Ultimates 3;19861;121876;2008-03-01
+The Amazing Spider-Girl;18195;121661;2008-03-01
+The Amazing Spider-Man;2127;121612;2008-03-01
+Civil War Chronicles;18899;120267;2008-03-01
+Spider-Man Family;18459;126498;2008-02-29
+ClanDestine Classic;32303;202844;2008-02-27
+Fantastic Four: The End;38726;259710;2008-02-01
+Ultimate Spider-Man: Death of A Goblin;35950;237653;2008-02-01
+House of M;30367;187161;2008-02-01
+Marvel Adventures: Avengers;18100;132126;2008-02-01
+New Avengers Annual;18198;122202;2008-02-01
+Ultimate Spider-Man;7257;122064;2008-02-01
+The Amazing Spider-Man;2127;121086;2008-02-01
+Marvel Adventures: Spider-Man;18094;120840;2008-02-01
+Ultimate Spider-Man;7257;120659;2008-02-01
+Giant-Size Avengers;20232;120636;2008-02-01
+Ultimate Power;18310;120626;2008-02-01
+Marvel Zombies 2;19255;120542;2008-02-01
+Marvel Holiday Special;18442;120278;2008-02-01
+What If? Civil War;20155;120241;2008-02-01
+Spider-Man/Red Sonja;18955;120158;2008-02-01
+The Amazing Spider-Girl;18195;120156;2008-02-01
+New Avengers;11497;119888;2008-02-01
+Civil War Chronicles;18899;119688;2008-02-01
+New Avengers/Transformers;77732;468593;2008-01-31
+Beyond!;59089;394141;2008-01-31
+X-Men: Blinded By the Light;28561;175927;2008-01-31
+What If? Classic;28489;175729;2008-01-31
+Spider-Man Family;18459;118796;2008-01-31
+Young Avengers;31675;198503;2008-01-30
+Ultimate Secrets;20666;123918;2008-01-30
+Deadpool Vs. The Marvel Universe;31864;200196;2008-01-09
+Ultimates 2;26943;162206;2008-01-09
+Marvel Adventures Spider-Man: Forces of Nature;32351;203579;2008-01-02
+Secret Wars;45831;315629;2008-01-01
+Thunderbolts By Warren Ellis: Faith In Monsters;35129;231799;2008-01-01
+Marvel Adventures: Spider-Man;18094;127863;2008-01-01
+Spider-Man: The Other;21107;126735;2008-01-01
+Spider-Man: One More Day;21105;126733;2008-01-01
+The Amazing Spider-Man;2127;120557;2008-01-01
+What If? Annihilation;20151;120235;2008-01-01
+Civil War Chronicles;18899;119687;2008-01-01
+Marvel Adventures: Fantastic Four;18095;119352;2008-01-01
+World War Hulk: Aftersmash;19919;119219;2008-01-01
+Ultimate Spider-Man;7257;118748;2008-01-01
+Marvel Zombies 2;19255;118645;2008-01-01
+Marvel Adventures: Avengers;18100;118465;2008-01-01
+Punisher War Journal;18152;118022;2008-01-01
+Spider-Man/Red Sonja;18955;118020;2008-01-01
+Captain Marvel;19633;117782;2008-01-01
+New Avengers;11497;117753;2008-01-01
+World War Hulk;18686;117746;2008-01-01
+Marvel Adventures Fantastic Four: The Silver Surfer;32401;204043;2007-12-12
+Amazing Spider-Girl: Comes the Carnage!;28147;172945;2007-12-12
+Marvel Adventures Hulk: Misunderstood Monster;32406;204048;2007-12-05
+New Avengers: Revolution;27625;168868;2007-12-05
+Marvel Adventures: Avengers;18100;132047;2007-12-01
+Civil War Chronicles;18899;119681;2007-12-01
+The Sensational Spider-Man;18177;118735;2007-12-01
+Avengers: The Initiative;18419;117827;2007-12-01
+Anita Blake, Vampire Hunter: The First Death;18857;117689;2007-12-01
+Ultimate Power;18310;116459;2007-12-01
+What If? Planet Hulk;19301;115812;2007-12-01
+Ultimate Spider-Man;7257;115811;2007-12-01
+The Amazing Spider-Girl;18195;115602;2007-12-01
+Marvel Adventures Hulk;19039;115600;2007-12-01
+New Avengers/Transformers;18832;115598;2007-12-01
+Marvel Zombies 2;19255;115540;2007-12-01
+Spider-Man/Red Sonja;18955;115426;2007-12-01
+Marvel Adventures: Spider-Man;18094;115413;2007-12-01
+Marvel Legacy: The 1960s-1990s Handbook;59758;396594;2007-11-30
+Spider-Man Fairy Tales;33420;216664;2007-11-28
+Spider Girl Presents Wild Thing: Crash Course;31704;198665;2007-11-21
+Black Panther: Four the Hard Way;30150;185614;2007-11-21
+Marvel Adventures Avengers: The Dream Team;32377;203741;2007-11-14
+The New Avengers;40895;275708;2007-11-01
+Marvel Adventures: Spider-Man;18094;121526;2007-11-01
+Spider-Man 3: The Black;20334;121512;2007-11-01
+Friendly Neighborhood Spider-Man;17998;115394;2007-11-01
+Ultimate Spider-Man;7257;114981;2007-11-01
+The Irredeemable Ant-Man;18227;114892;2007-11-01
+Marvel Adventures: Avengers;18100;114888;2007-11-01
+Spider-Man/Red Sonja;18955;114729;2007-11-01
+World War Hulk;18686;114624;2007-11-01
+New Avengers/Transformers;18832;114549;2007-11-01
+The Amazing Spider-Girl;18195;114426;2007-11-01
+New Avengers;11497;114394;2007-11-01
+Incredible Hulk;6558;114203;2007-11-01
+The Amazing Spider-Man;2127;114199;2007-11-01
+Civil War Chronicles;18899;113764;2007-11-01
+Ultimate Spider-Man;7257;106521;2007-11-01
+Spider-Man Family;18459;114211;2007-10-31
+Spider-Man Fairy Tales;18653;114573;2007-10-18
+Spider-Man and the Fantastic Four: Silver Rage;33403;216550;2007-10-10
+Blade: Sins of the Father;39093;263354;2007-10-03
+Spider-Man Loves Mary Jane: Still Friends;36994;246735;2007-10-03
+Avengers: Defenders War;62148;406276;2007-10-01
+Fallen Son: The Death of Captain America;54239;369694;2007-10-01
+Ultimate Power;18310;114412;2007-10-01
+She-Hulk;18293;114283;2007-10-01
+Marvel Adventures: Avengers;18100;114153;2007-10-01
+The Last Fantastic Four Story;19085;113976;2007-10-01
+Black Panther;11502;113968;2007-10-01
+The Sensational Spider-Man;18177;113758;2007-10-01
+The Amazing Spider-Man;2127;113757;2007-10-01
+Avengers Classic;18684;113613;2007-10-01
+Daredevil;6209;113577;2007-10-01
+Ultimate Spider-Man;7257;113551;2007-10-01
+Friendly Neighborhood Spider-Man;17998;113549;2007-10-01
+The Amazing Spider-Girl;18195;113431;2007-10-01
+New Avengers/Transformers;18832;113247;2007-10-01
+Marvel Adventures: Spider-Man;18094;113135;2007-10-01
+Incredible Hulk;6558;112986;2007-10-01
+New Avengers;11497;112960;2007-10-01
+Spider-Man/Red Sonja;18955;112404;2007-10-01
+Civil War Chronicles;18899;111693;2007-10-01
+New X-Men;18078;109761;2007-10-01
+White Tiger: A Hero's Compulsion;30361;187093;2007-09-30
+Avengers: Earth's Mightiest Heroes II;29331;181313;2007-09-30
+Ultimate Spider-Man: Ultimate Knights;35949;237652;2007-09-26
+Spider-Man Fairy Tales;18653;113539;2007-09-18
+Marvel Comics Presents;19164;114655;2007-09-17
+Spider-Man Family: Back in Black;33399;216546;2007-09-05
+Marvel Previews;28516;222462;2007-09-01
+Marvel Adventures Spider-Man: Secret Identity;32373;203737;2007-09-01
+Captain America: Red, White & Blue;26426;157636;2007-09-01
+Spider-Man Loves Mary Jane;18104;113656;2007-09-01
+Friendly Neighborhood Spider-Man;17998;113624;2007-09-01
+Marvel Adventures: Spider-Man;18094;113362;2007-09-01
+Spider-Man and the Fantastic Four;18482;113227;2007-09-01
+The Sensational Spider-Man;18177;111930;2007-09-01
+Ultimate Spider-Man;7257;111719;2007-09-01
+World War Hulk;18686;111670;2007-09-01
+Avengers: The Initiative;18419;111663;2007-09-01
+The Amazing Spider-Girl;18195;111607;2007-09-01
+New Avengers;11497;111511;2007-09-01
+Marvel Zombies/Army of Darkness;18236;111498;2007-09-01
+Ultimate Power;18310;111357;2007-09-01
+New Avengers/Transformers;18832;111244;2007-09-01
+Spider-Man and the Fantastic Four;18482;110754;2007-09-01
+Spider-Man Family;18459;110316;2007-08-31
+X-Factor: Life and Death Matters;29460;181817;2007-08-29
+Spider-Man Fairy Tales;18653;111102;2007-08-18
+Ultimate Spider-Man: Hobgoblin;35943;237644;2007-08-15
+New Avengers: Civil War;27624;168856;2007-08-15
+Wonder Man: My Fair Super Hero;28586;176171;2007-08-08
+Hulk and Power Pack: Pack Smash!;35655;235710;2007-08-01
+Hulk and Power Pack;18694;141478;2007-08-01
+Civil War Companion;21977;132592;2007-08-01
+Marvel Adventures: Spider-Man;18094;127860;2007-08-01

@@ -1,0 +1,221 @@
+volume_name,volume_id,issue_id,cover_date
+Captain America Epic Collection: Society of Serpents;76582;463084;2014-08-31
+Yellow, Blue and Gray;76485;462574;2014-08-31
+Original Sin Special Edition;74652;462502;2014-08-31
+Thanos: The Infinity Revelation;76263;461741;2014-08-31
+Ultimate Spider-Man;48343;457651;2014-08-31
+Spider-Man Spectacular;75142;457650;2014-08-31
+Fantastic Four;71949;457641;2014-08-31
+The Amazing Spider-Man;73420;457637;2014-08-31
+Nova;57535;456551;2014-08-31
+Original Sins;74729;456028;2014-08-31
+Mighty Avengers;67223;456025;2014-08-31
+The Amazing Spider-Man;73420;456018;2014-08-31
+Original Sin;73241;455494;2014-08-31
+Miles Morales: Ultimate Spider-Man;73678;455491;2014-08-31
+Wolverine by Jason Aaron: The Complete Collection;69789;472433;2014-07-31
+The Amazing Spider-Man: The Complete Alien Costume Saga;76192;461312;2014-07-31
+The Superior Foes of Spider-Man: The Crime of the Century;76175;461285;2014-07-31
+Mighty Avengers: Family Bonding;76162;461272;2014-07-31
+Fantastic Four Epic Collection: Into the Time Stream;76010;460713;2014-07-31
+Amazing Spider-Man: Who Am I?;73718;460456;2014-07-31
+Amazing Spider-Man: Who Am I?;73718;460455;2014-07-31
+Amazing Spider-Man: Who Am I?;73718;460454;2014-07-31
+Amazing Spider-Man: Who Am I?;73718;460453;2014-07-31
+Marvel Universe Guardians of the Galaxy: Cosmic Team-Up;75814;459918;2014-07-31
+Original Sin Special Edition;74652;458834;2014-07-31
+Ultimate Spider-Man;48343;454108;2014-07-31
+Thanos Annual;74330;454106;2014-07-31
+Mighty Avengers;67223;454104;2014-07-31
+Giant-Size Spider-Man;74329;454099;2014-07-31
+Deadpool;53726;454095;2014-07-31
+Original Sin;73241;453417;2014-07-31
+Deadpool Annual;69572;453412;2014-07-31
+Amazing X-Men;68919;453409;2014-07-31
+The Amazing Spider-Man;73420;453408;2014-07-31
+She-Hulk;71612;452320;2014-07-31
+Original Sin;73241;452317;2014-07-31
+Miles Morales: Ultimate Spider-Man;73678;452314;2014-07-31
+Amazing Spider-Man: Who Am I?;73676;452307;2014-07-31
+The Amazing Spider-Man;73420;452306;2014-07-31
+What If? Age of Ultron;75248;457977;2014-06-30
+Superior Spider-Man: Goblin Nation;75013;456829;2014-06-30
+Galactus the Devourer;75012;456828;2014-06-30
+Wolverine and the X-Men by Jason Aaron Omnibus;74656;455826;2014-06-30
+Original Sin Special Edition;74652;455816;2014-06-30
+Original Sin Special Edition;74652;455815;2014-06-30
+The Amazing Spider-Man;73420;451764;2014-06-30
+What If? Age of Ultron;72795;451094;2014-06-30
+Superior Spider-Man Team-Up;65629;451091;2014-06-30
+Original Sin;73241;451088;2014-06-30
+Ultimate Spider-Man;48343;451087;2014-06-30
+Superior Spider-Man;55552;450554;2014-06-30
+What If? Age of Ultron;72795;450083;2014-06-30
+The Superior Foes of Spider-Man;64687;450081;2014-06-30
+All-New X-Men;53919;450068;2014-06-30
+New Warriors;71802;449598;2014-06-30
+Ultimate Comics Spider-Man;42821;449370;2014-06-01
+Marvel Universe Ultimate Spider-Man Digest;57291;454366;2014-05-31
+Marvel Knights Hulk: Transform;74205;453655;2014-05-31
+Longshot Saves the Marvel Universe;74204;453654;2014-05-31
+The Amazing Spider-Man Epic Collection: Ghosts of the Past;74202;453652;2014-05-31
+A+X: A+X = Outstanding;74201;453651;2014-05-31
+Amazing Spider-Man: Peter Parker The One And Only;74000;453120;2014-05-31
+She-Hulk by Dan Slott: The Complete Collection;71659;453115;2014-05-31
+Marvel Masterworks: Daredevil;34757;453114;2014-05-31
+X-Men: The Adamantium Collection;73769;452540;2014-05-31
+Amazing Spider-Man: Who Am I?;73718;452445;2014-05-31
+Amazing Spider-Man: Who Am I?;73718;452444;2014-05-31
+Amazing Spider-Man: Who Am I?;73718;452443;2014-05-31
+Amazing Spider-Man: Who Am I?;73718;452442;2014-05-31
+Rocket Raccoon: Free Comic Book Day;73587;452073;2014-05-31
+Guardians of the Galaxy: Free Comic Book Day;73576;452061;2014-05-31
+Superior Spider-Man;55552;448978;2014-05-31
+The Superior Foes of Spider-Man;64687;448002;2014-05-31
+Superior Spider-Man Team-Up;65629;448979;2014-05-01
+Ultimate Spider-Man;48343;448972;2014-05-01
+Marvel Knights: Spider-Man: Fight Night;75825;459962;2014-04-30
+Marvel Zombies: The Complete Collection;68371;452017;2014-04-30
+Marvel Masterworks: The Amazing Spider-Man;23402;451339;2014-04-30
+Spider-Man Newspaper Strips;73188;450782;2014-04-30
+Uncanny X-Men Omnibus;27512;450781;2014-04-30
+Marvel Universe Hulk: Agents of S.M.A.S.H.;73015;450291;2014-04-30
+Daredevil Epic Collection: Fall From Grace;73013;450289;2014-04-30
+Amazing Spider-Man Cinematic Infinite Comic;72970;450193;2014-04-30
+Amazing Spider-Man: Family Business;72837;449746;2014-04-30
+Superior Spider-Man;55552;446490;2014-04-30
+Superior Spider-Man;55552;445184;2014-04-30
+Amazing Spider-Man 2 Prelude;73011;450287;2014-04-01
+Amazing Spider-Man Firsts;72879;449848;2014-04-01
+Uncanny Avengers;52880;446492;2014-04-01
+Ultimate Spider-Man;48343;446485;2014-04-01
+The Amazing Spider-Man: The Movie Adaptation;71321;445175;2014-04-01
+Spider-Man by Roger Stern Omnibus;73334;451363;2014-03-31
+Uncanny Avengers: Ragnarok Now;72685;449289;2014-03-31
+Journey Into Mystery By Kieron Gillen;71879;446095;2014-03-31
+She-Hulk by Dan Slott: The Complete Collection;71659;445315;2014-03-31
+Superior Spider-Man;55552;443987;2014-03-31
+Superior Spider-Man;55552;442175;2014-03-31
+Fantastic Four;53921;442167;2014-03-31
+A+X;53535;441423;2014-03-31
+Longshot Saves the Marvel Universe;68922;437492;2014-03-31
+Wolverine by Jason Aaron: The Complete Collection;69789;449283;2014-03-01
+Daredevil: Dark Nights;72365;447795;2014-03-01
+X-Men: Days of Future Past;72200;447243;2014-03-01
+All-New Marvel NOW! Previews;70186;444883;2014-03-01
+The Amazing Spider-Man: The Movie Adaptation;71321;443978;2014-03-01
+Ultimate Spider-Man;48343;442925;2014-03-01
+Superior Foes of Spider-Man: Getting the Band Back Together;71998;446628;2014-02-28
+The Amazing Spider-Man;2127;435573;2014-02-28
+The Amazing Spider-Man: Behind the Scenes & Beyond the Web;71994;446624;2014-02-01
+Captain America Epic Collection: Dawn's Early Light;71799;445811;2014-02-01
+Daredevil by Mark Waid;57482;445308;2014-02-01
+Savage Wolverine: Hands On A Dead Body;71518;444762;2014-02-01
+Deadpool by Posehn And Duggan;71515;444759;2014-02-01
+Superior Spider-Man Team-Up;65629;437496;2014-02-01
+The Amazing Spider-Man;2127;437484;2014-02-01
+The Amazing Spider-Man;2127;437483;2014-02-01
+Ultimate Spider-Man;48343;436202;2014-02-01
+Cataclysm: Ultimate Spider-Man;69122;436197;2014-02-01
+The Amazing Spider-Man;2127;436191;2014-02-01
+The Amazing Spider-Man;2127;436190;2014-02-01
+Marvel Universe Hulk: Agents of S.M.A.S.H.;68124;435581;2014-02-01
+Warlock By Jim Starlin: The Complete Collection;71404;444317;2014-01-31
+X-Factor By Peter David: The Complete Collection;71227;443383;2014-01-31
+Uncanny Avengers;52880;435067;2014-01-31
+Nova;57535;435061;2014-01-31
+Marvel Universe Ultimate Spider-Man Digest;57291;443378;2014-01-01
+Superior Spider-Man: Necessary Evil;70952;442432;2014-01-01
+Ultimate Spider-Man;48343;435059;2014-01-01
+Deadpool Annual;69572;435051;2014-01-01
+Superior Spider-Man Annual;69348;433849;2014-01-01
+Deadpool by Joe Kelly Omnibus;70581;440816;2013-12-31
+Punisher Kills the Marvel Universe;70446;439290;2013-12-31
+Avengers Epic Collection: The Final Threat;69962;436501;2013-12-31
+Fantastic Four by John Byrne Omnibus;43976;435863;2013-12-31
+Superior Spider-Man;55552;431444;2013-12-31
+Deadpool Kills the Marvel Universe;70447;439292;2013-12-01
+Spider-Man: The Gathering of Five;70142;438114;2013-12-01
+Deadpool By Daniel Way: The Complete Collection;65431;436500;2013-12-01
+Wolverine by Jason Aaron: The Complete Collection;69789;435873;2013-12-01
+Nova Classic;55608;435864;2013-12-01
+Superior Carnage;65378;430762;2013-12-01
+Marvel: Now What?!;68523;430758;2013-12-01
+Ultimate Spider-Man;48343;428863;2013-12-01
+Daredevil: Dark Nights;62878;427685;2013-12-01
+Spider-Man: Mark of the Tarantula;69751;435778;2013-11-30
+Avengers: Absolute Vision;69613;435247;2013-11-30
+Hulk by Jeph Loeb;69216;433432;2013-11-30
+Marvel Firsts: The 1980's;68972;432502;2013-11-30
+Superior Spider-Man;55552;425940;2013-11-30
+The Superior Foes of Spider-Man;64687;424538;2013-11-30
+Spider-Man And Wolverine by Wells and Madureira;69750;435777;2013-11-01
+Amazing Spider-Man: Big Time - The Complete Collection;69605;435219;2013-11-01
+Morbius: The Living Vampire - The Man Called Morbius;69428;434072;2013-11-01
+Spider-Man Epic Collection: Cosmic Adventures;69427;434071;2013-11-01
+A+X: A+X = Amazing;69382;433960;2013-11-01
+Thanos: Redemption;68974;432503;2013-11-01
+Hawkeye;68971;432501;2013-11-01
+S.H.I.E.L.D. Origins;68918;432321;2013-11-01
+Ultimate Spider-Man;48343;426884;2013-11-01
+Scarlet Spider;45101;426881;2013-11-01
+Savage Wolverine;55802;425937;2013-11-01
+Daredevil: Dark Nights;62878;424530;2013-11-01
+Thor Epic Collection: War of the Pantheons;68574;430914;2013-10-31
+The Amazing Spider-Man: Life in the Mad Dog Ward;68572;430912;2013-10-31
+Marvel Zombies: The Complete Collection;68371;429005;2013-10-31
+Ultimate Spider-Man Adventures: Halloween ComicFest;72722;449374;2013-10-01
+Avengers: Prelude to Infinity;68369;429003;2013-10-01
+Fantastic Four By Hickman Omnibus;67987;427869;2013-10-01
+Secret Avengers;57180;423679;2013-10-01
+Ultimate Spider-Man;48343;421692;2013-10-01
+Iron Man Epic Collection: The Enemy Within;67506;426111;2013-09-30
+Avengers/Iron Man: First Sign;67287;425196;2013-09-30
+The Superior Foes of Spider-Man;64687;415241;2013-09-30
+Young Marvel: Little X-Men/Little Avengers Big Trouble;67790;427166;2013-09-01
+What If? AvX;67789;427165;2013-09-01
+Marvel Universe Ultimate Spider-Man Digest;57291;427158;2013-09-01
+The Inhumans: The Origin of the Inhumans;67505;426110;2013-09-01
+Superior Spider-Man;67343;425302;2013-09-01
+Iron Man By Kurt Busiek and Sean Chen Omnibus;67341;425300;2013-09-01
+Essential Avengers;23558;425193;2013-09-01
+Age Of Ultron;67079;424694;2013-09-01
+Infinity Gauntlet: Aftermath;67059;424627;2013-09-01
+What If? AVX;64688;419975;2013-09-01
+What If? AVX;64688;418995;2013-09-01
+Ultimate Spider-Man;48343;418820;2013-09-01
+What If? AVX;64688;417849;2013-09-01
+What If? AVX;64688;415244;2013-09-01
+Daredevil by Mark Waid;45530;420637;2013-08-31
+Ultimate Spider-Man;48343;413662;2013-08-31
+Savage Wolverine;55802;410321;2013-08-17
+Daredevil: End of Days;52640;408994;2013-08-15
+Age of Ultron;58436;408988;2013-08-12
+Mighty Thor Omnibus;39166;422852;2013-08-01
+Deadpool: Soul Hunter;66634;422833;2013-08-01
+Superior Spider-Man: A Troubled Mind;66609;422696;2013-08-01
+Alpha: Big Time;66370;421833;2013-08-01
+Venom: Toxin With A Vengeance!;66117;420920;2013-08-01
+Ultimate Spider-Man: Ultimate Collection;28977;420914;2013-08-01
+Age of Ultron;58436;411824;2013-08-01
+Ultimate Spider-Man;48343;404700;2013-07-31
+Marvel Now! Omnibus;64773;415611;2013-07-27
+X-Treme X-Men: You Can't Go Home Again;65717;419111;2013-07-25
+Thor: Gods, Gladiators and the Guardians of the Galaxy;65216;417239;2013-07-11
+Share Your Universe: Spider-Man;65208;417231;2013-07-10
+Share Your Universe: Ultimate Spider-Man;65205;417228;2013-07-10
+Share Your Universe: Ultimate Spider-Man Premiere;65203;417226;2013-07-10
+Essential Captain America;23934;417202;2013-07-10
+Marvel Share Your Universe Sampler;65113;417057;2013-07-09
+Infinity: Incoming!;65712;419106;2013-07-01
+Superior Spider-Man Team-Up: Superiority Complex;65197;417217;2013-07-01
+Hawkeye: Little Hits;65193;417213;2013-07-01
+Dark Avengers: Masters of Evil;64772;415610;2013-07-01
+Daredevil: End of Days;64771;415609;2013-07-01
+Dark Avengers;50701;406973;2013-07-01
+Superior Spider-Man;55552;400152;2013-07-01
+Superior Spider-Man;55552;397550;2013-06-30
+Superior Spider-Man;55552;395704;2013-06-30
+Deadpool;53726;395701;2013-06-30
+Fantastic Four By Jonathan Hickman;32296;378726;2013-06-30
+Marvel Universe: Wolverine Digest;63429;410920;2013-06-12

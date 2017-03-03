@@ -1,0 +1,978 @@
+volume_name;date;id;villain;url
+The Amazing Spider-Man: The Complete Ben Reilly Epic;2012-01-31;311042;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-ben-reilly-epi/4000-311042/
+Siege Oversized Hardcover Edition;2011-12-31;307909;Lady Octopus;http://comicvine.gamespot.com/siege-oversized-hardcover-edition-1-siege-oversize/4000-307909/
+The Amazing Spider-Man: The Complete Ben Reilly Epic;2011-07-31;286202;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-ben-reilly-epi/4000-286202/
+The Amazing Spider-Man: The Complete Clone Saga Epic;2011-01-31;260054;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-clone-saga-epi/4000-260054/
+New Avengers: Siege;2010-09-01;233511;Lady Octopus;http://comicvine.gamespot.com/new-avengers-siege-1-new-avengers-siege/4000-233511/
+New Avengers;2010-05-01;201704;Lady Octopus;http://comicvine.gamespot.com/the-new-avengers-63-untitled/4000-201704/
+Spider-Girl: The Games Villains Play;2010-03-10;205179;Lady Octopus;http://comicvine.gamespot.com/spider-girl-the-games-villains-play-1-spider-girl-/4000-205179/
+Amazing Spider-Girl: Mind Games;2008-06-11;172946;Lady Octopus;http://comicvine.gamespot.com/amazing-spider-girl-mind-games-1-amazing-spider-gi/4000-172946/
+The Amazing Spider-Girl;2008-02-01;120156;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-girl-15-dark-destiny/4000-120156/
+Marvel Legacy: The 1960s-1990s Handbook;2007-11-30;396594;Lady Octopus;http://comicvine.gamespot.com/marvel-legacy-the-1960s-1990s-handbook-1-tpb/4000-396594/
+Marvel Legacy;2007-02-14;107860;Lady Octopus;http://comicvine.gamespot.com/marvel-legacy-4-marvel-legacy-the-1990s-handbook/4000-107860/
+Secret War;2006-03-31;189760;Lady Octopus;http://comicvine.gamespot.com/secret-war-1-hctpb/4000-189760/
+Secret War;2005-05-01;106866;Lady Octopus;http://comicvine.gamespot.com/secret-war-4-secret-war-book-4/4000-106866/
+Spider-Girl;2004-10-01;117107;Lady Octopus;http://comicvine.gamespot.com/spider-girl-77-a-taste-for-treachery/4000-117107/
+Secret War;2004-10-01;106865;Lady Octopus;http://comicvine.gamespot.com/secret-war-3-secret-war-book-3/4000-106865/
+Spider-Girl;2004-09-01;117104;Lady Octopus;http://comicvine.gamespot.com/spider-girl-76-keeping-the-faith/4000-117104/
+Spider-Girl;2004-08-01;117103;Lady Octopus;http://comicvine.gamespot.com/spider-girl-75-team-spider/4000-117103/
+Spider-Girl;2004-07-01;117105;Lady Octopus;http://comicvine.gamespot.com/spider-girl-74-buried-alive/4000-117105/
+Spider-Girl;2004-06-01;117100;Lady Octopus;http://comicvine.gamespot.com/spider-girl-72-the-games-villains-play/4000-117100/
+Spider-Girl;2004-03-01;117090;Lady Octopus;http://comicvine.gamespot.com/spider-girl-69-those-who-hunt-monsters/4000-117090/
+Marvel Encyclopedia;2003-11-12;136882;Lady Octopus;http://comicvine.gamespot.com/marvel-encyclopedia-4-spider-man/4000-136882/
+The Amazing Spider-Man;1997-12-01;64465;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-429-the-price/4000-64465/
+The Amazing Spider-Man;1997-11-01;64464;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-428-a-farewell-to-arms/4000-64464/
+Spider-Man Unlimited;1997-11-01;57303;Lady Octopus;http://comicvine.gamespot.com/spider-man-unlimited-18-all-my-pasts-remembered/4000-57303/
+The Amazing Spider-Man;1997-10-01;64463;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-427-the-doctor-is-in/4000-64463/
+The Amazing Spider-Man;1997-09-01;64462;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-426-only-the-evil-return/4000-64462/
+The Amazing Spider-Man;1997-08-01;64461;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-425-the-chump-the-challenge/4000-64461/
+The Spectacular Spider-Man;1996-03-01;65627;Lady Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-232-a-show-of-force-of-/4000-65627/
+The Amazing Scarlet Spider;1995-11-01;78466;Lady Octopus;http://comicvine.gamespot.com/the-amazing-scarlet-spider-1-virtual-mortality-par/4000-78466/
+The Spectacular Spider-Man;1995-10-31;65624;Lady Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-229-the-greatest-respon/4000-65624/
+Spider-Man;1995-10-31;64642;Lady Octopus;http://comicvine.gamespot.com/spider-man-63-the-greatest-responsibility-part-2-o/4000-64642/
+The Amazing Spider-Man;1995-10-31;64444;Lady Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-406-the-greatest-responsibi/4000-64444/
+The Clone Conspiracy;2017-03-31;576619;Doctor Octopus;http://comicvine.gamespot.com/the-clone-conspiracy-4/4000-576619/
+The Clone Conspiracy;2017-02-28;563719;Doctor Octopus;http://comicvine.gamespot.com/the-clone-conspiracy-3/4000-563719/
+Amazing Spider-Man: Worldwide;2017-01-31;575857;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-worldwide-4-volume-4/4000-575857/
+Marvel Universe Ultimate Spider-Man Vs. The Sinister Six;2017-01-31;574869;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-vs-the-siniste/4000-574869/
+The Clone Conspiracy;2017-01-31;557361;Doctor Octopus;http://comicvine.gamespot.com/the-clone-conspiracy-2/4000-557361/
+Spidey;2017-01-31;556480;Doctor Octopus;http://comicvine.gamespot.com/spidey-12-spidey-no-more/4000-556480/
+Marvel Universe Ultimate Spider-Man Vs. The Sinister Six;2016-12-31;555530;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-vs-the-siniste/4000-555530/
+The Amazing Spider-Man;2016-12-31;553945;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-20-spider-mans-superior/4000-553945/
+The Clone Conspiracy;2016-12-31;553001;Doctor Octopus;http://comicvine.gamespot.com/the-clone-conspiracy-1-dead-no-more-part-one-the-l/4000-553001/
+Spidey;2016-12-31;552170;Doctor Octopus;http://comicvine.gamespot.com/spidey-11-missing-out/4000-552170/
+Deadpool Annual;2016-11-30;551302;Doctor Octopus;http://comicvine.gamespot.com/deadpool-annual-1-deadpool-and-his-insufferable-pa/4000-551302/
+Marvel Universe Ultimate Spider-Man Vs. The Sinister Six;2016-11-30;550364;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-vs-the-siniste/4000-550364/
+The Amazing Spider-Man;2016-11-30;550344;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-18-before-dead-no-more-part/4000-550344/
+Marvel Universe Ultimate Spider-Man Vs. The Sinister Six;2016-10-31;546060;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-vs-the-siniste/4000-546060/
+Web Warriors;2016-10-31;544999;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-10-tangled-states-part-four-monarchy/4000-544999/
+Spidey;2016-10-31;542630;Doctor Octopus;http://comicvine.gamespot.com/spidey-9-to-catch-a-spider/4000-542630/
+Marvel Universe Ultimate Spider-Man Vs. The Sinister Six;2016-09-30;541210;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-vs-the-siniste/4000-541210/
+Web Warriors;2016-09-30;539260;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-9-tangled-states-part-three-brave-new/4000-539260/
+Old Man Logan;2016-09-30;539248;Doctor Octopus;http://comicvine.gamespot.com/old-man-logan-8/4000-539248/
+Spidey: First Day;2016-08-31;543758;Doctor Octopus;http://comicvine.gamespot.com/spidey-first-day-1-volume-1/4000-543758/
+Web Warriors;2016-08-31;537253;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-8-tangled-states-part-two-technocracy/4000-537253/
+Marvel Universe Ultimate Spider-Man: Contest of Champions;2016-08-31;537236;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-contest-of-cha/4000-537236/
+Web Warriors;2016-07-31;529669;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-7-tangled-states-part-one-anarchy/4000-529669/
+Spidey: All-New Marvel Treasury Edition;2016-06-30;535364;Doctor Octopus;http://comicvine.gamespot.com/spidey-all-new-marvel-treasury-edition-1-volume-1/4000-535364/
+Deadpool Classic;2016-06-30;534286;Doctor Octopus;http://comicvine.gamespot.com/deadpool-classic-16-volume-16-killogy/4000-534286/
+Marvel Universe Ultimate Spider-Man: Contest of Champions;2016-06-30;527146;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-contest-of-cha/4000-527146/
+Web Warriors;2016-06-30;525042;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-6-nobody-knows-nothing/4000-525042/
+Web Warriors of The Spider-Verse: Electroverse;2016-05-31;529670;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-of-the-spider-verse-electroverse-1-vo/4000-529670/
+Spider-Man/Deadpool: Don't Call It A Team-Up;2016-05-31;529663;Doctor Octopus;http://comicvine.gamespot.com/spider-mandeadpool-dont-call-it-a-team-up-1-volume/4000-529663/
+All-New, All-Different Marvel Universe;2016-05-31;522422;Doctor Octopus;http://comicvine.gamespot.com/all-new-all-different-marvel-universe-1/4000-522422/
+Marvel Universe Ultimate Spider-Man: Spider-Verse;2016-04-30;525030;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-spider-verse-1/4000-525030/
+The Amazing Spider-Man;2016-04-30;523246;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-2-volume-2/4000-523246/
+Web Warriors;2016-04-30;516097;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-4-electroverse-part-iv-resistance/4000-516097/
+Marvel Universe Ultimate Spider-Man Spider-Verse;2016-03-31;512430;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-spider-verse-3/4000-512430/
+Web Warriors;2016-03-31;510958;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-3-electroverse-part-iii-capacity/4000-510958/
+The Amazing Spider-Man Epic Collection: Return of the Sinister Six;2016-02-29;514432;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-epic-collection-return-of-t/4000-514432/
+Web Warriors;2016-02-29;508443;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-2-electroverse-part-ii-charge/4000-508443/
+Marvel Universe Ultimate Spider-Man and Avengers;2016-01-31;510501;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-and-avengers-1/4000-510501/
+Secret Wars, Too;2016-01-31;506180;Doctor Octopus;http://comicvine.gamespot.com/secret-wars-too-1/4000-506180/
+Web Warriors;2016-01-31;505531;Doctor Octopus;http://comicvine.gamespot.com/web-warriors-1-electroverse-part-one-static-steamp/4000-505531/
+What If? Infinity - Guardians of the Galaxy;2015-12-31;503568;Doctor Octopus;http://comicvine.gamespot.com/what-if-infinity-guardians-of-the-galaxy-1-tried-t/4000-503568/
+Giant Size Little Marvel: AvX;2015-11-30;499743;Doctor Octopus;http://comicvine.gamespot.com/giant-size-little-marvel-avx-4/4000-499743/
+Amazing Spider-Man: Renew Your Vows;2015-10-31;496873;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-renew-your-vows-3-calling-a-fam/4000-496873/
+Spider-Verse;2015-09-30;494330;Doctor Octopus;http://comicvine.gamespot.com/spider-verse-3/4000-494330/
+Amazing Spider-Man: Renew Your Vows;2015-09-30;494316;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-renew-your-vows-2-part-2-becaus/4000-494316/
+Giant Size Little Marvel: AvX;2015-09-30;493791;Doctor Octopus;http://comicvine.gamespot.com/giant-size-little-marvel-avx-2/4000-493791/
+The Amazing Spider-Man;2015-09-30;493788;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-191-spiral-part-four/4000-493788/
+Spider-Verse;2015-08-31;491530;Doctor Octopus;http://comicvine.gamespot.com/spider-verse-2/4000-491530/
+Giant Size Little Marvel: AvX;2015-08-31;490881;Doctor Octopus;http://comicvine.gamespot.com/giant-size-little-marvel-avx-1/4000-490881/
+The Amazing Spider-Man: Spider-Verse;2015-07-31;494943;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-spider-verse-1-volume-3/4000-494943/
+Deadpool's Secret Secret Wars;2015-07-31;489316;Doctor Octopus;http://comicvine.gamespot.com/deadpool-s-secret-secret-wars-1/4000-489316/
+House of Hem;2015-06-30;490884;Doctor Octopus;http://comicvine.gamespot.com/house-of-hem-1/4000-490884/
+Deadpool;2015-06-30;485511;Doctor Octopus;http://comicvine.gamespot.com/deadpool-45-the-aristocrats-shiklahs-catching-up-t/4000-485511/
+The Amazing Spider-Man Special;2015-05-31;482151;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-special-1-inhuman-error-par/4000-482151/
+Spider-Verse;2015-04-30;487443;Doctor Octopus;http://comicvine.gamespot.com/spider-verse-1-hc/4000-487443/
+Amazing Spider-Man: Edge of Spider-Verse;2015-04-30;487416;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-edge-of-spider-verse-1-tpb/4000-487416/
+The Amazing Spider-Man;2015-04-30;480668;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-15-spider-verse-epilogue/4000-480668/
+Spider-Woman;2015-04-30;479263;Doctor Octopus;http://comicvine.gamespot.com/spider-woman-4/4000-479263/
+The Amazing Spider-Man;2015-04-30;479254;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-14-spider-verse-part-six-we/4000-479254/
+Superior Spider-Man;2015-03-31;482903;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-3-volume-3/4000-482903/
+Spider-Man 2099;2015-03-31;477854;Doctor Octopus;http://comicvine.gamespot.com/spider-man-2099-8/4000-477854/
+Scarlet Spiders;2015-03-31;476793;Doctor Octopus;http://comicvine.gamespot.com/scarlet-spiders-3-the-hero/4000-476793/
+The Amazing Spider-Man;2015-03-31;476779;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-13-spider-verse-part-5-spid/4000-476779/
+The Amazing Spider-Man;2015-03-31;475450;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-12-spider-verse-part-four-a/4000-475450/
+Uncanny Avengers Omnibus;2015-02-28;478762;Doctor Octopus;http://comicvine.gamespot.com/uncanny-avengers-omnibus-1-hc/4000-478762/
+Fantastic Four By Matt Fraction Omnibus;2015-02-28;478755;Doctor Octopus;http://comicvine.gamespot.com/fantastic-four-by-matt-fraction-omnibus-1-hc/4000-478755/
+The Amazing Spider-Man;2015-02-01;472897;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-11-spider-verse-part-3-high/4000-472897/
+Amazing Spider-Man: Big Time - The Complete Collection;2015-01-31;478064;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-big-time-the-complete-collectio/4000-478064/
+Ultimate Spider-Man: Ultimate Collection;2015-01-31;477114;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-ultimate-collection-5-volume-f/4000-477114/
+The Amazing Spider-Man: Spider-Verse Prelude;2015-01-31;475651;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-spider-verse-prelude-1-volu/4000-475651/
+Avengers;2015-01-31;470417;Doctor Octopus;http://comicvine.gamespot.com/avengers-38-origin-sites/4000-470417/
+The Amazing Spider-Man;2015-01-31;470416;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-10-spider-verse-part-2-supe/4000-470416/
+Spider-Verse;2015-01-31;469842;Doctor Octopus;http://comicvine.gamespot.com/spider-verse-1-enter-the-spider-verse-spider-clan-/4000-469842/
+Ultimate Spider-Man;2014-12-31;468915;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-31-the-iron-octopus/4000-468915/
+The Amazing Spider-Man;2014-11-30;466322;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-1-5-learning-to-crawl-part-/4000-466322/
+Superior Spider-Man;2014-11-30;465850;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-33-edge-of-spider-verse-prolog/4000-465850/
+All-New X-Men;2014-11-30;465836;Doctor Octopus;http://comicvine.gamespot.com/all-new-x-men-32/4000-465836/
+Edge of Spider-Verse;2014-11-30;464979;Doctor Octopus;http://comicvine.gamespot.com/edge-of-spider-verse-1-spider-man-noir/4000-464979/
+Marvel Super Heroes: Secret Wars #1 - Halloween ComicFest;2014-10-31;469072;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-1-halloween-comicf/4000-469072/
+The Amazing Spider-Man: The Parker Luck;2014-10-31;468279;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-the-parker-luck-1-volume-1/4000-468279/
+Ultimate FF: Strangest Ever;2014-10-31;467951;Doctor Octopus;http://comicvine.gamespot.com/ultimate-ff-strangest-ever-1-tpb/4000-467951/
+Ultimate FF;2014-10-31;462259;Doctor Octopus;http://comicvine.gamespot.com/ultimate-ff-6/4000-462259/
+Superior Spider-Man;2014-10-31;461740;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-32-edge-of-spider-verse-prolog/4000-461740/
+The Amazing Spider-Man Epic Collection: Great Power;2014-09-30;466509;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-epic-collection-great-power/4000-466509/
+Yellow, Blue and Gray;2014-08-31;462574;Doctor Octopus;http://comicvine.gamespot.com/yellow-blue-and-gray-1-hc/4000-462574/
+Spider-Man Spectacular;2014-08-31;457650;Doctor Octopus;http://comicvine.gamespot.com/spider-man-spectacular-1-the-green-goblin-kraven-t/4000-457650/
+The Superior Foes of Spider-Man: The Crime of the Century;2014-07-31;461285;Doctor Octopus;http://comicvine.gamespot.com/the-superior-foes-of-spider-man-the-crime-of-the-c/4000-461285/
+Giant-Size Spider-Man;2014-07-31;454099;Doctor Octopus;http://comicvine.gamespot.com/giant-size-spider-man-1-behind-the-mask-the-vultur/4000-454099/
+Superior Spider-Man: Goblin Nation;2014-06-30;456829;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-goblin-nation-1-volume-6/4000-456829/
+The Amazing Spider-Man;2014-06-30;451764;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-1-lucky-to-be-alive-recaptu/4000-451764/
+Superior Spider-Man Team-Up;2014-06-30;451091;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-team-up-12/4000-451091/
+Original Sin;2014-06-30;451088;Doctor Octopus;http://comicvine.gamespot.com/original-sin-0-who-is-the-watcher/4000-451088/
+Superior Spider-Man;2014-06-30;450554;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-31-goblin-nation-conclusion/4000-450554/
+The Superior Foes of Spider-Man;2014-06-30;450081;Doctor Octopus;http://comicvine.gamespot.com/the-superior-foes-of-spider-man-11-a-grizzly-situa/4000-450081/
+A+X: A+X = Outstanding;2014-05-31;453651;Doctor Octopus;http://comicvine.gamespot.com/a-x-a-x-outstanding-1-volume-3/4000-453651/
+Superior Spider-Man;2014-05-31;448978;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-30-goblin-nation-part-4-of-5/4000-448978/
+The Superior Foes of Spider-Man;2014-05-31;448002;Doctor Octopus;http://comicvine.gamespot.com/the-superior-foes-of-spider-man-10-filling-in-driv/4000-448002/
+Superior Spider-Man Team-Up;2014-05-01;448979;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-team-up-11/4000-448979/
+Marvel Masterworks: The Amazing Spider-Man;2014-04-30;451339;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-16-volum/4000-451339/
+Superior Spider-Man;2014-04-30;446490;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-28-goblin-nation-part-2/4000-446490/
+Superior Spider-Man;2014-04-30;445184;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-27-now-goblin-nation-part-one/4000-445184/
+Uncanny Avengers: Ragnarok Now;2014-03-31;449289;Doctor Octopus;http://comicvine.gamespot.com/uncanny-avengers-ragnarok-now-1-volume-3/4000-449289/
+She-Hulk by Dan Slott: The Complete Collection;2014-03-31;445315;Doctor Octopus;http://comicvine.gamespot.com/she-hulk-by-dan-slott-the-complete-collection-1-tp/4000-445315/
+Superior Spider-Man;2014-03-31;443987;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-26-the-goblin-war/4000-443987/
+Superior Spider-Man;2014-03-31;442175;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-25-darkest-hours-part-4-of-4-b/4000-442175/
+Fantastic Four;2014-03-31;442167;Doctor Octopus;http://comicvine.gamespot.com/fantastic-four-16-the-fantastic-four-are-doomed-pa/4000-442167/
+Deadpool by Posehn And Duggan;2014-02-01;444759;Doctor Octopus;http://comicvine.gamespot.com/deadpool-by-posehn-and-duggan-1-volume-1/4000-444759/
+Superior Spider-Man Team-Up;2014-02-01;437496;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-team-up-8-failure-to-reform/4000-437496/
+Nova;2014-01-31;435061;Doctor Octopus;http://comicvine.gamespot.com/nova-10-chapter-ten-land-and-launch-adventure-time/4000-435061/
+Marvel Universe Ultimate Spider-Man Digest;2014-01-01;443378;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-ultimate-spider-man-digest-5-volum/4000-443378/
+Superior Spider-Man: Necessary Evil;2014-01-01;442432;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-necessary-evil-1-volume-4/4000-442432/
+Ultimate Spider-Man;2014-01-01;435059;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-20-me-time/4000-435059/
+Superior Spider-Man Annual;2014-01-01;433849;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-annual-1-hostage-crisis/4000-433849/
+Fantastic Four by John Byrne Omnibus;2013-12-31;435863;Doctor Octopus;http://comicvine.gamespot.com/fantastic-four-by-john-byrne-omnibus-2-volume-2/4000-435863/
+Superior Spider-Man;2013-12-31;431444;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-20-spidey-still-standing/4000-431444/
+Superior Carnage;2013-12-01;430762;Doctor Octopus;http://comicvine.gamespot.com/superior-carnage-4/4000-430762/
+Marvel: Now What?!;2013-12-01;430758;Doctor Octopus;http://comicvine.gamespot.com/marvel-now-what-1-now-what-marvelpocalypse-now-the/4000-430758/
+Spider-Man: Mark of the Tarantula;2013-11-30;435778;Doctor Octopus;http://comicvine.gamespot.com/spider-man-mark-of-the-tarantula-1-tpb/4000-435778/
+Superior Spider-Man;2013-11-30;425940;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-18-smack-to-the-future/4000-425940/
+Amazing Spider-Man: Big Time - The Complete Collection;2013-11-01;435219;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-big-time-the-complete-collectio/4000-435219/
+Morbius: The Living Vampire - The Man Called Morbius;2013-11-01;434072;Doctor Octopus;http://comicvine.gamespot.com/morbius-the-living-vampire-the-man-called-morbius-/4000-434072/
+A+X: A+X = Amazing;2013-11-01;433960;Doctor Octopus;http://comicvine.gamespot.com/a-x-a-x-amazing-1-volume-2/4000-433960/
+S.H.I.E.L.D. Origins;2013-11-01;432321;Doctor Octopus;http://comicvine.gamespot.com/agents-of-s-h-i-e-l-d-1-tpb/4000-432321/
+Marvel Zombies: The Complete Collection;2013-10-31;429005;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-the-complete-collection-1-vol-1/4000-429005/
+Avengers: Prelude to Infinity;2013-10-01;429003;Doctor Octopus;http://comicvine.gamespot.com/avengers-prelude-to-infinity-1-volume-3/4000-429003/
+Superior Spider-Man;2013-09-01;425302;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-1-volume-1/4000-425302/
+Age Of Ultron;2013-09-01;424694;Doctor Octopus;http://comicvine.gamespot.com/age-of-ultron-1-hc/4000-424694/
+Daredevil by Mark Waid;2013-08-31;420637;Doctor Octopus;http://comicvine.gamespot.com/daredevil-by-mark-waid-5-volume-five/4000-420637/
+Deadpool: Soul Hunter;2013-08-01;422833;Doctor Octopus;http://comicvine.gamespot.com/deadpool-soul-hunter-1-volume-2/4000-422833/
+Superior Spider-Man: A Troubled Mind;2013-08-01;422696;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-a-troubled-mind-1-volume-2/4000-422696/
+Ultimate Spider-Man;2013-07-31;404700;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-14-why-i-hate-gym/4000-404700/
+Marvel Now! Omnibus;2013-07-27;415611;Doctor Octopus;http://comicvine.gamespot.com/marvel-now-omnibus-1-hc/4000-415611/
+Superior Spider-Man Team-Up: Superiority Complex;2013-07-01;417217;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-superiority-complex-1-volume-3/4000-417217/
+Superior Spider-Man;2013-07-01;400152;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-9-troubled-mind-part-three-gra/4000-400152/
+Superior Spider-Man;2013-06-30;397550;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-8-troubled-mind-part-two-proof/4000-397550/
+Superior Spider-Man;2013-06-30;395704;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-7-troubled-mind-part-one-right/4000-395704/
+Avenging Spider-Man;2013-06-01;396425;Doctor Octopus;http://comicvine.gamespot.com/avenging-spider-man-19-bad-dreams/4000-396425/
+New Warriors Omnibus;2013-05-31;402289;Doctor Octopus;http://comicvine.gamespot.com/the-new-warriors-omnibus-1-volume-1/4000-402289/
+Superior Spider-Man;2013-05-31;394712;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-6-joking-hazard/4000-394712/
+Superior Spider-Man;2013-05-31;390453;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-5-emotional-triggers/4000-390453/
+Journey Into Mystery: Stronger Than Monsters;2013-05-21;404920;Doctor Octopus;http://comicvine.gamespot.com/journey-into-mystery-stronger-than-monsters-1-volu/4000-404920/
+Marvel Noir: Spider-Man/Punisher;2013-05-10;407173;Doctor Octopus;http://comicvine.gamespot.com/marvel-noir-spider-man-punisher-1-tpb/4000-407173/
+Superior Spider-Man: My Own Worst Enemy;2013-05-01;407177;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-my-own-worst-enemy-1-volume-1/4000-407177/
+Superior Spider-Man;2013-04-30;387262;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-4-the-aggressive-approach/4000-387262/
+Superior Spider-Man;2013-04-26;384964;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-3-everything-you-know-is-wrong/4000-384964/
+The Amazing Spider-Man: Dying Wish;2013-03-31;391252;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-dying-wish-1-hc-tpb/4000-391252/
+Superior Spider-Man;2013-03-01;382809;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-2-the-peter-principle/4000-382809/
+Deadpool Killustrated;2013-03-01;381413;Doctor Octopus;http://comicvine.gamespot.com/deadpool-killustrated-1-deadpool-killed-the-marvel/4000-381413/
+Superior Spider-Man;2013-03-01;378868;Doctor Octopus;http://comicvine.gamespot.com/superior-spider-man-1-hero-or-menace/4000-378868/
+Avenging Spider-Man;2013-02-01;374689;Doctor Octopus;http://comicvine.gamespot.com/avenging-spider-man-15-1/4000-374689/
+The Amazing Spider-Man;2013-02-01;373805;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-700-dying-wish-suicide-run-/4000-373805/
+The Amazing Spider-Man;2013-02-01;372452;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-699-1-enter-morbius-the-liv/4000-372452/
+The Amazing Spider-Man;2013-02-01;371256;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-699-dying-wish-outside-the-/4000-371256/
+The Amazing Spider-Man;2013-01-01;369103;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-698-dying-wish-prelude-day-/4000-369103/
+Amazing Spider-Man: Trouble on the Horizon;2012-12-19;345209;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-trouble-on-the-horizon-1-amazin/4000-345209/
+The Amazing Spider-Man;2012-12-01;360039;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-695-danger-zone-part-one-wa/4000-360039/
+Spider-Men;2012-11-14;368293;Doctor Octopus;http://comicvine.gamespot.com/spider-men-1-hc/4000-368293/
+Spider-Men;2012-11-01;357711;Doctor Octopus;http://comicvine.gamespot.com/spider-men-5/4000-357711/
+The Amazing Spider-Man;2012-10-15;351057;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-691-no-turning-back-part-4-/4000-351057/
+Ultimate Spider-Man Infinite Comic;2012-10-12;441301;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-infinite-comic-1-final-exam/4000-441301/
+Deadpool Kills the Marvel Universe;2012-10-01;418286;Doctor Octopus;http://comicvine.gamespot.com/deadpool-kills-the-marvel-universe-1-tpb/4000-418286/
+Marvel Zomnibus;2012-10-01;388148;Doctor Octopus;http://comicvine.gamespot.com/marvel-zomnibus-1-hc/4000-388148/
+Age of Apocalypse: The X-Terminated;2012-10-01;373091;Doctor Octopus;http://comicvine.gamespot.com/age-of-apocalypse-the-x-terminated-1-tpb/4000-373091/
+The Amazing Spider-Man: Lizard - No Turning Back;2012-09-26;370885;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-lizard-no-turning-back-1-tp/4000-370885/
+Spider-Man: Revenge of the Sinister Six;2012-09-01;450021;Doctor Octopus;http://comicvine.gamespot.com/spider-man-revenge-of-the-sinister-six-1-hc/4000-450021/
+Essential Warlock;2012-08-15;352254;Doctor Octopus;http://comicvine.gamespot.com/essential-warlock-1-volume-1/4000-352254/
+The Amazing Spider-Man;2012-08-13;340254;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-687-ends-of-the-earth-part-/4000-340254/
+Avenging Spider-Man;2012-08-01;341809;Doctor Octopus;http://comicvine.gamespot.com/avenging-spider-man-8-ends-of-the-earth-epilogue/4000-341809/
+The Amazing Spider-Man;2012-07-31;336589;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-686-ends-of-the-earth-part-/4000-336589/
+The Amazing Spider-Man;2012-07-31;334214;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-685-ends-of-the-earth-part-/4000-334214/
+Spider-Man: Ends of the Earth;2012-07-18;347600;Doctor Octopus;http://comicvine.gamespot.com/spider-man-ends-of-the-earth-1-hc-tpb/4000-347600/
+Spider-Man: Return of the Burglar;2012-07-04;345543;Doctor Octopus;http://comicvine.gamespot.com/spider-man-return-of-the-burglar-1-spider-man-retu/4000-345543/
+Amazing Spider-Man: Ends of the Earth;2012-07-01;335956;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-ends-of-the-earth-1/4000-335956/
+Essential Amazing Spider-Man;2012-06-30;342225;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-11-volume-11/4000-342225/
+Cloak and Dagger: Crime and Punishment;2012-06-30;341954;Doctor Octopus;http://comicvine.gamespot.com/cloak-and-dagger-crime-and-punishment-1-hc/4000-341954/
+The Amazing Spider-Man;2012-06-18;331858;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-684-ends-of-the-earth-part-/4000-331858/
+Ultimate Spider-Man Omnibus;2012-06-13;342230;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-omnibus-1-volume-one/4000-342230/
+Amazing Spider-Man: The Graphic Novels;2012-06-13;342227;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-the-graphic-novels-1-amazing-sp/4000-342227/
+Amazing Spider-Man: Big Time Ultimate Collection;2012-06-06;341653;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-big-time-ultimate-collection-1-/4000-341653/
+The Amazing Spider-Man;2012-06-04;326838;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-683-ends-of-the-earth-part-/4000-326838/
+Ultimate Comics Spider-Man by Brian Michael Bendis;2012-06-01;342229;Doctor Octopus;http://comicvine.gamespot.com/ultimate-comics-spider-man-by-brian-michael-bendis/4000-342229/
+The Amazing Spider-Man;2012-05-31;322746;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-682-ends-of-the-earth-part-/4000-322746/
+Venom: Circle of Four;2012-05-23;341557;Doctor Octopus;http://comicvine.gamespot.com/venom-circle-of-four-1-venom-circle-of-four/4000-341557/
+The Amazing Spider-Man;2012-05-07;319360;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-681-the-galaxys-greatest-su/4000-319360/
+Amazing Spider-Man: Secret Origins;2012-05-02;341303;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-secret-origins-1-amazing-spider/4000-341303/
+Ultimate Spider-Man Premiere Comic;2012-05-01;331874;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-premiere-comic-1/4000-331874/
+The Amazing Spider-Man;2012-04-29;317747;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-680-the-galaxys-greatest-su/4000-317747/
+Amazing Spider-Man: Flying Blind;2012-04-25;336420;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-flying-blind-1-amazing-spider-m/4000-336420/
+Amazing Spider-Man Omnibus;2012-04-18;336183;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-omnibus-2-volume-two/4000-336183/
+Untold Tales of Spider-Man Omnibus;2012-04-18;332760;Doctor Octopus;http://comicvine.gamespot.com/untold-tales-of-spider-man-omnibus-1-untold-tales-/4000-332760/
+Amazing Spider-Man: Parallel Lives;2012-04-01;339939;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-parallel-lives-1/4000-339939/
+Ultimate Comics Spider-Man;2012-04-01;316798;Doctor Octopus;http://comicvine.gamespot.com/ultimate-comics-spider-man-7-meet-the-new-spider-m/4000-316798/
+Venom;2012-04-01;316684;Doctor Octopus;http://comicvine.gamespot.com/venom-13-3-circle-of-four-part-4/4000-316684/
+Spider-Man & the New Warriors: The Hero Killers;2012-03-27;321790;Doctor Octopus;http://comicvine.gamespot.com/spider-man-and-the-new-warriors-the-hero-killers-1/4000-321790/
+Fear Itself: Avengers Academy;2012-03-07;321572;Doctor Octopus;http://comicvine.gamespot.com/fear-itself-avengers-academy-1-hc-tpb/4000-321572/
+Spider-Man Fights Substance Abuse;2012-02-22;317024;Doctor Octopus;http://comicvine.gamespot.com/spider-man-fights-substance-abuse-1-spider-man-fig/4000-317024/
+Marvel Adventures Spider-Man: Tangled Web;2012-02-22;317022;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-tangled-web-1-marvel-/4000-317022/
+Spider-Man: The Next Chapter;2012-02-08;315553;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-next-chapter-2-volume-two/4000-315553/
+Shame Itself;2012-01-31;301055;Doctor Octopus;http://comicvine.gamespot.com/shame-itself-1-chapter-43-the-agenda-objective-dom/4000-301055/
+Secret Wars II;2011-12-28;341205;Doctor Octopus;http://comicvine.gamespot.com/secret-wars-ii-1-tpb/4000-341205/
+Secret Wars;2011-12-28;341204;Doctor Octopus;http://comicvine.gamespot.com/secret-wars-1-tpb/4000-341204/
+Spider-Man: Chapter One;2011-12-21;308170;Doctor Octopus;http://comicvine.gamespot.com/spider-man-chapter-one-1-tpb/4000-308170/
+Avengers Academy;2011-12-01;299745;Doctor Octopus;http://comicvine.gamespot.com/avengers-academy-20-endings/4000-299745/
+Captain America Corps;2011-11-30;303502;Doctor Octopus;http://comicvine.gamespot.com/captain-america-corps-1-tpb/4000-303502/
+Fantastic Four by John Byrne Omnibus;2011-11-09;302181;Doctor Octopus;http://comicvine.gamespot.com/fantastic-four-by-john-byrne-omnibus-1-volume-one/4000-302181/
+Marvel Universe vs. Wolverine;2011-11-01;302779;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-vs-wolverine-1-hc-tpb/4000-302779/
+Captain America Corps;2011-11-01;293383;Doctor Octopus;http://comicvine.gamespot.com/captain-america-corps-4-assault-on-valhalla/4000-293383/
+Spider-Island: Emergence of Evil - Jackal & Hobgoblin;2011-11-01;290910;Doctor Octopus;http://comicvine.gamespot.com/spider-island-emergence-of-evil-jackal-hobgoblin-1/4000-290910/
+Spider-Man: Deadly Foes of Spider-Man;2011-10-26;300936;Doctor Octopus;http://comicvine.gamespot.com/spider-man-deadly-foes-of-spider-man-1-spider-man-/4000-300936/
+Ultimate Comics Spider-Man: Death of Spider-Man;2011-10-19;297574;Doctor Octopus;http://comicvine.gamespot.com/ultimate-comics-spider-man-death-of-spider-man-1-u/4000-297574/
+Amazing Spider-Man: The Return of Anti-Venom;2011-10-05;294315;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-the-return-of-anti-venom-1-amaz/4000-294315/
+Marvel Adventures Spider-Man;2011-10-01;288773;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-17-six-to-one-shot-bi/4000-288773/
+Spider-Man: The Vengeance of Venom;2011-09-21;293610;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-vengeance-of-venom-1-spider-man-the/4000-293610/
+Evolutionary War Omnibus;2011-09-14;293541;Doctor Octopus;http://comicvine.gamespot.com/evolutionary-war-omnibus-1-evolutionary-war-omnibu/4000-293541/
+The Amazing Spider-Man;2011-09-13;278710;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-665-crossroads/4000-278710/
+Invincible Iron Man: Unfixable;2011-08-31;293488;Doctor Octopus;http://comicvine.gamespot.com/invincible-iron-man-unfixable-1-invincible-iron-ma/4000-293488/
+Green Goblin: A Lighter Shade of Green;2011-08-31;293486;Doctor Octopus;http://comicvine.gamespot.com/green-goblin-a-lighter-shade-of-green-1-green-gobl/4000-293486/
+Essential Web of Spider-Man;2011-08-31;293337;Doctor Octopus;http://comicvine.gamespot.com/essential-web-of-spider-man-1-volume-one/4000-293337/
+Amazing Spider-Man: The Fantastic Spider-Man;2011-08-31;291033;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-the-fantastic-spider-man-1-hc-t/4000-291033/
+Incredible Hulks Annual;2011-08-31;276683;Doctor Octopus;http://comicvine.gamespot.com/incredible-hulks-annual-1-identity-wars-part-3-of-/4000-276683/
+Spider-Man: The Next Chapter;2011-08-24;293335;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-next-chapter-1-volume-one/4000-293335/
+Marvel Adventures Spider-Man: Friendly Neighborhood;2011-08-17;292765;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-friendly-neighborhood/4000-292765/
+Avengers Academy: Arcade Death Game;2011-08-17;292763;Doctor Octopus;http://comicvine.gamespot.com/avengers-academy-arcade-death-game-1-avengers-acad/4000-292763/
+Spider-Man/Hulk/Deadpool: Identity Wars;2011-08-10;291030;Doctor Octopus;http://comicvine.gamespot.com/spider-manhulkdeadpool-identity-wars-1-spider-manh/4000-291030/
+The Amazing Spider-Man Omnibus;2011-08-10;289926;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-omnibus-1-david-michelinie-/4000-289926/
+The Amazing Spider-Man: The Complete Ben Reilly Epic;2011-07-31;286202;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-ben-reilly-epi/4000-286202/
+Spider-Man: Am I an Avenger?;2011-07-31;285576;Doctor Octopus;http://comicvine.gamespot.com/spider-man-am-i-an-avenger-1-tpb/4000-285576/
+Venom: Flashpoint;2011-07-20;285720;Doctor Octopus;http://comicvine.gamespot.com/venom-flashpoint-1/4000-285720/
+The Amazing Spider-Man;2011-07-11;269832;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-660-fantastic-voyage-part-2/4000-269832/
+Marvel Adventures Spider-Man;2011-07-01;275019;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-14-the-illusionist/4000-275019/
+Ultimate Spider-Man;2011-07-01;270467;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-158-death-of-spider-man-part-t/4000-270467/
+Spidey Sunday Spectacular!;2011-07-01;269578;Doctor Octopus;http://comicvine.gamespot.com/spidey-sunday-spectacular-1-spidey-sunday-spectacu/4000-269578/
+The Amazing Spider-Man Annual;2011-06-30;267578;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-38-identity-wars-par/4000-267578/
+Essential Amazing Spider-Man;2011-06-29;278682;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-10-volume-10/4000-278682/
+The Amazing Spider-Man;2011-06-27;269011;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-659-fantastic-voyage-part-1/4000-269011/
+Ultimatum Companion;2011-06-15;277577;Doctor Octopus;http://comicvine.gamespot.com/ultimatum-companion-1-ultimatum-companion/4000-277577/
+Marvel Universe vs. Wolverine;2011-06-01;276682;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-vs-wolverine-1-part-1-a-fall-of-an/4000-276682/
+Ultimate Spider-Man;2011-06-01;268348;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-157-death-of-spider-man-chapte/4000-268348/
+Deadpool Team-Up: BFFs;2011-05-31;277202;Doctor Octopus;http://comicvine.gamespot.com/deadpool-team-up-bffs-1-volume-3/4000-277202/
+Ultimate Comics Doomsday;2011-05-31;275028;Doctor Octopus;http://comicvine.gamespot.com/ultimate-comics-doomsday-1-hc-tpb/4000-275028/
+Amazing Spider-Man: Matters of Life and Death;2011-05-11;274799;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-matters-of-life-and-death-1-ama/4000-274799/
+Spider-Man: The Extremist;2011-05-11;274797;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-extremist-1-spider-man-the-extremis/4000-274797/
+Avengers: We are the Avengers;2011-05-11;273569;Doctor Octopus;http://comicvine.gamespot.com/avengers-we-are-the-avengers-1-avengers-we-are-the/4000-273569/
+Origins of Marvel Comics;2011-05-11;269984;Doctor Octopus;http://comicvine.gamespot.com/origins-of-marvel-comics-1-tpb/4000-269984/
+Spider-Man: You're Hired!;2011-05-01;267435;Doctor Octopus;http://comicvine.gamespot.com/spider-man-youre-hired-1-youre-hired-the-girls-all/4000-267435/
+Deadpool Team-Up;2011-05-01;267133;Doctor Octopus;http://comicvine.gamespot.com/deadpool-team-up-883-team-up-finale/4000-267133/
+Ultimate Doom;2011-05-01;266507;Doctor Octopus;http://comicvine.gamespot.com/ultimate-doom-4-part-4/4000-266507/
+Ultimate Spider-Man;2011-05-01;266487;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-156-death-of-spider-man-chapte/4000-266487/
+Invincible Iron Man;2011-05-01;266009;Doctor Octopus;http://comicvine.gamespot.com/the-invincible-iron-man-502-the-god-number/4000-266009/
+The Amazing Spider-Man;2011-04-16;262872;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-654-1-flashpoint/4000-262872/
+The Amazing Spider-Man;2011-04-02;259998;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-653-revenge-of-the-spider-s/4000-259998/
+Ultimate Doom;2011-04-01;263758;Doctor Octopus;http://comicvine.gamespot.com/ultimate-doom-3-part-3/4000-263758/
+Invincible Iron Man;2011-04-01;263743;Doctor Octopus;http://comicvine.gamespot.com/the-invincible-iron-man-501-fix-me/4000-263743/
+Strange Tales II;2011-03-30;270058;Doctor Octopus;http://comicvine.gamespot.com/strange-tales-ii-1-strange-tales-ii/4000-270058/
+Marvel Masterworks: The Amazing Spider-Man;2011-03-02;264614;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-13-volum/4000-264614/
+Ultimate Doom;2011-03-01;259131;Doctor Octopus;http://comicvine.gamespot.com/ultimate-doom-2-part-2/4000-259131/
+Amazing Spider-Man: Big Time;2011-02-28;263342;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-big-time-1-hctpb/4000-263342/
+Avengers and the Infinity Gauntlet;2011-02-16;267234;Doctor Octopus;http://comicvine.gamespot.com/avengers-and-the-infinity-gauntlet-1-avengers-and-/4000-267234/
+Atlantis Attacks Omnibus;2011-02-09;266689;Doctor Octopus;http://comicvine.gamespot.com/atlantis-attacks-omnibus-1-atlantis-attacks-omnibu/4000-266689/
+Ultimate Doom;2011-02-01;251086;Doctor Octopus;http://comicvine.gamespot.com/ultimate-doom-1-part-1/4000-251086/
+The Amazing Spider-Man: The Complete Clone Saga Epic;2011-01-31;260054;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-clone-saga-epi/4000-260054/
+I am An Avenger;2011-01-31;242908;Doctor Octopus;http://comicvine.gamespot.com/i-am-an-avenger-3-like-a-streak-of-light-closure-p/4000-242908/
+What If? Classic;2011-01-26;261667;Doctor Octopus;http://comicvine.gamespot.com/what-if-classic-7-volume-7/4000-261667/
+Marvel Adventures Spider-Man: Spectacular;2011-01-26;261471;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-spectacular-1-marvel-/4000-261471/
+Amazing Spider-Man: Origin of the Species;2011-01-05;258519;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-origin-of-the-species-1-amazing/4000-258519/
+The Amazing Spider-Man;2011-01-01;242262;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-648-big-time/4000-242262/
+Spider-Man: Black Cat;2010-12-31;256145;Doctor Octopus;http://comicvine.gamespot.com/spider-man-black-cat-1-tpb/4000-256145/
+X-Force: Cable and the New Mutants;2010-12-29;256148;Doctor Octopus;http://comicvine.gamespot.com/x-force-cable-and-the-new-mutants-1-x-force-cable-/4000-256148/
+Civil War: The Underside;2010-12-29;255965;Doctor Octopus;http://comicvine.gamespot.com/civil-war-the-underside-1-civil-war-the-underside/4000-255965/
+The Amazing Spider-Man;2010-12-27;239885;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-646-origin-of-the-species-p/4000-239885/
+The Amazing Spider-Man;2010-12-13;238243;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-645-origin-of-the-species-p/4000-238243/
+The Amazing Spider-Man: The Complete Clone Saga Epic;2010-11-30;246605;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-clone-saga-epi/4000-246605/
+Daredevil by Bendis and Maleev Ultimate Collection;2010-11-17;246609;Doctor Octopus;http://comicvine.gamespot.com/daredevil-by-bendis-and-maleev-ultimate-collection/4000-246609/
+Amazing Spider-Man: One Moment in Time;2010-11-10;244845;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-one-moment-in-time-1-amazing-sp/4000-244845/
+The Amazing Spider-Man by JMS Ultimate Collection;2010-11-10;244450;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-by-jms-ultimate-collection-/4000-244450/
+The Amazing Spider-Man;2010-11-01;236285;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-644-origin-of-the-species-p/4000-236285/
+Marvel Adventures Spider-Man;2010-11-01;235694;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-6/4000-235694/
+Avengers and the Infinity Gauntlet;2010-11-01;234876;Doctor Octopus;http://comicvine.gamespot.com/avengers-and-the-infinity-gauntlet-2/4000-234876/
+Web of Spider-Man;2010-11-01;234856;Doctor Octopus;http://comicvine.gamespot.com/web-of-spider-man-12-the-ex-terminators-part-2-arm/4000-234856/
+The Amazing Spider-Man;2010-11-01;234676;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-643-origin-of-the-species-p/4000-234676/
+The Amazing Spider-Man;2010-11-01;233867;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-642-origin-of-the-species-p/4000-233867/
+Peter Parker;2010-10-27;241158;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-1-peter-parker/4000-241158/
+Spider-Man Saga;2010-10-27;239857;Doctor Octopus;http://comicvine.gamespot.com/spider-man-saga-1-spider-man-saga/4000-239857/
+Amazing Spider-Man: Grim Hunt;2010-10-20;240122;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-grim-hunt-1-amazing-spider-man-/4000-240122/
+Marvel Universe vs. The Punisher;2010-10-06;227821;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-vs-the-punisher-1-part-1-last-gun-/4000-227821/
+The Amazing Spider-Man;2010-10-01;230259;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-640-one-moment-in-time-chap/4000-230259/
+The Amazing Spider-Man: The Complete Clone Saga Epic;2010-09-30;232983;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-clone-saga-epi/4000-232983/
+Civil War: Avengers;2010-09-22;237421;Doctor Octopus;http://comicvine.gamespot.com/civil-war-avengers-1-civil-war-avengers/4000-237421/
+Marvel Masterworks: The Amazing Spider-Man;2010-09-15;264613;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-12-volum/4000-264613/
+Exiles Ultimate Collection;2010-09-01;235152;Doctor Octopus;http://comicvine.gamespot.com/exiles-ultimate-collection-5-book-5/4000-235152/
+The Amazing Spider-Man;2010-09-01;227715;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-639-one-moment-in-time-chap/4000-227715/
+The Amazing Spider-Man;2010-09-01;225675;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-638-one-moment-in-time-chap/4000-225675/
+The Amazing Spider-Man;2010-09-01;224565;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-637-the-grim-hunt-conclusio/4000-224565/
+Amazing Spider-Man Presents: Black Cat;2010-08-01;219565;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-presents-black-cat-1-the-trophy/4000-219565/
+Spider-Man Noir: Eyes Without A Face;2010-06-30;222750;Doctor Octopus;http://comicvine.gamespot.com/spider-man-noir-eyes-without-a-face-1-hctpb/4000-222750/
+Spider-Man & the Secret Wars;2010-06-23;222978;Doctor Octopus;http://comicvine.gamespot.com/spider-man-and-the-secret-wars-1-tpb/4000-222978/
+Peter Parker;2010-06-01;211117;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-2-spider-girls-gone-wild-part-two/4000-211117/
+Spider-Man: The Real Clone Saga;2010-05-31;222241;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-real-clone-saga-1-hctpb/4000-222241/
+Marvel 1602: Spider-Man;2010-05-31;216448;Doctor Octopus;http://comicvine.gamespot.com/marvel-1602-spider-man-1-hc-tpb/4000-216448/
+Spider-Man Noir: Eyes Without A Face;2010-05-31;199168;Doctor Octopus;http://comicvine.gamespot.com/spider-man-noir-eyes-without-a-face-4-part-4-endle/4000-199168/
+The Amazing Spider-Man: The Complete Clone Saga Epic;2010-05-26;216449;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-clone-saga-epi/4000-216449/
+Spider-Man: Grim Hunt - The Kraven Saga;2010-05-14;212305;Doctor Octopus;http://comicvine.gamespot.com/spider-man-grim-hunt-the-kraven-saga-1-spider-man-/4000-212305/
+Spider-Man & The Secret Wars;2010-05-01;201338;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-secret-wars-4-the-secret-wars-part-/4000-201338/
+What If? Secret Invasion;2010-04-30;216431;Doctor Octopus;http://comicvine.gamespot.com/what-if-secret-invasion-1-tpb/4000-216431/
+Spider-Man Noir: Eyes Without A Face;2010-04-30;195408;Doctor Octopus;http://comicvine.gamespot.com/spider-man-noir-eyes-without-a-face-3-part-3-blues/4000-195408/
+Spider-Man 1602;2010-04-01;197798;Doctor Octopus;http://comicvine.gamespot.com/spider-man-1602-5-the-web-complete-chapter-5/4000-197798/
+The Amazing Spider-Man: The Complete Clone Saga Epic;2010-03-31;209111;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-the-complete-clone-saga-epi/4000-209111/
+Spider-Man Noir: Eyes Without A Face;2010-03-31;191659;Doctor Octopus;http://comicvine.gamespot.com/spider-man-noir-eyes-without-a-face-2-part-2-night/4000-191659/
+Spider-Man 1602;2010-03-01;194241;Doctor Octopus;http://comicvine.gamespot.com/spider-man-1602-4-the-web-complete-chapter-4/4000-194241/
+The Amazing Spider-Man;2010-03-01;193352;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-618-mysterioso-part-1-un-mu/4000-193352/
+Spider-Man Noir: Eyes Without A Face;2010-02-28;186110;Doctor Octopus;http://comicvine.gamespot.com/spider-man-noir-eyes-without-a-face-1-part-1-aroun/4000-186110/
+What If? Spider-Man House of M;2010-02-01;189584;Doctor Octopus;http://comicvine.gamespot.com/what-if-spider-man-house-of-m-1-gwen-stacy-survive/4000-189584/
+Spider-Man 1602;2010-02-01;189470;Doctor Octopus;http://comicvine.gamespot.com/spider-man-1602-3-the-web-complete-chapter-3/4000-189470/
+Spider-Man: The Clone Saga;2010-02-01;188266;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-clone-saga-4-the-clone-saga-part-fo/4000-188266/
+Spider-Man & The Secret Wars;2010-02-01;186692;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-secret-wars-1-the-secret-wars-part-/4000-186692/
+Ultimate Spider-Man: Ultimatum;2010-01-31;237657;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-ultimatum-1-volume-22/4000-237657/
+Spider-Man: Election Day;2010-01-13;199163;Doctor Octopus;http://comicvine.gamespot.com/spider-man-election-day-1-spider-man-election-day/4000-199163/
+Daredevil Omnibus by Brian Michael Bendis and Alex Maleev;2010-01-06;294025;Doctor Octopus;http://comicvine.gamespot.com/daredevil-omnibus-by-brian-michael-bendis-and-alex/4000-294025/
+Civil War: Spider-Man;2010-01-01;248409;Doctor Octopus;http://comicvine.gamespot.com/civil-war-spider-man-1-civil-war-spider-man/4000-248409/
+Marvel Adventures Spider-Man: Thwip!;2010-01-01;189773;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-thwip-1-thwip/4000-189773/
+Marvel Zombies Return;2009-12-31;212701;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-return-1-hc-tpb/4000-212701/
+Exiles Ultimate Collection;2009-12-30;190476;Doctor Octopus;http://comicvine.gamespot.com/exiles-ultimate-collection-3-book-3/4000-190476/
+X-Men/Spider-Man;2009-12-09;192871;Doctor Octopus;http://comicvine.gamespot.com/x-menspider-man-1-x-menspider-man/4000-192871/
+Spider-Man 1602;2009-12-01;175654;Doctor Octopus;http://comicvine.gamespot.com/spider-man-1602-1-the-web-complete-chapter-1/4000-175654/
+Marvel Zombies Return;2009-11-30;169517;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-return-1-with-great-hunger-there-mu/4000-169517/
+The Amazing Spider-Man by JMS Ultimate Collection;2009-11-11;244343;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-by-jms-ultimate-collection-/4000-244343/
+Spider-Man: Died In Your Arms Tonight;2009-11-11;204291;Doctor Octopus;http://comicvine.gamespot.com/spider-man-died-in-your-arms-tonight-1-spider-man-/4000-204291/
+Astonishing X-Men/Amazing Spider-Man: The Gauntlet Sketchbook;2009-11-01;172577;Doctor Octopus;http://comicvine.gamespot.com/astonishing-x-menamazing-spider-man-the-gauntlet-s/4000-172577/
+Ultimatum: Requiem;2009-10-31;194953;Doctor Octopus;http://comicvine.gamespot.com/ultimatum-requiem-1-hctpb/4000-194953/
+Official Index to the Marvel Universe;2009-10-07;175475;Doctor Octopus;http://comicvine.gamespot.com/official-index-to-the-marvel-universe-10-volume-te/4000-175475/
+The Amazing Spider-Man;2009-10-01;166136;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-601-red-headed-stranger-par/4000-166136/
+Guiding Light;2009-09-16;224974;Doctor Octopus;http://comicvine.gamespot.com/guiding-light-1/4000-224974/
+Spider-Man/Mary Jane:...You Just Hit the Jackpot;2009-09-16;174132;Doctor Octopus;http://comicvine.gamespot.com/spider-manmary-janeyou-just-hit-the-jackpot-1-spid/4000-174132/
+Ultimatum: Spider-Man;2009-09-09;192101;Doctor Octopus;http://comicvine.gamespot.com/ultimatum-spider-man-1-ultimatum-spider-man-hc/4000-192101/
+Marvel Zombies vs. Army Of Darkness;2009-09-02;191145;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-vs-army-of-darkness-1-marvel-zombie/4000-191145/
+Spider-Man: Sinister Six;2009-09-02;183023;Doctor Octopus;http://comicvine.gamespot.com/spider-man-sinister-six-1-spider-man-sinister-six-/4000-183023/
+Exiles Ultimate Collection;2009-09-02;173689;Doctor Octopus;http://comicvine.gamespot.com/exiles-ultimate-collection-2-book-2/4000-173689/
+Ultimatum: Spider-Man - Requiem;2009-09-01;165423;Doctor Octopus;http://comicvine.gamespot.com/ultimatum-spider-man-requiem-2-requiem-part-two/4000-165423/
+Marvel Adventures: Spider-Man;2009-09-01;165188;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-53-a-sense-of-respons/4000-165188/
+The Amazing Spider-Man;2009-09-01;164777;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-600-last-legs-identity-cris/4000-164777/
+Marvel Masterworks: The Amazing Spider-Man;2009-08-18;232118;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-11-volum/4000-232118/
+Marvel Adventures Spider-Man: Animal Attack!;2009-08-12;203577;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-animal-attack-1-marve/4000-203577/
+Dr. Doom and the Masters of Evil;2009-08-12;172521;Doctor Octopus;http://comicvine.gamespot.com/doctor-doom-and-the-masters-of-evil-1-doctor-doom-/4000-172521/
+Spider-Man: Crime and Punisher;2009-08-05;198660;Doctor Octopus;http://comicvine.gamespot.com/spider-man-crime-and-punisher-1-spider-man-crime-a/4000-198660/
+Spider-Man: Family Ties;2009-08-05;198659;Doctor Octopus;http://comicvine.gamespot.com/spider-man-family-ties-1-spider-man-family-ties/4000-198659/
+The Amazing Spider-Man;2009-08-01;159759;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-597-american-son-part-3/4000-159759/
+Essential Spectacular Spider-Man;2009-07-29;286200;Doctor Octopus;http://comicvine.gamespot.com/essential-spectacular-spider-man-4-volume-four/4000-286200/
+The Amazing Spider-Man by JMS Ultimate Collection;2009-07-22;233715;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-by-jms-ultimate-collection-/4000-233715/
+1985;2009-07-22;224211;Doctor Octopus;http://comicvine.gamespot.com/1985-1-1985-trade-paperback/4000-224211/
+Venom: Dark Origin;2009-07-22;175490;Doctor Octopus;http://comicvine.gamespot.com/venom-dark-origin-1-venom-dark-origin/4000-175490/
+Marvel Masterworks: Warlock;2009-06-30;233678;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-warlock-2-volume-two/4000-233678/
+Spider-Man: New Ways to Die;2009-06-17;198664;Doctor Octopus;http://comicvine.gamespot.com/spider-man-new-ways-to-die-1-spider-man-new-ways-t/4000-198664/
+Secret Wars II Omnibus;2009-06-10;189716;Doctor Octopus;http://comicvine.gamespot.com/secret-wars-ii-omnibus-1-secret-wars-ii-omnibus/4000-189716/
+Marvel Adventures: Spider-Man;2009-06-01;155633;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-50-sinister-sixteenth/4000-155633/
+Ultimate Spider-Man: Ultimate Collection;2009-05-27;179762;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-ultimate-collection-2-volume-t/4000-179762/
+Spider-Man: Spider-Women;2009-05-13;280461;Doctor Octopus;http://comicvine.gamespot.com/spider-man-spider-women-1-spider-man-spider-women/4000-280461/
+Essential Amazing Spider-Man;2009-05-01;160882;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-9-volume-9/4000-160882/
+Ultimate Spider-Man;2009-05-01;157043;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-132-ultimatum/4000-157043/
+Spider-Man: Noir;2009-05-01;153675;Doctor Octopus;http://comicvine.gamespot.com/spider-man-noir-4/4000-153675/
+What If? Secret Wars;2009-04-29;178295;Doctor Octopus;http://comicvine.gamespot.com/what-if-secret-wars-1-what-if-secret-wars/4000-178295/
+Marvel Adventures Spider-Man: Jumping to Conclusions;2009-04-22;203576;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-jumping-to-conclusion/4000-203576/
+Marvel Apes;2009-04-15;211377;Doctor Octopus;http://comicvine.gamespot.com/marvel-apes-1-marvel-apes/4000-211377/
+The Amazing Spider-Man;2009-04-01;152231;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-587-character-assassination/4000-152231/
+Ultimatum: X-Men/Fantastic Four;2009-03-31;200235;Doctor Octopus;http://comicvine.gamespot.com/ultimatum-x-menfantastic-four-1-hctpb/4000-200235/
+Mini Marvels: Secret Invasion;2009-02-01;152978;Doctor Octopus;http://comicvine.gamespot.com/mini-marvels-secret-invasion-1-conspicuous-invasio/4000-152978/
+What If? Secret Wars;2009-02-01;149482;Doctor Octopus;http://comicvine.gamespot.com/what-if-secret-wars-1-what-ifdoctor-doom-kept-the-/4000-149482/
+What If? Classic;2009-01-31;185211;Doctor Octopus;http://comicvine.gamespot.com/what-if-classic-5-volume-5/4000-185211/
+X-Men/Spider-Man;2009-01-31;141555;Doctor Octopus;http://comicvine.gamespot.com/x-menspider-man-1-the-strangest-teens-of-all/4000-141555/
+Secret Wars Omnibus;2009-01-14;172998;Doctor Octopus;http://comicvine.gamespot.com/secret-wars-omnibus-1-secret-wars-omnibus/4000-172998/
+Marvel Zombies: Dead Days;2009-01-07;209211;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-dead-days-1-marvel-zombies-dead-day/4000-209211/
+Mini Marvels Ultimate Collection;2009-01-01;205709;Doctor Octopus;http://comicvine.gamespot.com/mini-marvels-ultimate-collection-1-tpb/4000-205709/
+Marvel Adventures: Spider-Man;2009-01-01;142782;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-45-pieces-of-the-puzz/4000-142782/
+Amazing Spider-Man Family;2008-12-31;141377;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-family-2-the-long-road-those-wh/4000-141377/
+Marvel Apes;2008-12-01;145938;Doctor Octopus;http://comicvine.gamespot.com/marvel-apes-0-the-birth-ofthe-gibbon-to-stalk-a-sp/4000-145938/
+1985;2008-12-01;141322;Doctor Octopus;http://comicvine.gamespot.com/1985-6-nuff-said/4000-141322/
+The Amazing Spider-Man;2008-12-01;140880;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-574-flashbacks/4000-140880/
+Venom: Dark Origin;2008-12-01;139672;Doctor Octopus;http://comicvine.gamespot.com/venom-dark-origin-3-chapter-3/4000-139672/
+Daredevil by Frank Miller and Klaus Janson;2008-11-30;184077;Doctor Octopus;http://comicvine.gamespot.com/daredevil-by-frank-miller-and-klaus-janson-1-volum/4000-184077/
+Marvel Apes;2008-11-01;139088;Doctor Octopus;http://comicvine.gamespot.com/marvel-apes-2-see-no-evil/4000-139088/
+Marvel Apes;2008-11-01;137290;Doctor Octopus;http://comicvine.gamespot.com/marvel-apes-1-apes-of-wrath/4000-137290/
+Amazing Spider-Man Family;2008-10-31;135960;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-family-1-48-hours-the-amazing-a/4000-135960/
+Marvel Zombies;2008-10-01;388141;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-1-tpb/4000-388141/
+The Amazing Spider-Man;2008-10-01;136022;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-568-new-ways-to-die-part-on/4000-136022/
+Spider-Man Family: Itsy-Bitsy Battles;2008-09-24;216549;Doctor Octopus;http://comicvine.gamespot.com/spider-man-family-itsy-bitsy-battles-1-spider-man-/4000-216549/
+The Amazing Spider-Man:  EXTRA!;2008-09-01;134597;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-extra-1-death-of-a-wise-guy/4000-134597/
+Spider-Man Family;2008-08-31;154059;Doctor Octopus;http://comicvine.gamespot.com/spider-man-family-9-the-guy-who-turns-into-the-hul/4000-154059/
+Marvel Masterworks: The Amazing Spider-Man;2008-08-20;140395;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-10-volum/4000-140395/
+Marvels;2008-07-09;217587;Doctor Octopus;http://comicvine.gamespot.com/marvels-1-marvels-premiere-hc/4000-217587/
+Spider-Man Family;2008-06-30;126500;Doctor Octopus;http://comicvine.gamespot.com/spider-man-family-8-with-friends-like-these-and-ot/4000-126500/
+New Avengers: Illuminati;2008-05-07;212987;Doctor Octopus;http://comicvine.gamespot.com/new-avengers-illuminati-1-new-avengers-illuminati/4000-212987/
+Spider-Man Family;2008-04-30;126501;Doctor Octopus;http://comicvine.gamespot.com/spider-man-family-7-looters-quest/4000-126501/
+Marvel Adventures Spider-Man: Fiercest Foes;2008-04-09;203560;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-fiercest-foes-1-marve/4000-203560/
+Ultimate Spider-Man Hardcover;2008-04-01;154959;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hardcover-9-volume-9/4000-154959/
+ClanDestine;2008-04-01;122417;Doctor Octopus;http://comicvine.gamespot.com/clandestine-1/4000-122417/
+Essential Marvel Saga;2008-03-01;159959;Doctor Octopus;http://comicvine.gamespot.com/essential-marvel-saga-1-volume-1/4000-159959/
+Ultimate Spider-Man: Death of A Goblin;2008-02-01;237653;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-death-of-a-goblin-1-volume-19/4000-237653/
+Secret Wars;2008-01-01;315629;Doctor Octopus;http://comicvine.gamespot.com/secret-wars-1-marvel-super-heroes-secret-wars-tpb/4000-315629/
+Marvel Adventures: Spider-Man;2008-01-01;127863;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-33-the-tenant-mini-ma/4000-127863/
+Marvel Legacy: The 1960s-1990s Handbook;2007-11-30;396594;Doctor Octopus;http://comicvine.gamespot.com/marvel-legacy-the-1960s-1990s-handbook-1-tpb/4000-396594/
+Marvel Masterworks: The Amazing Spider-Man;2007-11-15;140394;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-9-volume/4000-140394/
+Spider-Man 3: The Black;2007-11-01;121512;Doctor Octopus;http://comicvine.gamespot.com/spider-man-3-the-black-1-the-black/4000-121512/
+Ultimate Spider-Man;2007-11-01;106521;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-113-death-of-a-goblin-part-2/4000-106521/
+Ultimate Spider-Man: Hobgoblin;2007-08-15;237644;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hobgoblin-1-hobgoblin/4000-237644/
+Civil War Companion;2007-08-01;132592;Doctor Octopus;http://comicvine.gamespot.com/civil-war-companion-1-companion/4000-132592/
+Exiles: Bump in the Night;2007-07-11;238589;Doctor Octopus;http://comicvine.gamespot.com/exiles-bump-in-the-night-1-bump-in-the-night/4000-238589/
+Civil War: Iron Man;2007-07-04;171461;Doctor Octopus;http://comicvine.gamespot.com/civil-war-iron-man-1-civil-war-iron-man/4000-171461/
+New Avengers: Illuminati;2007-07-01;110053;Doctor Octopus;http://comicvine.gamespot.com/new-avengers-illuminati-3-untitled/4000-110053/
+Marvel Zombies: Dead Days;2007-07-01;109272;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-dead-days-1/4000-109272/
+Marvel Zombies/Army of Darkness;2007-06-01;107997;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-vs-army-of-darkness-2-marvel-team-u/4000-107997/
+Civil War: Peter Parker, Spider-Man;2007-05-31;225960;Doctor Octopus;http://comicvine.gamespot.com/civil-war-peter-parker-spider-man-1-tpb/4000-225960/
+Civil War: Amazing Spider-Man;2007-05-16;170811;Doctor Octopus;http://comicvine.gamespot.com/civil-war-amazing-spider-man-1-civil-war-amazing-s/4000-170811/
+Amazing Spider-Man Omnibus;2007-05-09;222986;Doctor Octopus;http://comicvine.gamespot.com/amazing-spider-man-omnibus-1-volume-one/4000-222986/
+Exiles: The New Exiles;2007-04-30;240203;Doctor Octopus;http://comicvine.gamespot.com/exiles-the-new-exiles-1-volume-14/4000-240203/
+Ultimate Spider-Man: Clone Saga;2007-04-18;237651;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-clone-saga-1-clone-saga/4000-237651/
+Spider-Man: Birth of Venom;2007-04-18;164280;Doctor Octopus;http://comicvine.gamespot.com/spider-man-birth-of-venom-1-spider-man-birth-of-ve/4000-164280/
+Ultimate Spider-Man: Ultimate Collection;2007-04-11;178425;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-ultimate-collection-1-volume-o/4000-178425/
+Ultimate Spider-Man: Ultimate Six;2007-04-04;237593;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-ultimate-six-1-volume-9/4000-237593/
+Essential Amazing Spider-Man;2007-04-01;141310;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-8-volume-8/4000-141310/
+Daredevil by Frank Miller and Klaus Janson Omnibus;2007-03-31;294024;Doctor Octopus;http://comicvine.gamespot.com/daredevil-by-frank-miller-and-klaus-janson-omnibus/4000-294024/
+Ultimate Spider-Man: Superstars;2007-03-14;237629;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-superstars-1-superstars/4000-237629/
+Spider-Man: Saga of the Sandman;2007-03-07;165616;Doctor Octopus;http://comicvine.gamespot.com/spider-man-saga-of-the-sandman-1-spider-man-saga-o/4000-165616/
+Spectacular Spider-Man Adventures: Riot at Ryker's Island!;2007-03-01;451320;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-adventures-riot-at-rykers-i/4000-451320/
+Essential Spectacular Spider-Man;2007-03-01;151943;Doctor Octopus;http://comicvine.gamespot.com/essential-spectacular-spider-man-3-volume-three/4000-151943/
+New Avengers: The Collective;2007-03-01;132607;Doctor Octopus;http://comicvine.gamespot.com/new-avengers-the-collective-1-the-collective/4000-132607/
+The Sensational Spider-Man;2007-03-01;113628;Doctor Octopus;http://comicvine.gamespot.com/the-sensational-spider-man-34-nothing-can-stop-the/4000-113628/
+Ultimate Spider-Man;2007-03-01;106252;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-104-clone-saga-part-8/4000-106252/
+Spider-Man Collectible Series;2007-02-18;439284;Doctor Octopus;http://comicvine.gamespot.com/spider-man-collectible-series-24/4000-439284/
+Spider-Man Collectible Series;2007-02-11;439283;Doctor Octopus;http://comicvine.gamespot.com/spider-man-collectible-series-23/4000-439283/
+Spider-Man: Death of the Stacys;2007-02-01;216545;Doctor Octopus;http://comicvine.gamespot.com/spider-man-death-of-the-stacys-1-hc-tpb/4000-216545/
+The Sensational Spider-Man;2007-02-01;113627;Doctor Octopus;http://comicvine.gamespot.com/the-sensational-spider-man-33-wounds/4000-113627/
+Ultimate Spider-Man;2007-02-01;113596;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-103-clone-saga-part-7/4000-113596/
+Marvel Visionaries: John Buscema;2007-01-31;279024;Doctor Octopus;http://comicvine.gamespot.com/marvel-visionaries-john-buscema-1-marvel-visionari/4000-279024/
+What If? Classic;2007-01-31;175593;Doctor Octopus;http://comicvine.gamespot.com/what-if-classic-3-volume-3/4000-175593/
+Ultimate Spider-Man: Carnage;2007-01-10;237627;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-carnage-1-carnage/4000-237627/
+Spider-Man Family Featuring Spider-Clan;2007-01-01;149202;Doctor Octopus;http://comicvine.gamespot.com/spider-man-family-featuring-spider-clan-1-elementa/4000-149202/
+Stan Lee Meets Silver Surfer;2007-01-01;139723;Doctor Octopus;http://comicvine.gamespot.com/stan-lee-meets-silver-surfer-1-stan-lee-meets-silv/4000-139723/
+Spider-Man and Power Pack;2007-01-01;111692;Doctor Octopus;http://comicvine.gamespot.com/spider-man-and-power-pack-1-the-new-kid-part-1-eve/4000-111692/
+Iron Man;2007-01-01;111399;Doctor Octopus;http://comicvine.gamespot.com/iron-man-14-civil-war-part-2/4000-111399/
+The Sensational Spider-Man;2007-01-01;110140;Doctor Octopus;http://comicvine.gamespot.com/the-sensational-spider-man-32-the-husband-or-the-s/4000-110140/
+Ultimate Spider-Man;2007-01-01;106133;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-102-clone-saga-part-6/4000-106133/
+Ultimate Spider-Man Hardcover;2006-12-01;154850;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hardcover-7-volume-7/4000-154850/
+Marvel Masterworks: Avengers;2006-12-01;140389;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-avengers-6-volume-six/4000-140389/
+Spider-Man Loves Mary Jane;2006-12-01;107015;Doctor Octopus;http://comicvine.gamespot.com/spider-man-loves-mary-jane-11-the-mj-thing/4000-107015/
+Ultimate Spider-Man: Legacy;2006-11-29;236774;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-legacy-1-legacy/4000-236774/
+Spider-Man Black & Blue & Read All Over;2006-11-01;119069;Doctor Octopus;http://comicvine.gamespot.com/spider-man-black-blue-read-all-over-1-black-blue-r/4000-119069/
+Marvel Adventures Spider-Man: Concrete Jungle;2006-10-11;203735;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-concrete-jungle-1-mar/4000-203735/
+Spider-Man Collectible Series;2006-10-01;439243;Doctor Octopus;http://comicvine.gamespot.com/spider-man-collectible-series-7/4000-439243/
+Sentry: Reborn;2006-10-01;127555;Doctor Octopus;http://comicvine.gamespot.com/sentry-reborn-1-reborn/4000-127555/
+Ultimate Spider-Man: Hollywood;2006-09-27;237609;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hollywood-1-hollywood/4000-237609/
+Spider-Man Collectible Series;2006-09-24;439242;Doctor Octopus;http://comicvine.gamespot.com/spider-man-collectible-series-6/4000-439242/
+Civil War Files;2006-09-13;108847;Doctor Octopus;http://comicvine.gamespot.com/civil-war-files-1-whose-side-are-you-on/4000-108847/
+Ultimate Spider-Man: Venom;2006-09-06;236884;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-venom-1-venom/4000-236884/
+The Sensational Spider-Man;2006-09-01;113625;Doctor Octopus;http://comicvine.gamespot.com/the-sensational-spider-man-28-my-science-teacher-i/4000-113625/
+Civil War;2006-09-01;105624;Doctor Octopus;http://comicvine.gamespot.com/civil-war-3-whose-side-are-you-on/4000-105624/
+Spider-Man Visionaries: Kurt Busiek;2006-08-16;280733;Doctor Octopus;http://comicvine.gamespot.com/spider-man-visionaries-kurt-busiek-1-spider-man-vi/4000-280733/
+Marvel Team-Up: League of Losers;2006-08-09;409877;Doctor Octopus;http://comicvine.gamespot.com/marvel-team-up-league-of-losers-1-volume-3/4000-409877/
+The Amazing Spider-Man;2006-08-01;106137;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-533-the-night-the-war-came-/4000-106137/
+Marvel Adventures Spider-Man: Doom With a View;2006-07-12;203734;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-doom-with-a-view-1-ma/4000-203734/
+Marvel Adventures: Spider-Man;2006-07-01;106183;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-15-how-spider-man-lea/4000-106183/
+Earth X;2006-06-28;217491;Doctor Octopus;http://comicvine.gamespot.com/earth-x-1-earth-x/4000-217491/
+Marvel Zombies;2006-06-01;115539;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-5-part-5-of-5/4000-115539/
+Marvel Zombies;2006-05-01;115538;Doctor Octopus;http://comicvine.gamespot.com/marvel-zombies-4-part-4-of-5/4000-115538/
+Marvel Adventures: Spider-Man;2006-04-01;106160;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-12-nightmare-on-spide/4000-106160/
+Spider-Man: House of M;2006-03-08;200198;Doctor Octopus;http://comicvine.gamespot.com/spider-man-house-of-m-1-tpb/4000-200198/
+New X-Men: Academy X: House Of M;2006-03-01;186528;Doctor Octopus;http://comicvine.gamespot.com/new-x-men-academy-x-house-of-m-1-volume-4/4000-186528/
+Essential Spectacular Spider-Man;2006-03-01;151836;Doctor Octopus;http://comicvine.gamespot.com/essential-spectacular-spider-man-2-volume-two/4000-151836/
+House of M;2006-02-01;202218;Doctor Octopus;http://comicvine.gamespot.com/house-of-m-1-house-of-m/4000-202218/
+Marvel Team-Up;2006-01-31;120889;Doctor Octopus;http://comicvine.gamespot.com/marvel-team-up-14-spider-man-meets-invincible/4000-120889/
+Essential Amazing Spider-Man;2006-01-01;140999;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-3-volume-3/4000-140999/
+Essential Amazing Spider-Man;2006-01-01;140997;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-2-volume-2/4000-140997/
+Marvel Megamorphs - Spider-Man;2005-12-31;480822;Doctor Octopus;http://comicvine.gamespot.com/marvel-megamorphs-spider-man-1/4000-480822/
+Marvel MegaMorphs - Doctor Octopus;2005-12-31;466962;Doctor Octopus;http://comicvine.gamespot.com/marvel-mega-morphs-doctor-octopus-1/4000-466962/
+Marvel MegaMorphs - Wolverine;2005-12-31;466836;Doctor Octopus;http://comicvine.gamespot.com/marvel-mega-morphs-wolverine-1/4000-466836/
+Official Handbook of the Ultimate Marvel Universe: The Fantastic Four & Spider-Man 2005;2005-12-31;106680;Doctor Octopus;http://comicvine.gamespot.com/official-handbook-of-the-ultimate-marvel-universe-/4000-106680/
+MegaMorphs;2005-12-01;189758;Doctor Octopus;http://comicvine.gamespot.com/mega-morphs-1-mega-morphs/4000-189758/
+Sentry;2005-12-01;122443;Doctor Octopus;http://comicvine.gamespot.com/sentry-2-the-sentry-act-two-the-watchtower/4000-122443/
+Spider-Man: House of M;2005-12-01;116548;Doctor Octopus;http://comicvine.gamespot.com/spider-man-house-of-m-5/4000-116548/
+Spider-Man by Mark Millar Ultimate Collection;2005-11-16;294048;Doctor Octopus;http://comicvine.gamespot.com/spider-man-by-mark-millar-ultimate-collection-1-sp/4000-294048/
+Marvel Visionaries: John Romita Jr.;2005-11-09;279030;Doctor Octopus;http://comicvine.gamespot.com/marvel-visionaries-john-romita-jr-1-marvel-visiona/4000-279030/
+Spectacular Spider-Man: The Final Curtain;2005-11-02;186653;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-the-final-curtain-1-spectac/4000-186653/
+Ultimate Spider-Man Hardcover;2005-11-01;154844;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hardcover-6-volume-6/4000-154844/
+Essential Amazing Spider-Man;2005-11-01;141218;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-7-volume-7/4000-141218/
+MegaMorphs;2005-10-01;130796;Doctor Octopus;http://comicvine.gamespot.com/mega-morphs-1-mega-morphs/4000-130796/
+Marvel Adventures Spider-Man: The Sinister  Six;2005-08-31;203732;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-the-sinister-six-1-ma/4000-203732/
+Marvel Visionaries: John Romita Sr.;2005-08-17;279036;Doctor Octopus;http://comicvine.gamespot.com/marvel-visionaries-john-romita-sr-1-marvel-visiona/4000-279036/
+Secrets of the House of M;2005-07-20;165923;Doctor Octopus;http://comicvine.gamespot.com/secrets-of-the-house-of-m-1-one-shot/4000-165923/
+Marvel Adventures: Spider-Man;2005-07-01;120932;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-3-the-sinister-six-pa/4000-120932/
+Marvel Adventures: Spider-Man;2005-06-01;120931;Doctor Octopus;http://comicvine.gamespot.com/marvel-adventures-spider-man-2-the-sinister-six-pa/4000-120931/
+Spectacular Spider-Man;2005-06-01;101143;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-27-the-final-curtain/4000-101143/
+Ultimate Spider-Man;2005-06-01;100979;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-75-hobgoblin-part-4/4000-100979/
+Best of the Fantastic Four;2005-05-11;259583;Doctor Octopus;http://comicvine.gamespot.com/best-of-the-fantastic-four-1-volume-one/4000-259583/
+Marvel Visionaries: Steve Ditko;2005-05-04;279053;Doctor Octopus;http://comicvine.gamespot.com/marvel-visionaries-steve-ditko-1-marvel-visionarie/4000-279053/
+Ultimate Spider-Man;2005-05-01;100977;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-73-hobgoblin-part-2/4000-100977/
+Marvel Masterworks: The Amazing Spider-Man;2005-04-27;140391;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-6-volume/4000-140391/
+Spider-Man/Doctor Octopus: Year One;2005-04-06;256232;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-year-one-1-spider-mandoct/4000-256232/
+Marvel Milestones;2005-04-01;384309;Doctor Octopus;http://comicvine.gamespot.com/marvel-milestones-0-venom-hercules/4000-384309/
+Daredevil: Golden Age;2005-04-01;294046;Doctor Octopus;http://comicvine.gamespot.com/daredevil-golden-age-1-daredevil-golden-age/4000-294046/
+She-Hulk: Superhuman Law;2005-04-01;167617;Doctor Octopus;http://comicvine.gamespot.com/she-hulk-superhuman-law-1-superhuman-law/4000-167617/
+What If...?: Why Not?;2005-03-16;255729;Doctor Octopus;http://comicvine.gamespot.com/what-if-why-not-1-what-if-why-not/4000-255729/
+Ultimate Spider-Man;2005-03-01;100975;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-71-strange-part-2/4000-100975/
+Daredevil;2005-03-01;99468;Doctor Octopus;http://comicvine.gamespot.com/daredevil-69-golden-age-part-4/4000-99468/
+Marvel Visionaries: Stan Lee;2005-02-09;279049;Doctor Octopus;http://comicvine.gamespot.com/marvel-visionaries-stan-lee-1-marvel-visionaries-s/4000-279049/
+What If Aunt May Had Died Instead of Uncle Ben?;2005-02-01;235528;Doctor Octopus;http://comicvine.gamespot.com/what-if-aunt-may-had-died-instead-of-uncle-ben-1-w/4000-235528/
+Ultimate Spider-Man;2005-02-01;100974;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-70-strange/4000-100974/
+She-Hulk;2005-02-01;96792;Doctor Octopus;http://comicvine.gamespot.com/she-hulk-10-skeeter/4000-96792/
+Spider-Man Family;2005-01-01;158094;Doctor Octopus;http://comicvine.gamespot.com/spider-man-family-1-old-enemies-never-die-tangled-/4000-158094/
+Ultimate Spider-Man Hardcover;2005-01-01;154747;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hardcover-5-volume-5/4000-154747/
+Essential Amazing Spider-Man;2005-01-01;140992;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-1-volume-1/4000-140992/
+Wha...Huh?;2005-01-01;124231;Doctor Octopus;http://comicvine.gamespot.com/whahuh-1/4000-124231/
+Marvel Holiday Special;2005-01-01;120068;Doctor Octopus;http://comicvine.gamespot.com/marvel-holiday-special-2004-jonah-s-holiday-carol-/4000-120068/
+Spider-Man/Doctor Octopus: Year One;2004-12-01;116493;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-year-one-5-destiny/4000-116493/
+Marvel Age: Spider-Man;2004-11-01;141438;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-spider-man-11-unmasked-by-doctor-octopu/4000-141438/
+Spider-Man/Doctor Octopus: Year One;2004-11-01;116492;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-year-one-4/4000-116492/
+Spider-Man/Doctor Octopus: Year One;2004-11-01;116491;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-year-one-3-spider-mandoct/4000-116491/
+Powerless;2004-11-01;99684;Doctor Octopus;http://comicvine.gamespot.com/powerless-4/4000-99684/
+Marvel Age: Spider-Man;2004-10-01;241142;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-spider-man-10-the-return-of-doctor-octo/4000-241142/
+Ultimate Spider-Man;2004-10-01;110260;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-63-carnage-part-4/4000-110260/
+Ultimate Spider-Man;2004-10-01;93550;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-64-carnage-part-5/4000-93550/
+Ultimate Spider-Man;2004-09-01;110259;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-62-carnage-part-3/4000-110259/
+Ultimate Spider-Man Hardcover;2004-08-01;154745;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hardcover-4-volume-4/4000-154745/
+Essential Amazing Spider-Man;2004-08-01;141195;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-6-volume-6/4000-141195/
+Spider-Man/Doctor Octopus: Year One;2004-08-01;116490;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-year-one-2-spider-mandoct/4000-116490/
+Spider-Man/Doctor Octopus: Year One;2004-08-01;116454;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-year-one-1-spider-mandoct/4000-116454/
+Ultimate Spider-Man;2004-07-01;108086;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-58-hollywood-part-5/4000-108086/
+Ultimate Spider-Man;2004-07-01;108083;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-59-hollywood-part-6/4000-108083/
+Spectacular Spider-Man;2004-07-01;96984;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-14/4000-96984/
+The Best of Spider-Man;2004-06-24;259633;Doctor Octopus;http://comicvine.gamespot.com/the-best-of-spider-man-3-volume-three/4000-259633/
+Spider-Man/Doctor Octopus: Out of Reach;2004-06-15;256231;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-out-of-reach-1-spider-man/4000-256231/
+Marvel Age: Spider-Man;2004-06-01;129270;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-spider-man-2-spider-man-versus-doctor-o/4000-129270/
+Ultimate Six;2004-06-01;116279;Doctor Octopus;http://comicvine.gamespot.com/ultimate-six-7-chapter-7/4000-116279/
+Ultimate Spider-Man;2004-06-01;108085;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-56-hollywood-part-3/4000-108085/
+Ultimate Spider-Man;2004-06-01;108084;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-57-hollywood-part-4/4000-108084/
+The Amazing Spider-Man: Happy Birthday;2004-05-25;167544;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-happy-birthday-1-volume-6/4000-167544/
+Ultimate Spider-Man: Cats and Kings;2004-05-05;236903;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-cats-and-kings-1-cats-and-king/4000-236903/
+Spectacular Spider-Man: Countdown;2004-05-01;186650;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-countdown-1-spectacular-spi/4000-186650/
+Spider-Man: Death of Captain Stacy;2004-05-01;174131;Doctor Octopus;http://comicvine.gamespot.com/spider-man-death-of-captain-stacy-1-spider-man-dea/4000-174131/
+Spider-Man/Doctor Octopus: Out of Reach;2004-05-01;130884;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-out-of-reach-5/4000-130884/
+Ultimate Spider-Man;2004-05-01;108075;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-54-hollywood-part-1/4000-108075/
+Spider-Man/Doctor Octopus: Negative Exposure;2004-04-28;256233;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-negative-exposure-1-spide/4000-256233/
+Spider-Man/Doctor Octopus: Out of Reach;2004-04-01;152905;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-out-of-reach-4-out-of-rea/4000-152905/
+Doctor Octopus: Negative Exposure;2004-04-01;116489;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-negative-exposure-5/4000-116489/
+Spectacular Spider-Man;2004-04-01;96980;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-10-countdown-part-5-of-5/4000-96980/
+Essential Punisher;2004-03-01;153197;Doctor Octopus;http://comicvine.gamespot.com/essential-punisher-1-volume-1/4000-153197/
+Spider-Man/Doctor Octopus: Out of Reach;2004-03-01;141056;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-out-of-reach-3/4000-141056/
+Doctor Octopus: Negative Exposure;2004-03-01;116488;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-negative-exposure-4/4000-116488/
+Ultimate Six;2004-03-01;116278;Doctor Octopus;http://comicvine.gamespot.com/ultimate-six-6-chapter-6/4000-116278/
+Spectacular Spider-Man;2004-03-01;96979;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-9-countdown-part-4-of-5/4000-96979/
+Spider-Man/Doctor Octopus: Out of Reach;2004-02-01;152907;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-out-of-reach-2/4000-152907/
+Marvel Masterworks: The Amazing Spider-Man;2004-02-01;140396;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-5-volume/4000-140396/
+Doctor Octopus: Negative Exposure;2004-02-01;116487;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-negative-exposure-3/4000-116487/
+Ultimate Six;2004-02-01;116276;Doctor Octopus;http://comicvine.gamespot.com/ultimate-six-5-chapter-5/4000-116276/
+Spectacular Spider-Man;2004-02-01;96978;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-8-countdown-part-3-of-5/4000-96978/
+Official Handbook of the Marvel Universe: Spider-Man 2004;2004-01-25;106523;Doctor Octopus;http://comicvine.gamespot.com/official-handbook-of-the-marvel-universe-spider-ma/4000-106523/
+Spider-Man 2: The Movie;2004-01-01;196062;Doctor Octopus;http://comicvine.gamespot.com/spider-man-2-the-movie-1/4000-196062/
+Spider-Man/Doctor Octopus: Out of Reach;2004-01-01;152906;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-out-of-reach-1-out-of-rea/4000-152906/
+40 Years of the Amazing Spider-Man;2004-01-01;135850;Doctor Octopus;http://comicvine.gamespot.com/40-years-of-the-amazing-spider-man-1-cd-rom-collec/4000-135850/
+Doctor Octopus: Negative Exposure;2004-01-01;116486;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-negative-exposure-2/4000-116486/
+Ultimate Six;2004-01-01;116274;Doctor Octopus;http://comicvine.gamespot.com/ultimate-six-4-chapter-4/4000-116274/
+Spectacular Spider-Man;2004-01-01;96977;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-7-countdown-part-2-of-5/4000-96977/
+Spectacular Spider-Man;2004-01-01;96976;Doctor Octopus;http://comicvine.gamespot.com/spectacular-spider-man-6-countdown-part-1-of-5/4000-96976/
+The Amazing Spider-Man;2003-12-31;107505;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-500-happy-birthday-part-3/4000-107505/
+Marvel Masterworks: The Amazing Spider-Man;2003-12-10;140397;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-4-volume/4000-140397/
+Doctor Octopus: Negative Exposure;2003-12-01;116457;Doctor Octopus;http://comicvine.gamespot.com/spider-mandoctor-octopus-negative-exposure-1/4000-116457/
+Ultimate Six;2003-12-01;116271;Doctor Octopus;http://comicvine.gamespot.com/ultimate-six-3-chapter-3/4000-116271/
+Ultimate Spider-Man;2003-12-01;110197;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-47-suspended-men-of-influence/4000-110197/
+Marvel Encyclopedia;2003-11-12;136882;Doctor Octopus;http://comicvine.gamespot.com/marvel-encyclopedia-4-spider-man/4000-136882/
+Ultimate Spider-Man Hardcover;2003-11-01;154744;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hardcover-3-volume-3/4000-154744/
+Ultimate Six;2003-11-01;116269;Doctor Octopus;http://comicvine.gamespot.com/ultimate-six-2-chapter-2/4000-116269/
+Ultimate Six;2003-11-01;116253;Doctor Octopus;http://comicvine.gamespot.com/ultimate-six-1-chapter-1/4000-116253/
+Ultimate Spider-Man;2003-11-01;110198;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-46-afterwards/4000-110198/
+Marvel Masterworks: The Amazing Spider-Man;2003-10-15;140398;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-3-volume/4000-140398/
+Exiles: Legacy;2003-08-31;238397;Doctor Octopus;http://comicvine.gamespot.com/exiles-legacy-1-volume-4/4000-238397/
+Marvel Masterworks: The Amazing Spider-Man;2003-08-27;140399;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-2-volume/4000-140399/
+Marvel Masterworks: The Amazing Spider-Man;2003-07-09;140400;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-1-volume/4000-140400/
+Spider-Man: Legend of the Spider-Clan;2003-07-01;256234;Doctor Octopus;http://comicvine.gamespot.com/spider-man-legend-of-the-spider-clan-1-spider-man-/4000-256234/
+Peter Parker: Spider-Man: Trials and Tribulations;2003-06-30;186657;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-trials-and-tribulations-1-/4000-186657/
+The Best of Spider-Man;2003-05-28;259632;Doctor Octopus;http://comicvine.gamespot.com/the-best-of-spider-man-2-volume-two/4000-259632/
+Ultimate Spider-Man Hardcover;2003-05-01;154668;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hardcover-2-volume-2/4000-154668/
+Spider-Man: Legend of the Spider-Clan;2003-04-01;108694;Doctor Octopus;http://comicvine.gamespot.com/spider-man-legend-of-the-spider-clan-5-part-five-r/4000-108694/
+The Amazing Spider-Man: Until the Stars Turn Cold;2003-03-31;167540;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-until-the-stars-turn-cold-1/4000-167540/
+Ultimate Spider-Man;2003-03-01;108170;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-35-legacy/4000-108170/
+Exiles;2003-03-01;92774;Doctor Octopus;http://comicvine.gamespot.com/exiles-21-legacy-part-two/4000-92774/
+Spider-Man: Legend of the Spider-Clan;2003-02-01;108692;Doctor Octopus;http://comicvine.gamespot.com/spider-man-legend-of-the-spider-clan-3-part-three-/4000-108692/
+Peter Parker: Spider-Man;2003-01-31;113661;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-50-and-here-my-troubles-be/4000-113661/
+Spider-Man: Legend of the Spider-Clan;2003-01-01;108691;Doctor Octopus;http://comicvine.gamespot.com/spider-man-legend-of-the-spider-clan-2-part-two-da/4000-108691/
+Spider-Man's Tangled Web;2002-12-31;468569;Doctor Octopus;http://comicvine.gamespot.com/spider-mans-tangled-web-3-volume-3/4000-468569/
+Spider-Man: Legend of the Spider-Clan;2002-12-01;108616;Doctor Octopus;http://comicvine.gamespot.com/spider-man-legend-of-the-spider-clan-1-spider-sens/4000-108616/
+The Amazing Spider-Man;2002-11-01;113476;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-45-until-the-stars-turn-col/4000-113476/
+Marvel Encyclopedia;2002-10-09;111424;Doctor Octopus;http://comicvine.gamespot.com/marvel-encyclopedia-1-marvel-encyclopedia/4000-111424/
+Essential Daredevil;2002-10-01;142753;Doctor Octopus;http://comicvine.gamespot.com/essential-daredevil-1-volume-1/4000-142753/
+The Amazing Spider-Man;2002-10-01;113475;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-44-arms-and-the-men/4000-113475/
+The Amazing Spider-Man: Revelations;2002-09-30;167479;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-revelations-1-volume-2/4000-167479/
+The Amazing Spider-Man;2002-09-01;113474;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-43-cold-arms/4000-113474/
+Spider-Man's Get Kraven;2002-08-01;126734;Doctor Octopus;http://comicvine.gamespot.com/spider-mans-get-kraven-1/4000-126734/
+Spider-Man's Tangled Web;2002-07-01;114263;Doctor Octopus;http://comicvine.gamespot.com/spider-mans-tangled-web-14-the-last-shoot/4000-114263/
+The Amazing Spider-Man;2002-07-01;113472;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-41-looking-back/4000-113472/
+Deadline;2002-07-01;103526;Doctor Octopus;http://comicvine.gamespot.com/deadline-2-part-2/4000-103526/
+Captain Marvel;2002-07-01;80570;Doctor Octopus;http://comicvine.gamespot.com/captain-marvel-32-getaways/4000-80570/
+Spider-Man: Quality of Life;2002-07-01;77961;Doctor Octopus;http://comicvine.gamespot.com/spider-man-quality-of-life-1-untitled/4000-77961/
+Ultimate Spider-Man;2002-07-01;74729;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-22-reflections-of/4000-74729/
+Spider-Man's Tangled Web;2002-06-18;114262;Doctor Octopus;http://comicvine.gamespot.com/spider-mans-tangled-web-13-double-shots/4000-114262/
+Startling Stories: The Megalomaniacal Spider-Man;2002-06-01;119696;Doctor Octopus;http://comicvine.gamespot.com/the-megalomaniacal-spider-man-1-the-amazingly-conv/4000-119696/
+Ultimate Spider-Man;2002-06-01;74728;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-21-hunted/4000-74728/
+Ultimate Spider-Man;2002-06-01;74727;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-20-live/4000-74727/
+Peter Parker: Spider-Man;2002-05-01;68518;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-41-mission-uncomfortable/4000-68518/
+Ultimate Spider-Man;2002-05-01;51630;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-19-piece-of-work/4000-51630/
+The Best of Spider-Man;2002-04-21;259630;Doctor Octopus;http://comicvine.gamespot.com/the-best-of-spider-man-1-volume-one/4000-259630/
+Spider-Man's Tangled Web;2002-04-18;114260;Doctor Octopus;http://comicvine.gamespot.com/spider-mans-tangled-web-11-open-all-night/4000-114260/
+Marvel Mangaverse;2002-04-15;256666;Doctor Octopus;http://comicvine.gamespot.com/marvel-mangaverse-volume-one-1-marvel-mangaverse-v/4000-256666/
+Ultimate Spider-Man Hardcover;2002-04-01;154663;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-hardcover-1-volume-1/4000-154663/
+Peter Parker: Spider-Man;2002-04-01;68517;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-40-codename-john-hancock/4000-68517/
+Ultimate Spider-Man;2002-04-01;51629;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-18-the-cycle/4000-51629/
+Spider-Man's Tangled Web;2002-03-31;468581;Doctor Octopus;http://comicvine.gamespot.com/spider-mans-tangled-web-2-volume-2/4000-468581/
+Marvel Mangaverse: Spider-Man;2002-03-01;158826;Doctor Octopus;http://comicvine.gamespot.com/marvel-mangaverse-spider-man-1-spider-scroll/4000-158826/
+Peter Parker: Spider-Man;2002-03-01;68516;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-39-operation-octopus/4000-68516/
+Ultimate Spider-Man;2002-03-01;51628;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-17-taking-advantage/4000-51628/
+Essential Amazing Spider-Man;2002-02-01;141113;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-5-volume-5/4000-141113/
+Marvel Universe: Millennial Visions;2002-02-01;108330;Doctor Octopus;http://comicvine.gamespot.com/marvel-universe-millennial-visions-1/4000-108330/
+Ultimate Spider-Man;2002-02-01;51627;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-16-kraven-the-hunter/4000-51627/
+Ultimate Spider-Man;2002-01-01;51626;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-15-confrontations/4000-51626/
+The 100 Greatest Marvels of All Time;2001-12-01;133635;Doctor Octopus;http://comicvine.gamespot.com/the-100-greatest-marvels-of-all-time-3-17-14/4000-133635/
+The Amazing Spider-Man;2001-12-01;113467;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-36-the-black-issue/4000-113467/
+Ultimate Spider-Man;2001-12-01;69357;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-14-doctor-octopus/4000-69357/
+Peter Parker: Spider-Man;2001-12-01;68513;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-36-the-big-score/4000-68513/
+Defenders;2001-12-01;53498;Doctor Octopus;http://comicvine.gamespot.com/defenders-10-head-to-head/4000-53498/
+Sentry;2001-10-01;185458;Doctor Octopus;http://comicvine.gamespot.com/sentry-1-sentry/4000-185458/
+Peter Parker: Spider-Man;2001-09-01;68510;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-33-maybe-next-year/4000-68510/
+The Amazing Spider-Man;2001-08-01;113463;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-32-the-long-dark-pizza-of-t/4000-113463/
+Peter Parker: Spider-Man: A Day in the Life;2001-06-01;186654;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-a-day-in-the-life-1-peter-/4000-186654/
+Universe X;2001-04-01;69366;Doctor Octopus;http://comicvine.gamespot.com/universe-x-7-issue-7/4000-69366/
+Spider-Man and Mysterio;2001-03-01;132393;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-mysterio-manifesto-3-false-truths/4000-132393/
+Spider-Man and Mysterio;2001-02-01;132392;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-mysterio-manifesto-2-even-the-dead-/4000-132392/
+Peter Parker: Spider-Man;2001-02-01;68503;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-26-police-story/4000-68503/
+Ultimate Spider-Man;2001-02-01;51622;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-4-with-great-power/4000-51622/
+Ultimate Spider-Man: Double Trouble;2001-01-01;236773;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-double-trouble-1-double-troubl/4000-236773/
+Ultimate Spider-Man: Power and Responsibility;2001-01-01;236771;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-power-and-responsibility-1-pow/4000-236771/
+Essential Amazing Spider-Man;2001-01-01;141112;Doctor Octopus;http://comicvine.gamespot.com/essential-amazing-spider-man-4-volume-4/4000-141112/
+Ultimate Spider-Man;2001-01-01;51621;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-3-wannabe/4000-51621/
+Universe X Special: Spidey;2000-12-01;144664;Doctor Octopus;http://comicvine.gamespot.com/universe-x-special-spidey-1/4000-144664/
+Ultimate Spider-Man;2000-12-01;51620;Doctor Octopus;http://comicvine.gamespot.com/ultimate-spider-man-2-growing-pains/4000-51620/
+Spider-Man: Death and Destiny;2000-10-01;195914;Doctor Octopus;http://comicvine.gamespot.com/spider-man-death-and-destiny-3-deja-vu-all-over-ag/4000-195914/
+Avataars: Covenant of the Shield;2000-10-01;64480;Doctor Octopus;http://comicvine.gamespot.com/avataars-covenant-of-the-shield-2-wild-kingdoms/4000-64480/
+Spider-Man: Death and Destiny;2000-09-01;195913;Doctor Octopus;http://comicvine.gamespot.com/spider-man-death-and-destiny-2-the-camera-doesnt-l/4000-195913/
+Spider-Man: Death and Destiny;2000-08-01;195911;Doctor Octopus;http://comicvine.gamespot.com/spider-man-death-and-destiny-1-focus/4000-195911/
+Webspinners: Tales of Spider-Man;2000-06-26;117435;Doctor Octopus;http://comicvine.gamespot.com/webspinners-tales-of-spider-man-18-hero-of-the-peo/4000-117435/
+Webspinners: Tales of Spider-Man;2000-05-31;117434;Doctor Octopus;http://comicvine.gamespot.com/webspinners-tales-of-spider-man-17-hero-of-the-peo/4000-117434/
+Spider-Man vs. Doctor Octopus;2000-04-01;425794;Doctor Octopus;http://comicvine.gamespot.com/spider-man-vs-doctor-octopus-1-tpb/4000-425794/
+Spider-Man Activision;2000-01-01;358697;Doctor Octopus;http://comicvine.gamespot.com/spider-man-activision-1-to-trap-a-spider/4000-358697/
+The Amazing Spider-Man;1999-12-31;113443;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-12-another-return-of-the-si/4000-113443/
+Webspinners: Tales of Spider-Man;1999-12-26;117429;Doctor Octopus;http://comicvine.gamespot.com/webspinners-tales-of-spider-man-12-perchance-to-dr/4000-117429/
+Peter Parker: Spider-Man;1999-12-01;68489;Doctor Octopus;http://comicvine.gamespot.com/peter-parker-spider-man-12-another-return-of-the-s/4000-68489/
+The Amazing Spider-Man;1999-10-31;113441;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-10-and-then-there-were/4000-113441/
+Webspinners: Tales of Spider-Man;1999-10-26;75632;Doctor Octopus;http://comicvine.gamespot.com/webspinners-tales-of-spider-man-10-the-show-must-g/4000-75632/
+The Amazing Spider-Man;1999-09-30;113440;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-9-the-list/4000-113440/
+The Amazing Spider-Man;1999-08-31;113439;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-8-the-man-behind-the-curtai/4000-113439/
+Spider-Woman;1999-08-01;82311;Doctor Octopus;http://comicvine.gamespot.com/spider-woman-2-suffer-the-little-children/4000-82311/
+The Amazing Spider-Man;1999-06-30;113437;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-6-truth-be-told-or-not/4000-113437/
+Nova;1999-05-01;125695;Doctor Octopus;http://comicvine.gamespot.com/nova-1-starting-over/4000-125695/
+Marvel Super Hero Island Adventures;1999-04-30;119746;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-hero-island-adventures-1-all-told-in-/4000-119746/
+Earth X;1999-03-01;45724;Doctor Octopus;http://comicvine.gamespot.com/earth-x-0/4000-45724/
+Webspinners: Tales of Spider-Man;1999-02-26;75624;Doctor Octopus;http://comicvine.gamespot.com/webspinners-tales-of-spider-man-2-in-the-nightmare/4000-75624/
+Spider-Man: Chapter One;1999-02-18;45703;Doctor Octopus;http://comicvine.gamespot.com/spider-man-chapter-one-4/4000-45703/
+Spider-Man: Chapter One;1999-01-18;45646;Doctor Octopus;http://comicvine.gamespot.com/spider-man-chapter-one-3-first-fall/4000-45646/
+Timeslip: The Collection;1998-11-01;108916;Doctor Octopus;http://comicvine.gamespot.com/timeslip-the-collection-1/4000-108916/
+Spider-Man Mysteries;1998-08-01;413273;Doctor Octopus;http://comicvine.gamespot.com/spider-man-mysteries-1/4000-413273/
+The Amazing Spider-Man;1997-12-01;64465;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-429-the-price/4000-64465/
+The Amazing Spider-Man;1997-11-01;64464;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-428-a-farewell-to-arms/4000-64464/
+Spider-Man Unlimited;1997-11-01;57303;Doctor Octopus;http://comicvine.gamespot.com/spider-man-unlimited-18-all-my-pasts-remembered/4000-57303/
+The Amazing Spider-Man;1997-10-01;64463;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-427-the-doctor-is-in/4000-64463/
+The Amazing Spider-Man;1997-09-01;64462;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-426-only-the-evil-return/4000-64462/
+What If...?;1997-08-01;43983;Doctor Octopus;http://comicvine.gamespot.com/what-if-99-the-men-behind-the-mask/4000-43983/
+What If...?;1997-07-01;43886;Doctor Octopus;http://comicvine.gamespot.com/what-if--1-what-if-starring-bishop-the-man-from-th/4000-43886/
+Spider-Man: Dead Man's Hand;1997-04-01;200815;Doctor Octopus;http://comicvine.gamespot.com/spider-man-dead-mans-hand-1-aces-eights/4000-200815/
+The Adventures of Spider-Man;1997-03-01;114727;Doctor Octopus;http://comicvine.gamespot.com/the-adventures-of-spider-man-12-unions-part-2/4000-114727/
+Untold Tales of Spider-Man;1997-03-01;43493;Doctor Octopus;http://comicvine.gamespot.com/untold-tales-of-spider-man-19-eight-arms-to-hold-y/4000-43493/
+The Adventures of Spider-Man;1997-02-01;114726;Doctor Octopus;http://comicvine.gamespot.com/the-adventures-of-spider-man-11-unions/4000-114726/
+Spider-Man: 101 Ways to End the Clone Saga;1997-01-01;172358;Doctor Octopus;http://comicvine.gamespot.com/spider-man-101-ways-to-end-the-clone-saga-1/4000-172358/
+Spider-Man/Kingpin: To The Death;1997-01-01;120919;Doctor Octopus;http://comicvine.gamespot.com/spider-mankingpin-to-the-death-1/4000-120919/
+Untold Tales of Spider-Man;1996-11-01;42992;Doctor Octopus;http://comicvine.gamespot.com/untold-tales-of-spider-man-15-the-battle-for-the-d/4000-42992/
+Sergio Aragones Massacres Marvel;1996-06-01;192292;Doctor Octopus;http://comicvine.gamespot.com/sergio-aragones-massacres-marvel-1-sergio-aragones/4000-192292/
+Untold Tales of Spider-Man;1996-06-01;42497;Doctor Octopus;http://comicvine.gamespot.com/untold-tales-of-spider-man-10-call-hercommanda/4000-42497/
+What If...?;1996-02-01;42100;Doctor Octopus;http://comicvine.gamespot.com/what-if-82-the-man-in-the-million-dollar-mask-what/4000-42100/
+Hot Shots: Spider-Man;1996-01-01;202842;Doctor Octopus;http://comicvine.gamespot.com/hot-shots-spider-man-1/4000-202842/
+Spider-Man's Greatest Team-Ups;1996-01-01;167037;Doctor Octopus;http://comicvine.gamespot.com/spider-mans-greatest-team-ups-1-spider-mans-greate/4000-167037/
+Spider-Man: The Lost Years;1996-01-01;124299;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-lost-years-0-the-double-and-the-par/4000-124299/
+Spider-Man Adventures;1996-01-01;114653;Doctor Octopus;http://comicvine.gamespot.com/spider-man-adventures-14-ock-rocksinto-the-mystic/4000-114653/
+Spider-Man: The Parker Years;1995-11-01;120918;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-parker-years-1/4000-120918/
+The Amazing Spider-Man;1995-10-31;64444;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-406-the-greatest-responsibi/4000-64444/
+What If...?;1995-10-01;41518;Doctor Octopus;http://comicvine.gamespot.com/what-if-78-what-if-the-new-fantastic-four-had-rema/4000-41518/
+Untold Tales of Spider-Man;1995-09-01;41388;Doctor Octopus;http://comicvine.gamespot.com/untold-tales-of-spider-man-1-to-serve-and-protect/4000-41388/
+Spider-Man: The Jackal Files;1995-08-31;196059;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-jackal-files-1/4000-196059/
+Spider-Man: Maximum Clonage Alpha;1995-08-31;190583;Doctor Octopus;http://comicvine.gamespot.com/spider-man-maximum-clonage-1-maximum-clonage-part-/4000-190583/
+What If...?;1995-08-01;41259;Doctor Octopus;http://comicvine.gamespot.com/what-if-76-what-if-peter-parker-had-to-destroy-spi/4000-41259/
+Spider-Man: Clone Genesis;1995-06-01;166480;Doctor Octopus;http://comicvine.gamespot.com/spider-man-clone-genesis-1-spider-man-clone-genesi/4000-166480/
+Spider-Man Adventures;1995-06-01;114644;Doctor Octopus;http://comicvine.gamespot.com/spider-man-adventures-7-doctor-octopus-armed-and-d/4000-114644/
+Spider-Man: Funeral for an Octopus;1995-05-31;125693;Doctor Octopus;http://comicvine.gamespot.com/spider-man-funeral-for-an-octopus-3-a-farewell-to-/4000-125693/
+Spider-Man Unlimited;1995-05-31;57296;Doctor Octopus;http://comicvine.gamespot.com/spider-man-unlimited-9-the-mark-of-kaine-part-five/4000-57296/
+Spider-Man: Funeral for an Octopus;1995-04-30;125692;Doctor Octopus;http://comicvine.gamespot.com/spider-man-funeral-for-an-octopus-2-armed-and-dang/4000-125692/
+Spider-Man Magazine;1995-04-01;166252;Doctor Octopus;http://comicvine.gamespot.com/spider-man-magazine-12/4000-166252/
+Spider-Man: The Clone Journal;1995-03-31;211817;Doctor Octopus;http://comicvine.gamespot.com/spider-man-the-clone-journal-1-puppet/4000-211817/
+Spider-Man: Funeral for an Octopus;1995-03-31;125633;Doctor Octopus;http://comicvine.gamespot.com/spider-man-funeral-for-an-octopus-1-eight-arms-bey/4000-125633/
+The Spectacular Spider-Man;1995-02-01;65616;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-221-web-of-death-4-of-4/4000-65616/
+Spider-Man: Friends and Enemies;1995-02-01;64975;Doctor Octopus;http://comicvine.gamespot.com/spider-man-friends-and-enemies-2-targets/4000-64975/
+The Amazing Spider-Man;1995-02-01;64437;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-398-web-of-death-part-3-of-/4000-64437/
+Sensational Spider-Man Wizard Mini Comic;1995-01-04;415946;Doctor Octopus;http://comicvine.gamespot.com/sensational-spider-man-wizard-mini-comic-3/4000-415946/
+Spider-Man's Greatest Villains;1995-01-01;167039;Doctor Octopus;http://comicvine.gamespot.com/spider-mans-greatest-villains-1-spider-mans-greate/4000-167039/
+2099 Unlimited;1995-01-01;134448;Doctor Octopus;http://comicvine.gamespot.com/2099-unlimited-7-mirrors-midsummer-knights-2099-ol/4000-134448/
+Spider-Man Adventures;1995-01-01;114636;Doctor Octopus;http://comicvine.gamespot.com/spider-man-adventures-2-the-sting-of-the-scorpion/4000-114636/
+The Spectacular Spider-Man;1995-01-01;65615;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-220-web-of-death-part-2/4000-65615/
+The Amazing Spider-Man;1995-01-01;64436;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-397-web-of-death-part-1-of-/4000-64436/
+Very Best of Spider-Man;1994-11-01;166479;Doctor Octopus;http://comicvine.gamespot.com/very-best-of-spider-man-1-the-very-best-of-spider-/4000-166479/
+The Spectacular Spider-Man;1994-10-01;65611;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-217-power-and-responsib/4000-65611/
+Spider-Man Unlimited;1994-08-01;57293;Doctor Octopus;http://comicvine.gamespot.com/spider-man-unlimited-6-by-myself-betrayed/4000-57293/
+Spider-Man Classics;1994-04-01;38949;Doctor Octopus;http://comicvine.gamespot.com/spider-man-classics-13/4000-38949/
+Marvels;1994-04-01;38942;Doctor Octopus;http://comicvine.gamespot.com/marvels-4-the-day-she-died/4000-38942/
+Spider-Man Magazine;1994-03-01;150232;Doctor Octopus;http://comicvine.gamespot.com/spider-man-magazine-1/4000-150232/
+Spider-Man Classics;1994-03-01;38807;Doctor Octopus;http://comicvine.gamespot.com/spider-man-classics-12/4000-38807/
+What If...?;1994-02-01;38665;Doctor Octopus;http://comicvine.gamespot.com/what-if-58-what-if-the-punisher-had-killed-spider-/4000-38665/
+Lethal Foes of Spider-Man;1993-12-01;94946;Doctor Octopus;http://comicvine.gamespot.com/lethal-foes-of-spider-man-4-re-disunited/4000-94946/
+Lethal Foes of Spider-Man;1993-11-01;94945;Doctor Octopus;http://comicvine.gamespot.com/lethal-foes-of-spider-man-3-power-struggle/4000-94945/
+Spider-Man Unlimited;1993-11-01;57290;Doctor Octopus;http://comicvine.gamespot.com/spider-man-unlimited-3-an-obituary-for-octopus/4000-57290/
+What The--?!;1993-10-01;138245;Doctor Octopus;http://comicvine.gamespot.com/what-the--26-spider-ham-2099/4000-138245/
+Lethal Foes of Spider-Man;1993-10-01;94944;Doctor Octopus;http://comicvine.gamespot.com/lethal-foes-of-spider-man-2-hate-is-a-many-splendo/4000-94944/
+Marvel Super-Heroes;1993-10-01;86097;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-15-fall-special/4000-86097/
+Lethal Foes of Spider-Man;1993-09-01;94943;Doctor Octopus;http://comicvine.gamespot.com/lethal-foes-of-spider-man-1-deadly-reunion/4000-94943/
+Spider-Man Classics;1993-07-01;37527;Doctor Octopus;http://comicvine.gamespot.com/spider-man-classics-4/4000-37527/
+The Marvel Masterpieces Collection;1993-06-01;95150;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterpieces-2/4000-95150/
+Alpha Flight;1993-06-01;37356;Doctor Octopus;http://comicvine.gamespot.com/alpha-flight-121-the-return-of-the-brass-bishop/4000-37356/
+The Amazing Spider-Man;1993-03-31;64599;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-375-the-bride-of-venom/4000-64599/
+Marvel Year-In-Review;1993-01-01;127461;Doctor Octopus;http://comicvine.gamespot.com/marvel-year-in-review-4-marvel-year-in-review-92/4000-127461/
+Marvel Masterworks;1992-12-01;35181;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-22-volume-22-amazing-spider-man/4000-35181/
+Fantastic Four Annual;1992-10-01;35185;Doctor Octopus;http://comicvine.gamespot.com/fantastic-four-annual-25-twice-upon-a-time/4000-35185/
+Avengers West Coast;1992-09-01;114278;Doctor Octopus;http://comicvine.gamespot.com/avengers-west-coast-86-webs-and-fear-and-sorrow/4000-114278/
+The Amazing Spider-Man;1992-08-31;64498;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-365-fathers-and-sins/4000-64498/
+Marvel Age;1992-07-01;157244;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-114-spider-mans-30th-anniversary/4000-157244/
+Spider-Man;1992-06-01;64625;Doctor Octopus;http://comicvine.gamespot.com/spider-man-23-revenge-of-the-sinister-six-conclusi/4000-64625/
+The Amazing Spider-Man Annual;1992-06-01;64430;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-26-the-hero-killers-/4000-64430/
+Spider-Man;1992-05-01;64624;Doctor Octopus;http://comicvine.gamespot.com/spider-man-22-revenge-of-the-sinister-six-part-fiv/4000-64624/
+Spider-Man;1992-04-01;64623;Doctor Octopus;http://comicvine.gamespot.com/spider-man-21-revenge-of-the-sinister-six-part-fou/4000-64623/
+Spider-Man;1992-03-01;64622;Doctor Octopus;http://comicvine.gamespot.com/spider-man-20-revenge-of-the-sinister-six-part-thr/4000-64622/
+Spider-Man;1992-02-01;64621;Doctor Octopus;http://comicvine.gamespot.com/spider-man-19-revenge-of-the-sinister-six-part-two/4000-64621/
+What If...?;1992-02-01;35376;Doctor Octopus;http://comicvine.gamespot.com/what-if-34-what-if-no-one-was-watching-the-watcher/4000-35376/
+Spider-Man;1992-01-01;64620;Doctor Octopus;http://comicvine.gamespot.com/spider-man-18-revenge-of-the-sinister-six-part-one/4000-64620/
+Spider-Man Saga;1991-12-11;160694;Doctor Octopus;http://comicvine.gamespot.com/spider-man-saga-4-volume-4/4000-160694/
+Spider-Man Saga;1991-10-09;160818;Doctor Octopus;http://comicvine.gamespot.com/spider-man-saga-2-volume-2/4000-160818/
+Spider-Man Saga;1991-09-11;111581;Doctor Octopus;http://comicvine.gamespot.com/spider-man-saga-1-volume-1/4000-111581/
+Marvel Masterworks;1991-08-01;33689;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-16-volume-16-amazing-spider-man/4000-33689/
+Marvel Tales;1991-07-01;65062;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-251-the-spider-or-the-man/4000-65062/
+The Spectacular Spider-Man;1991-04-01;65569;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-175-spouse-trap/4000-65569/
+What If...?;1991-04-01;34113;Doctor Octopus;http://comicvine.gamespot.com/what-if-24-what-if-wolverine-was-lord-of-the-vampi/4000-34113/
+Marvel Fanfare;1991-04-01;34100;Doctor Octopus;http://comicvine.gamespot.com/marvel-fanfare-56-crimes-of-the-pride/4000-34100/
+What The--?!;1991-03-01;138248;Doctor Octopus;http://comicvine.gamespot.com/what-the--11-okay-so-its-not-such-a-wonderful-life/4000-138248/
+The Spectacular Spider-Man;1991-03-01;65568;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-174-dedication-or-j-jon/4000-65568/
+The Spectacular Spider-Man;1991-02-01;65567;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-173-creatures-stirring/4000-65567/
+DC/Marvel Crossover Classics;1991-01-01;223686;Doctor Octopus;http://comicvine.gamespot.com/dcmarvel-crossover-classics-1-the-marveldc-collect/4000-223686/
+The Amazing Spider-Man;1990-09-01;33251;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-339-the-killing-cure/4000-33251/
+The Amazing Spider-Man;1990-09-01;33186;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-338-death-from-above/4000-33186/
+Marvel Age;1990-08-01;145985;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-91/4000-145985/
+The Amazing Spider-Man;1990-08-01;33131;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-337-rites-and-wrongs/4000-33131/
+The Amazing Spider-Man;1990-08-01;33070;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-336-the-wagers-of-sin/4000-33070/
+The Amazing Spider-Man;1990-07-01;33012;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-335-shocks/4000-33012/
+The Amazing Spider-Man;1990-07-01;32956;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-334-secrets-puzzles-and-lit/4000-32956/
+Marvel Comics Presents;1990-05-01;32773;Doctor Octopus;http://comicvine.gamespot.com/marvel-comics-presents-50/4000-32773/
+The Amazing Spider-Man: Managing Materials;1990-01-01;383543;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-managing-materials-1-managi/4000-383543/
+What If...?;1989-10-31;31783;Doctor Octopus;http://comicvine.gamespot.com/what-if-4-what-if-the-alien-costume-had-possessed-/4000-31783/
+Marvel Masterworks;1989-10-01;30666;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-10-volume-10-amazing-spider-man/4000-30666/
+The New Mutants Annual;1989-10-01;30616;Doctor Octopus;http://comicvine.gamespot.com/the-new-mutants-annual-5-here-be-monsters/4000-30616/
+The Amazing Spider-Man Annual;1989-09-01;30692;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-23-abominations/4000-30692/
+Marvel Tales;1989-07-01;65012;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-225-and-death-shall-come/4000-65012/
+What If...?;1989-07-01;31454;Doctor Octopus;http://comicvine.gamespot.com/what-if-1-what-if-the-avengers-lost-the-evolutiona/4000-31454/
+Marvel Tales;1989-06-01;65010;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-224-doc-ock-lives/4000-65010/
+Excalibur;1989-05-31;66340;Doctor Octopus;http://comicvine.gamespot.com/excalibur-8-excaliburs-new-york-adventure/4000-66340/
+Spider-Man: Parallel Lives;1989-05-01;167456;Doctor Octopus;http://comicvine.gamespot.com/spider-man-parallel-lives-1-parallel-lives/4000-167456/
+Marvel Tales;1989-05-01;65008;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-223-the-arms-of-doctor-octopus/4000-65008/
+Spider-Man Comics Magazine;1989-01-01;57121;Doctor Octopus;http://comicvine.gamespot.com/spider-man-comics-magazine-13/4000-57121/
+Marvel Fanfare;1988-12-01;30434;Doctor Octopus;http://comicvine.gamespot.com/marvel-fanfare-41-perchance-to-dream/4000-30434/
+Marvel Masterworks;1988-10-01;29036;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-5-volume-5-amazing-spider-man-i/4000-29036/
+The Amazing Spider-Man Annual;1988-09-01;64428;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-22-drug-war-rages/4000-64428/
+The Amazing Spider-Man;1988-02-29;29256;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-297-ill-take-manhattan/4000-29256/
+The Amazing Spider-Man;1988-01-31;29137;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-296-force-of-arms/4000-29137/
+Marvel Masterworks;1987-11-01;27558;Doctor Octopus;http://comicvine.gamespot.com/marvel-masterworks-1-volume-1-amazing-spider-man/4000-27558/
+Thor;1987-09-01;28575;Doctor Octopus;http://comicvine.gamespot.com/thor-383-the-secret-love/4000-28575/
+Marvel Age;1987-05-01;169927;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-50-which-new-universe-star-will-die/4000-169927/
+Spider-Man Comics Magazine;1987-03-01;57110;Doctor Octopus;http://comicvine.gamespot.com/spider-man-comics-magazine-2/4000-57110/
+The Spectacular Spider-Man;1987-03-01;27907;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-124-when-strikes-the-oc/4000-27907/
+The Best of Marvel Comics;1987-01-01;197667;Doctor Octopus;http://comicvine.gamespot.com/the-best-of-marvel-comics-1-volume-one/4000-197667/
+Marvel Age Annual;1987-01-01;114773;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-annual-3-when-titans-plug/4000-114773/
+Spider-Man Comics Magazine;1987-01-01;57109;Doctor Octopus;http://comicvine.gamespot.com/spider-man-comics-magazine-1/4000-57109/
+The Marvel Saga The Official History of the Marvel Universe;1986-12-01;95171;Doctor Octopus;http://comicvine.gamespot.com/the-marvel-saga-the-official-history-of-the-marvel/4000-95171/
+Marvel Age;1986-09-01;157222;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-42/4000-157222/
+The Marvel Saga The Official History of the Marvel Universe;1986-09-01;95168;Doctor Octopus;http://comicvine.gamespot.com/the-marvel-saga-the-official-history-of-the-marvel/4000-95168/
+The Marvel Saga The Official History of the Marvel Universe;1986-08-30;95167;Doctor Octopus;http://comicvine.gamespot.com/the-marvel-saga-the-official-history-of-the-marvel/4000-95167/
+The Spectacular Spider-Man;1986-03-01;26608;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-112-you-better-watch-ou/4000-26608/
+Secret Wars II;1986-01-01;57521;Doctor Octopus;http://comicvine.gamespot.com/secret-wars-ii-7-charge-of-the-dark-brigade/4000-57521/
+Marvel Tales;1985-11-01;64935;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-181/4000-64935/
+Secret Wars II;1985-09-10;57517;Doctor Octopus;http://comicvine.gamespot.com/secret-wars-ii-3-this-world-is-mine/4000-57517/
+Marvel Fanfare;1985-09-01;25882;Doctor Octopus;http://comicvine.gamespot.com/marvel-fanfare-22-night-of-the-octopus/4000-25882/
+Marvel Age;1985-08-01;145974;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-29/4000-145974/
+Web of Spider-Man;1985-08-01;25802;Doctor Octopus;http://comicvine.gamespot.com/web-of-spider-man-5-the-enemy-within/4000-25802/
+The Official Marvel Index to the Amazing Spider-Man;1985-07-01;133255;Doctor Octopus;http://comicvine.gamespot.com/the-official-marvel-index-to-the-amazing-spider-ma/4000-133255/
+Web of Spider-Man;1985-07-01;25702;Doctor Octopus;http://comicvine.gamespot.com/web-of-spider-man-4-arms-and-the-man/4000-25702/
+Marvel Age;1985-06-01;145972;Doctor Octopus;http://comicvine.gamespot.com/marvel-age-27/4000-145972/
+Marvel Super Heroes Secret Wars;1985-04-01;57515;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-12-nothing-to-fear/4000-57515/
+Marvel Super Heroes Secret Wars;1985-03-01;57514;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-11-and-dust-to-dus/4000-57514/
+Marvel Super Heroes Secret Wars;1985-02-01;57513;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-10-death-to-the-be/4000-57513/
+Marvel Tales;1985-02-01;25267;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-172/4000-25267/
+Marvel Super Heroes Secret Wars;1985-01-01;57512;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-9-assault-on-galac/4000-57512/
+Marvel Tales;1985-01-01;25169;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-171/4000-25169/
+Marvel Super Heroes Secret Wars;1984-12-01;57511;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-8-invasion/4000-57511/
+Marvel Super Heroes Secret Wars;1984-11-01;57510;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-7-berserker/4000-57510/
+Marvel Super Heroes Secret Wars;1984-10-01;57509;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-6-a-little-death/4000-57509/
+Marvel Super Heroes Secret Wars;1984-09-01;57508;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-5-the-battle-of-fo/4000-57508/
+Marvel Super Heroes Secret Wars;1984-08-01;57507;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-4-situation-hopele/4000-57507/
+What If?;1984-08-01;24621;Doctor Octopus;http://comicvine.gamespot.com/what-if-46-what-if-spider-mans-uncle-ben-had-lived/4000-24621/
+Marvel Super Heroes Secret Wars;1984-07-01;57506;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-3-the-crisis-withi/4000-57506/
+Marvel Super Heroes Secret Wars;1984-06-01;57505;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-2-prisoners-of-war/4000-57505/
+Marvel Super Heroes Secret Wars;1984-05-01;57504;Doctor Octopus;http://comicvine.gamespot.com/marvel-super-heroes-secret-wars-1-the-war-begins/4000-57504/
+The Spectacular Spider-Man;1984-04-01;24212;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-89-power-search/4000-24212/
+Marvel Tales;1984-04-01;24208;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-162-spider-man-goes-mad/4000-24208/
+The Amazing Spider-Man;1984-03-01;24086;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-250-confessions/4000-24086/
+The Spectacular Spider-Man;1984-01-01;23890;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-86-bugs/4000-23890/
+The Spectacular Spider-Man;1983-12-01;23739;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-85-the-hatred-of-the-ho/4000-23739/
+The Amazing Spider-Man;1983-11-01;23614;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-246-the-daydreamers/4000-23614/
+The Spectacular Spider-Man;1983-10-01;23552;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-83-delusions/4000-23552/
+Marvel Tales;1983-10-01;23547;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-156-the-end-of-spider-man/4000-23547/
+The Amazing Spider-Man;1983-09-01;23441;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-244-ordeals/4000-23441/
+The Spectacular Spider-Man;1983-08-01;23383;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-81-stalkers-in-the-shad/4000-23383/
+Marvel Team-Up;1983-07-31;23297;Doctor Octopus;http://comicvine.gamespot.com/marvel-team-up-131-the-best-things-in-life-are-fre/4000-23297/
+The Amazing Spider-Man;1983-07-01;23280;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-242-confrontations/4000-23280/
+The Spectacular Spider-Man;1983-06-01;23215;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-79-the-final-battle/4000-23215/
+The Spectacular Spider-Man;1983-05-01;23135;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-78-the-long-goodbye/4000-23135/
+The Amazing Spider-Man;1983-05-01;23109;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-240-wings-of-vengeance/4000-23109/
+Marvel Team-Up;1983-04-30;23038;Doctor Octopus;http://comicvine.gamespot.com/marvel-team-up-128-sweet-temptation/4000-23038/
+The Amazing Spider-Man;1983-04-30;23021;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-239-now-strikes-the-hobgobl/4000-23021/
+The Spectacular Spider-Man;1983-04-01;23047;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-77-relapse-times-two/4000-23047/
+Marvel Tales;1983-04-01;23037;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-150-the-sinister-six/4000-23037/
+The Spectacular Spider-Man;1983-03-01;22966;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-76-at-deaths-door/4000-22966/
+Marvel Tales;1983-03-01;22955;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-149-unmasked-by-dr-octopus/4000-22955/
+The Spectacular Spider-Man;1983-02-01;22878;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-75-ferae-naturae/4000-22878/
+Marvel Tales;1983-02-01;22867;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-148-turning-point/4000-22867/
+The Amazing Spider-Man;1983-02-01;22852;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-237-high-mighty/4000-22852/
+Marvel No-Prize Book;1983-01-01;217546;Doctor Octopus;http://comicvine.gamespot.com/marvel-no-prize-book-1/4000-217546/
+The Spectacular Spider-Man;1983-01-01;22805;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-74-fantasia/4000-22805/
+The Spectacular Spider-Man;1982-12-01;22683;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-73-spider-in-the-middle/4000-22683/
+The Spectacular Spider-Man;1982-11-01;22608;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-72-waiting-for-doctor-o/4000-22608/
+What If?;1982-08-31;112838;Doctor Octopus;http://comicvine.gamespot.com/what-if-34/4000-112838/
+Marvel Tales;1982-06-01;22235;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-140-doctor-octopus/4000-22235/
+Marvel Tales;1982-02-01;21935;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-136-arm-in-arm-in-arm-in-arm-in-arm-i/4000-21935/
+Crazy Magazine;1982-01-01;141651;Doctor Octopus;http://comicvine.gamespot.com/crazy-magazine-82-crazy/4000-141651/
+The Amazing Spider-Man;1982-01-01;136279;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-1-crisis-at-cape-canaveral/4000-136279/
+Marvel Tales;1982-01-01;21862;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-135-hammerhead-is-out/4000-21862/
+The Amazing Spider-Man Annual;1981-12-31;20919;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-15-spider-man-threat/4000-20919/
+Marvel Tales;1981-12-01;21736;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-134-the-ghost-that-haunted-octopus/4000-21736/
+Marvel Tales;1981-11-01;64905;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-133-on-a-clear-day-you-can-seethe-mir/4000-64905/
+What If?;1981-10-31;21615;Doctor Octopus;http://comicvine.gamespot.com/what-if-29-what-if-the-avengers-defeated-everybody/4000-21615/
+Marvel Tales;1981-09-01;64901;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-131-the-sandman-always-strikes-twice/4000-64901/
+Marvel Tales;1981-07-01;64897;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-129-shattered-by-the-shocker/4000-64897/
+Crazy Magazine;1981-04-01;217343;Doctor Octopus;http://comicvine.gamespot.com/crazy-magazine-73/4000-217343/
+Bubble Funnies;1981-01-01;347983;Doctor Octopus;http://comicvine.gamespot.com/bubble-funnies-1-the-amazing-spider-man-in-the-clu/4000-347983/
+The Spectacular Spider-Man;1981-01-01;20983;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-50-alone-against-the-al/4000-20983/
+The Amazing Spider-Man;1980-11-30;20787;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-210-the-prophecy-of-madame-/4000-20787/
+Marvel Tales;1980-08-01;110314;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-118-the-mans-name-appears-to-bemyster/4000-110314/
+Spidey Super Stories;1980-07-01;67532;Doctor Octopus;http://comicvine.gamespot.com/spidey-super-stories-47-wanted-web-head-surprise-t/4000-67532/
+The Spectacular Spider-Man;1980-05-31;20398;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-42-give-me-liberty-or-g/4000-20398/
+What If?;1980-02-29;20185;Doctor Octopus;http://comicvine.gamespot.com/what-if-19-what-if-spider-man-had-never-become-a-c/4000-20185/
+Crazy Magazine;1980-01-01;217305;Doctor Octopus;http://comicvine.gamespot.com/crazy-magazine-58/4000-217305/
+Spidey Super Stories;1980-01-01;67529;Doctor Octopus;http://comicvine.gamespot.com/spidey-super-stories-44-time-for-trouble-the-wizar/4000-67529/
+Marvel Tales;1980-01-01;64866;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-111-danger-is-a-man-called-tarantula/4000-64866/
+The Spectacular Spider-Man;1980-01-01;20110;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-38-curse-of-the-living-/4000-20110/
+The Amazing Spider-Man Annual;1979-12-01;19111;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-13-the-arms-of-docto/4000-19111/
+The Spectacular Spider-Man Annual;1979-12-01;19082;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-annual-1-and-men-shall-/4000-19082/
+The Amazing Spider-Man;1979-10-31;19836;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-197-the-kingpins-midnight-m/4000-19836/
+Marvel Tales;1979-10-01;64860;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-108-my-unclemy-enemy/4000-64860/
+Marvel Tales;1979-09-01;64858;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-107-betrayed/4000-64858/
+Spidey Super Stories;1979-07-01;67526;Doctor Octopus;http://comicvine.gamespot.com/spidey-super-stories-41-introducingnova-machine-ma/4000-67526/
+The Amazing Spider-Man;1979-01-01;224088;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-1-exclusive-collectors-edit/4000-224088/
+Marvel Tales;1978-08-01;64834;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-94/4000-64834/
+Marvel Tales;1978-07-01;64832;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-93-hammerhead/4000-64832/
+The Amazing Spider-Man;1978-06-30;18568;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-181-flashback/4000-18568/
+Marvel Tales;1978-06-01;64831;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-92-they-call-the-doctoroctopus/4000-64831/
+Marvel Tales;1978-05-01;64829;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-91-spidey-cops-out/4000-64829/
+Spidey Super Stories;1978-03-01;67517;Doctor Octopus;http://comicvine.gamespot.com/spidey-super-stories-32-and-along-came-the-spider-/4000-67517/
+Pizzazz;1977-10-01;217183;Doctor Octopus;http://comicvine.gamespot.com/pizzazz-1/4000-217183/
+The Spectacular Spider-Man;1977-09-01;17795;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-10-showdown/4000-17795/
+Marvel Team-Up;1977-03-31;17274;Doctor Octopus;http://comicvine.gamespot.com/marvel-team-up-55-spider-spider-on-the-moon/4000-17274/
+Spidey Super Stories;1977-02-01;67506;Doctor Octopus;http://comicvine.gamespot.com/spidey-super-stories-21/4000-67506/
+Marvel Treasury Edition;1977-01-01;17037;Doctor Octopus;http://comicvine.gamespot.com/marvel-treasury-edition-14/4000-17037/
+Spidey Super Stories;1976-12-01;67505;Doctor Octopus;http://comicvine.gamespot.com/spidey-super-stories-20-day-of-the-ray/4000-67505/
+Marvel Tales;1976-09-01;64787;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-71/4000-64787/
+The Amazing Spider-Man;1976-08-31;16583;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-159-arm-in-arm-in-arm-in-ar/4000-16583/
+Marvel Tales;1976-08-01;64785;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-70-doc-ock-lives/4000-64785/
+The Amazing Spider-Man;1976-07-31;16494;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-158-hammerhead-is-out/4000-16494/
+Marvel Tales;1976-07-01;64783;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-69/4000-64783/
+The Amazing Spider-Man;1976-06-30;16405;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-157-the-ghost-that-haunted-/4000-16405/
+Marvel Tales;1976-06-01;64781;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-68/4000-64781/
+The Amazing Spider-Man;1976-05-31;16330;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-156-on-a-clear-day-you-can-/4000-16330/
+The Amazing Spider-Man;1976-03-31;16156;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-154-the-sandman-always-stri/4000-16156/
+The Amazing Spider-Man;1976-01-31;15991;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-152-shattered-by-the-shocke/4000-15991/
+Superman vs. the Amazing Spider-Man;1976-01-01;112157;Doctor Octopus;http://comicvine.gamespot.com/superman-vs-the-amazing-spider-man-1-superman-vs-t/4000-112157/
+Spidey Super Stories;1975-08-01;15499;Doctor Octopus;http://comicvine.gamespot.com/spidey-super-stories-11-spider-woman/4000-15499/
+The Amazing Spider-Man;1975-03-31;15137;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-142-dead-mans-bluff/4000-15137/
+The Amazing Spider-Man;1975-02-01;15046;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-141-the-mans-name-appears-t/4000-15046/
+Marvel Special Edition Featuring The Spectacular Spider-Man;1975-01-01;265145;Doctor Octopus;http://comicvine.gamespot.com/marvel-special-edition-featuring-the-spectacular-s/4000-265145/
+Spidey Super Stories;1974-11-01;14775;Doctor Octopus;http://comicvine.gamespot.com/spidey-super-stories-2-in-the-hands-of-the-hunter/4000-14775/
+The Amazing Spider-Man;1974-07-01;14408;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-134-danger-is-a-man-called-/4000-14408/
+The Amazing Spider-Man;1974-04-01;14188;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-131-my-unclemy-enemy/4000-14188/
+The Amazing Spider-Man;1974-03-01;14117;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-130-betrayed/4000-14117/
+Marvel Treasury Edition;1974-01-01;13920;Doctor Octopus;http://comicvine.gamespot.com/marvel-treasury-edition-1/4000-13920/
+Marvel Tales;1973-02-01;12933;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-41-disaster/4000-12933/
+Marvel Tales;1972-12-01;12747;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-40-doc-ock-wins/4000-12747/
+The Amazing Spider-Man;1972-12-01;12728;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-115-the-last-battle/4000-12728/
+Marvel Tales;1972-11-01;12657;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-39-the-tentacles-and-the-trap/4000-12657/
+The Amazing Spider-Man;1972-11-01;12640;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-114-gang-war-schmang-war-wh/4000-12640/
+Marvel Tales;1972-10-01;12582;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-38-enter-doctor-octopus/4000-12582/
+The Amazing Spider-Man;1972-10-01;12563;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-113-they-call-the-doctoroct/4000-12563/
+The Amazing Spider-Man;1972-09-01;12473;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-112-spidey-cops-out/4000-12473/
+The Amazing Spider-Man;1971-09-01;11657;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-100-the-spider-or-the-man/4000-11657/
+The Amazing Spider-Man;1971-03-01;11320;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-94-on-wings-of-death/4000-11320/
+The Amazing Spider-Man;1970-11-01;11095;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-90-and-death-shall-come/4000-11095/
+The Amazing Spider-Man;1970-10-01;11047;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-89-doc-ock-lives/4000-11047/
+The Amazing Spider-Man;1970-09-01;11001;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-88-the-arms-of-doctor-octop/4000-11001/
+The Amazing Spider-Man;1970-08-01;10947;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-87-unmasked-at-last/4000-10947/
+Marvel Tales;1970-05-01;10808;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-26-the-final-chapter/4000-10808/
+Marvel Tales;1970-03-01;10716;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-25-man-on-a-rampage/4000-10716/
+The Amazing Spider-Man Annual;1969-11-01;10484;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-6-the-sinister-six/4000-10484/
+Marvel Tales;1969-03-01;10102;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-19-spider-man-goes-mad/4000-10102/
+Not Brand Echh;1969-02-01;10050;Doctor Octopus;http://comicvine.gamespot.com/not-brand-echh-12/4000-10050/
+The Spectacular Spider-Man Magazine;1968-11-01;166098;Doctor Octopus;http://comicvine.gamespot.com/the-spectacular-spider-man-magazine-2-the-goblin-l/4000-166098/
+The Avengers Annual;1968-09-01;124563;Doctor Octopus;http://comicvine.gamespot.com/the-avengers-annual-2-and-time-the-rushing-river/4000-124563/
+Marvel Tales;1968-03-01;109465;Doctor Octopus;http://comicvine.gamespot.com/marvel-tales-13-the-end-of-spider-man/4000-109465/
+Not Brand Echh;1968-02-01;9938;Doctor Octopus;http://comicvine.gamespot.com/not-brand-echh-6/4000-9938/
+The Amazing Spider-Man;1968-01-01;9876;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-56-disaster/4000-9876/
+The Amazing Spider-Man;1967-12-01;9813;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-55-doc-ock-wins/4000-9813/
+The Amazing Spider-Man;1967-11-01;9751;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-54-the-tentacles-and-the-tr/4000-9751/
+The Amazing Spider-Man;1967-10-01;9682;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-53-enter-dr-octopus/4000-9682/
+Not Brand Echh;1967-09-01;9619;Doctor Octopus;http://comicvine.gamespot.com/not-brand-echh-2/4000-9619/
+The Amazing Spider-Man Annual;1966-11-01;8905;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-3-to-become-an-aveng/4000-8905/
+The Amazing Spider-Man;1966-02-01;8364;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-33-the-final-chapter/4000-8364/
+The Amazing Spider-Man;1966-01-01;8305;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-32-man-on-a-rampage/4000-8305/
+The Amazing Spider-Man;1964-11-01;7422;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-18-the-end-of-spider-man/4000-7422/
+The Amazing Spider-Man Annual;1964-08-31;6837;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-annual-1-the-sinister-six/4000-6837/
+The Amazing Spider-Man;1964-05-01;7105;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-12-unmasked-by-dr-octopus/4000-7105/
+The Amazing Spider-Man;1964-04-01;7066;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-11-turning-point/4000-7066/
+The Amazing Spider-Man;1963-07-01;6595;Doctor Octopus;http://comicvine.gamespot.com/the-amazing-spider-man-3-spider-man-versus-doctor-/4000-6595/
+Spider-Man Chronicle;None;437407;Doctor Octopus;http://comicvine.gamespot.com/spider-man-chronicle-1-hc/4000-437407/

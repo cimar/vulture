@@ -1,0 +1,185 @@
+volume_name,volume_id,issue_id,cover_date
+Marvel Age: Spider-Man;21401;241145;2004-12-01
+Marvel Age: Spider-Man;21401;241144;2004-12-01
+Marvel Age Spider-Man Team-Up;21693;130901;2004-12-01
+Venom vs. Carnage;18079;118702;2004-12-01
+Spider-Man/Doctor Octopus: Year One;19445;116493;2004-12-01
+Avengers;7084;101195;2004-12-01
+Powerless;11364;99685;2004-12-01
+Spectacular Spider-Man;11069;97338;2004-12-01
+Ultimate Spider-Man;7257;95691;2004-12-01
+Ultimate Spider-Man;7257;95690;2004-12-01
+Spider-Girl;6218;93546;2004-12-01
+Venom: Twist;32471;204696;2004-11-30
+The Amazing Spider-Man;2127;113499;2004-11-30
+Venom;11068;101773;2004-11-30
+Mary Jane;11304;99235;2004-11-30
+The Pulse: Thin Air;35341;232968;2004-11-24
+Marvel Age: Spider-Man;21401;241143;2004-11-16
+Marvel Encyclopedia;18366;132597;2004-11-10
+Daredevil: The Widow;43111;294045;2004-11-01
+Marvel Previews;28516;258712;2004-11-01
+She-Hulk: Single Green Female;27393;166888;2004-11-01
+Marvel Age: Spider-Man;21401;141438;2004-11-01
+Marvel Age Spider-Man Team-Up;21693;130899;2004-11-01
+Spider-Man/Doctor Octopus: Year One;19445;116492;2004-11-01
+Spider-Man/Doctor Octopus: Year One;19445;116491;2004-11-01
+Powerless;11364;99684;2004-11-01
+The Pulse;11310;99295;2004-11-01
+Spider-Man Unlimited;11306;99255;2004-11-01
+Spectacular Spider-Man;11069;97337;2004-11-01
+Daredevil;6209;94295;2004-11-01
+Ultimate Spider-Man;7257;93551;2004-11-01
+Avengers;7084;90340;2004-11-01
+The Amazing Spider-Man;2127;113498;2004-10-31
+Venom;11068;101772;2004-10-31
+Mary Jane;11304;99234;2004-10-31
+The Amazing Spider-Man: The Book of Ezekiel;65761;167591;2004-10-25
+Marvel Age: Spider-Man;21401;241142;2004-10-01
+Spectacular Spider-Man: Here There Be Monsters;30304;186651;2004-10-01
+Marvel Age: Spider-Man;21401;141393;2004-10-01
+Spider-Girl;6218;117107;2004-10-01
+Ultimate Spider-Man;7257;110260;2004-10-01
+Secret War;18234;106865;2004-10-01
+Venom vs. Carnage;18079;105922;2004-10-01
+Powerless;11364;99683;2004-10-01
+Spectacular Spider-Man;11069;97336;2004-10-01
+Ultimate Spider-Man;7257;93550;2004-10-01
+Avengers;7084;90339;2004-10-01
+Venom;11068;101771;2004-09-30
+Mary Jane;11304;99233;2004-09-30
+Marvel Age: Spider-Man;21401;129450;2004-09-01
+Marvel Age: Spider-Man;21401;129349;2004-09-01
+Spider-Girl;6218;117104;2004-09-01
+Ultimate Spider-Man;7257;110259;2004-09-01
+Ultimate Spider-Man;7257;110226;2004-09-01
+Venom vs. Carnage;18079;105908;2004-09-01
+The Pulse;11310;99294;2004-09-01
+Spider-Man Unlimited;11306;99254;2004-09-01
+Spectacular Spider-Man;11069;97335;2004-09-01
+The Amazing Spider-Man;2127;113497;2004-08-31
+Mary Jane;11304;99232;2004-08-31
+Venom: Run;32470;204695;2004-08-18
+Fantastic Four: Hereafter;38727;259711;2004-08-04
+Amazing Spider-Man 509 Director's Cut;44226;304352;2004-08-01
+Ultimate Spider-Man Hardcover;26105;154745;2004-08-01
+Marvel Age: Spider-Man;21401;129347;2004-08-01
+Marvel Age: Spider-Man;21401;129278;2004-08-01
+Spider-Girl;6218;117103;2004-08-01
+Spider-Man/Doctor Octopus: Year One;19445;116490;2004-08-01
+Spider-Man/Doctor Octopus: Year One;19445;116454;2004-08-01
+Ultimate Spider-Man;7257;108082;2004-08-01
+Powerless;11364;99681;2004-08-01
+Identity Disc;11293;99115;2004-08-01
+Spectacular Spider-Man;11069;97334;2004-08-01
+Spectacular Spider-Man;11069;96985;2004-08-01
+She-Hulk;11058;96786;2004-08-01
+The Amazing Spider-Man;2127;113496;2004-07-31
+The Amazing Spider-Man;2127;113495;2004-07-31
+Venom;11068;96954;2004-07-31
+Venom;11068;96953;2004-07-31
+Spider-Man: Son of the Goblin;27280;166261;2004-07-28
+Daredevil: King of Hell's Kitchen;43110;294044;2004-07-01
+Fantastic Four;6211;139109;2004-07-01
+Marvel Age: Spider-Man;21401;129277;2004-07-01
+Marvel Age: Spider-Man;21401;129271;2004-07-01
+Spider-Girl;6218;117105;2004-07-01
+Ultimate Spider-Man;7257;108086;2004-07-01
+Ultimate Spider-Man;7257;108083;2004-07-01
+Secret War;18234;106864;2004-07-01
+The Pulse;11310;99293;2004-07-01
+Spider-Man Unlimited;11306;99253;2004-07-01
+Spectacular Spider-Man;11069;96984;2004-07-01
+She-Hulk;11058;96785;2004-07-01
+Daredevil;6209;93410;2004-07-01
+The Amazing Spider-Man;2127;113494;2004-06-30
+The Best of Spider-Man;38710;259633;2004-06-24
+Spider-Man/Doctor Octopus: Out of Reach;38270;256231;2004-06-15
+Marvel Previews;28516;266697;2004-06-01
+Fantastic Four;6211;139108;2004-06-01
+Marvel Age: Spider-Man;21401;129270;2004-06-01
+Spider-Girl;6218;117100;2004-06-01
+Ultimate Six;19405;116279;2004-06-01
+Ultimate Spider-Man;7257;108085;2004-06-01
+Ultimate Spider-Man;7257;108084;2004-06-01
+Spectacular Spider-Man;11069;96983;2004-06-01
+Daredevil;6209;93409;2004-06-01
+Exiles;6983;92798;2004-06-01
+The Amazing Spider-Man;2127;113493;2004-05-31
+Venom;11068;96951;2004-05-31
+Fantastic Four Visionaries: John Byrne;30505;187680;2004-05-26
+The Amazing Spider-Man: Happy Birthday;65760;167544;2004-05-25
+Ultimate Spider-Man: Cats and Kings;35804;236903;2004-05-05
+Thanos: Epiphany;67057;424625;2004-05-01
+Spectacular Spider-Man: Countdown;30303;186650;2004-05-01
+Spider-Man: Death of Captain Stacy;28301;174131;2004-05-01
+Spider-Man/Doctor Octopus: Out of Reach;21696;130884;2004-05-01
+Marvel Age: Spider-Man;21401;129215;2004-05-01
+Spider-Girl;6218;117091;2004-05-01
+Ultimate Spider-Man;7257;108077;2004-05-01
+Ultimate Spider-Man;7257;108075;2004-05-01
+The Pulse;11310;99292;2004-05-01
+Spider-Man Unlimited;11306;99252;2004-05-01
+Spectacular Spider-Man;11069;96982;2004-05-01
+Spectacular Spider-Man;11069;96981;2004-05-01
+Exiles;6983;92797;2004-05-01
+The Amazing Spider-Man;2127;113492;2004-04-30
+Venom;11068;96950;2004-04-30
+Spider-Man/Doctor Octopus: Negative Exposure;38272;256233;2004-04-28
+Marvel Previews;28516;266696;2004-04-01
+X-Statix;35058;231241;2004-04-01
+Spider-Man/Doctor Octopus: Out of Reach;21696;152905;2004-04-01
+Doctor Octopus: Negative Exposure;19447;116489;2004-04-30
+Ultimate Spider-Man;7257;108076;2004-04-01
+The Pulse;11310;99291;2004-04-01
+Spectacular Spider-Man;11069;96980;2004-04-01
+Exiles;6983;92796;2004-04-01
+The Amazing Spider-Man;2127;113491;2004-03-31
+Venom;11068;96949;2004-03-31
+Marvel Encyclopedia;18366;118139;2004-03-03
+Spider-Man Legends;41457;280738;2004-03-01
+Spider-Man Legends;41457;280736;2004-03-01
+Ultimate X-Men: Blockbuster;35612;235443;2004-03-01
+Marvel Previews;28516;230944;2004-03-01
+Spectacular Spider-Man: The Hunger;30302;186649;2004-03-01
+Spider-Man/Doctor Octopus: Out of Reach;21696;141056;2004-03-01
+Thanos;20764;124569;2004-03-01
+Spider-Girl;6218;117090;2004-03-01
+Doctor Octopus: Negative Exposure;19447;116488;2004-03-31
+Ultimate Six;19405;116278;2004-03-01
+Ultimate Spider-Man;7257;108074;2004-03-01
+Spider-Man Unlimited;11306;99251;2004-03-01
+Spectacular Spider-Man;11069;96979;2004-03-01
+Daredevil;6209;93406;2004-03-01
+Exiles;6983;92793;2004-03-01
+Exiles: Unnatural Instincts;36132;238437;2004-02-29
+The Amazing Spider-Man;2127;113241;2004-02-29
+Marvelous Adventures Of Gus Beezer: Gus Beezer & Spider-Man;27176;165280;2004-02-01
+Spider-Man/Doctor Octopus: Out of Reach;21696;152907;2004-02-01
+Spider-Girl;6218;117074;2004-02-01
+Doctor Octopus: Negative Exposure;19447;116487;2004-02-29
+Ultimate Six;19405;116276;2004-02-01
+Ultimate Spider-Man;7257;108073;2004-02-01
+Ultimate Spider-Man;7257;106375;2004-02-01
+Spectacular Spider-Man;11069;96978;2004-02-01
+Kingpin;10989;95793;2004-02-01
+Exiles;6983;92792;2004-02-01
+Exiles;6983;92791;2004-02-01
+The Amazing Spider-Man;2127;113490;2004-01-31
+Official Handbook of the Marvel Universe: Avengers 2004;65726;106524;2004-01-25
+Official Handbook of the Marvel Universe: Spider-Man 2004;65725;106523;2004-01-25
+Target Presents: Reading to the Rescue!;56709;384508;2004-01-01
+Mary Jane: Circle of Friends;40423;272336;2004-01-01
+Exiles: A Blink in Time;36163;238551;2004-01-01
+X-Men: Days of Future Past;34959;230117;2004-01-01
+Spider-Man: Blue;33400;216547;2004-01-01
+Spider-Man 2: The Movie;31446;196062;2004-01-01
+Spider-Man/Doctor Octopus: Out of Reach;21696;152906;2004-01-01
+Healthy Heroes;23870;142517;2004-01-01
+40 Years of the Amazing Spider-Man;22645;135850;2004-01-01
+Spider-Girl;6218;117069;2004-01-01
+Doctor Octopus: Negative Exposure;19447;116486;2004-01-31
+Ultimate Six;19405;116274;2004-01-01
+Ultimate Spider-Man;7257;110206;2004-01-01
+Spectacular Spider-Man;11069;96977;2004-01-01
+Spectacular Spider-Man;11069;96976;2004-01-01

@@ -1,0 +1,3 @@
+volume_name,volume_id,issue_id,cover_date
+Spider-Island;83156;502132;2015-12-31
+Secret Wars;81833;502130;2015-12-31

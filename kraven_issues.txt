@@ -1,0 +1,97 @@
+volume_name,date,id,villain,url
+Spider-Verse Team-Up,2015-01-31;469497;Kraven the Hunter;http://comicvine.gamespot.com/spider-verse-team-up-1-the-power-of-positive-think/4000-469497/
+Yellow, Blue and Gray,2014-08-31;462574;Kraven the Hunter;http://comicvine.gamespot.com/yellow-blue-and-gray-1-hc/4000-462574/
+Amazing Spider-Man Omnibus,2012-04-18;336183;Kraven the Hunter;http://comicvine.gamespot.com/amazing-spider-man-omnibus-2-volume-two/4000-336183/
+Ultimate Spider-Man,2011-07-01;270467;Kraven the Hunter;http://comicvine.gamespot.com/ultimate-spider-man-158-death-of-spider-man-part-t/4000-270467/
+Ultimatum: Fantastic Four Requiem,2009-08-05;166262;Kraven the Hunter;http://comicvine.gamespot.com/ultimatum-fantastic-four-requiem-1-fantastic-four-/4000-166262/
+Ultimate Spider-Man: Silver Sable,2006-05-24;237649;Kraven the Hunter;http://comicvine.gamespot.com/ultimate-spider-man-silver-sable-1-silver-sable/4000-237649/
+Ultimate Spider-Man,2006-04-01;113592;Kraven the Hunter;http://comicvine.gamespot.com/ultimate-spider-man-90-silver-sable-part-5/4000-113592/
+Ultimate Spider-Man,2006-03-01;113591;Kraven the Hunter;http://comicvine.gamespot.com/ultimate-spider-man-89-silver-sable-part-4/4000-113591/
+Marvel Legacy,2006-02-08;108424;Kraven the Hunter;http://comicvine.gamespot.com/marvel-legacy-1-marvel-legacy-the-1960s-handbook/4000-108424/
+Essential Amazing Spider-Man,2006-01-01;140999;Kraven the Hunter;http://comicvine.gamespot.com/essential-amazing-spider-man-3-volume-3/4000-140999/
+Spider-Man by Mark Millar Ultimate Collection,2005-11-16;294048;Kraven the Hunter;http://comicvine.gamespot.com/spider-man-by-mark-millar-ultimate-collection-1-sp/4000-294048/
+Marvel Masterworks: The Amazing Spider-Man,2005-04-30;140392;Kraven the Hunter;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-7-volume/4000-140392/
+Marvel Masterworks: The Amazing Spider-Man,2004-02-01;140396;Kraven the Hunter;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-5-volume/4000-140396/
+Spider-Man: Blue,2004-01-01;216547;Kraven the Hunter;http://comicvine.gamespot.com/spider-man-blue-1-spider-man-blue/4000-216547/
+Marvel Encyclopedia,2003-11-12;136882;Kraven the Hunter;http://comicvine.gamespot.com/marvel-encyclopedia-4-spider-man/4000-136882/
+Spider-Girl,2000-03-01;47880;Kraven the Hunter;http://comicvine.gamespot.com/spider-girl-18-raptors-regret/4000-47880/
+Marvel Masterworks,1992-12-01;35181;Kraven the Hunter;http://comicvine.gamespot.com/marvel-masterworks-22-volume-22-amazing-spider-man/4000-35181/
+Spider-Man Comics Magazine,1987-07-01;57112;Kraven the Hunter;http://comicvine.gamespot.com/spider-man-comics-magazine-4/4000-57112/
+Marvel Tales,1973-10-01;13705;Kraven the Hunter;http://comicvine.gamespot.com/marvel-tales-46-wings-in-the-night/4000-13705/
+Marvel Tales,1972-06-01;12271;Kraven the Hunter;http://comicvine.gamespot.com/marvel-tales-35-from-the-depths-of-defeat/4000-12271/
+The Amazing Spider-Man,1968-08-01;109500;Kraven the Hunter;http://comicvine.gamespot.com/the-amazing-spider-man-63-wings-in-the-night/4000-109500/
+The Amazing Spider-Man,1967-06-01;9423;Kraven the Hunter;http://comicvine.gamespot.com/the-amazing-spider-man-49-from-the-depths-of-defea/4000-9423/
+The Amazing Spider-Man,1967-05-01;9353;Kraven the Hunter;http://comicvine.gamespot.com/the-amazing-spider-man-48-the-wings-of-the-vulture/4000-9353/
+Spider-Man Chronicle,None;437407;Kraven the Hunter;http://comicvine.gamespot.com/spider-man-chronicle-1-hc/4000-437407/
+Spider-Verse Team-Up,2015-01-31;469497;Alyosha Kravinoff;http://comicvine.gamespot.com/spider-verse-team-up-1-the-power-of-positive-think/4000-469497/
+Yellow, Blue and Gray,2014-08-31;462574;Alyosha Kravinoff;http://comicvine.gamespot.com/yellow-blue-and-gray-1-hc/4000-462574/
+Amazing Spider-Man Omnibus,2012-04-18;336183;Alyosha Kravinoff;http://comicvine.gamespot.com/amazing-spider-man-omnibus-2-volume-two/4000-336183/
+Ultimate Spider-Man,2011-07-01;270467;Alyosha Kravinoff;http://comicvine.gamespot.com/ultimate-spider-man-158-death-of-spider-man-part-t/4000-270467/
+Ultimatum: Fantastic Four Requiem,2009-08-05;166262;Alyosha Kravinoff;http://comicvine.gamespot.com/ultimatum-fantastic-four-requiem-1-fantastic-four-/4000-166262/
+Ultimate Spider-Man: Silver Sable,2006-05-24;237649;Alyosha Kravinoff;http://comicvine.gamespot.com/ultimate-spider-man-silver-sable-1-silver-sable/4000-237649/
+Ultimate Spider-Man,2006-04-01;113592;Alyosha Kravinoff;http://comicvine.gamespot.com/ultimate-spider-man-90-silver-sable-part-5/4000-113592/
+Ultimate Spider-Man,2006-03-01;113591;Alyosha Kravinoff;http://comicvine.gamespot.com/ultimate-spider-man-89-silver-sable-part-4/4000-113591/
+Marvel Legacy,2006-02-08;108424;Alyosha Kravinoff;http://comicvine.gamespot.com/marvel-legacy-1-marvel-legacy-the-1960s-handbook/4000-108424/
+Essential Amazing Spider-Man,2006-01-01;140999;Alyosha Kravinoff;http://comicvine.gamespot.com/essential-amazing-spider-man-3-volume-3/4000-140999/
+Spider-Man by Mark Millar Ultimate Collection,2005-11-16;294048;Alyosha Kravinoff;http://comicvine.gamespot.com/spider-man-by-mark-millar-ultimate-collection-1-sp/4000-294048/
+Marvel Masterworks: The Amazing Spider-Man,2005-04-30;140392;Alyosha Kravinoff;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-7-volume/4000-140392/
+Marvel Masterworks: The Amazing Spider-Man,2004-02-01;140396;Alyosha Kravinoff;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-5-volume/4000-140396/
+Spider-Man: Blue,2004-01-01;216547;Alyosha Kravinoff;http://comicvine.gamespot.com/spider-man-blue-1-spider-man-blue/4000-216547/
+Marvel Encyclopedia,2003-11-12;136882;Alyosha Kravinoff;http://comicvine.gamespot.com/marvel-encyclopedia-4-spider-man/4000-136882/
+Spider-Girl,2000-03-01;47880;Alyosha Kravinoff;http://comicvine.gamespot.com/spider-girl-18-raptors-regret/4000-47880/
+Marvel Masterworks,1992-12-01;35181;Alyosha Kravinoff;http://comicvine.gamespot.com/marvel-masterworks-22-volume-22-amazing-spider-man/4000-35181/
+Spider-Man Comics Magazine,1987-07-01;57112;Alyosha Kravinoff;http://comicvine.gamespot.com/spider-man-comics-magazine-4/4000-57112/
+Marvel Tales,1973-10-01;13705;Alyosha Kravinoff;http://comicvine.gamespot.com/marvel-tales-46-wings-in-the-night/4000-13705/
+Marvel Tales,1972-06-01;12271;Alyosha Kravinoff;http://comicvine.gamespot.com/marvel-tales-35-from-the-depths-of-defeat/4000-12271/
+The Amazing Spider-Man,1968-08-01;109500;Alyosha Kravinoff;http://comicvine.gamespot.com/the-amazing-spider-man-63-wings-in-the-night/4000-109500/
+The Amazing Spider-Man,1967-06-01;9423;Alyosha Kravinoff;http://comicvine.gamespot.com/the-amazing-spider-man-49-from-the-depths-of-defea/4000-9423/
+The Amazing Spider-Man,1967-05-01;9353;Alyosha Kravinoff;http://comicvine.gamespot.com/the-amazing-spider-man-48-the-wings-of-the-vulture/4000-9353/
+Spider-Man Chronicle,None;437407;Alyosha Kravinoff;http://comicvine.gamespot.com/spider-man-chronicle-1-hc/4000-437407/
+Spider-Verse Team-Up,2015-01-31;469497;Xraven;http://comicvine.gamespot.com/spider-verse-team-up-1-the-power-of-positive-think/4000-469497/
+Yellow, Blue and Gray,2014-08-31;462574;Xraven;http://comicvine.gamespot.com/yellow-blue-and-gray-1-hc/4000-462574/
+Amazing Spider-Man Omnibus,2012-04-18;336183;Xraven;http://comicvine.gamespot.com/amazing-spider-man-omnibus-2-volume-two/4000-336183/
+Ultimate Spider-Man,2011-07-01;270467;Xraven;http://comicvine.gamespot.com/ultimate-spider-man-158-death-of-spider-man-part-t/4000-270467/
+Ultimatum: Fantastic Four Requiem,2009-08-05;166262;Xraven;http://comicvine.gamespot.com/ultimatum-fantastic-four-requiem-1-fantastic-four-/4000-166262/
+Ultimate Spider-Man: Silver Sable,2006-05-24;237649;Xraven;http://comicvine.gamespot.com/ultimate-spider-man-silver-sable-1-silver-sable/4000-237649/
+Ultimate Spider-Man,2006-04-01;113592;Xraven;http://comicvine.gamespot.com/ultimate-spider-man-90-silver-sable-part-5/4000-113592/
+Ultimate Spider-Man,2006-03-01;113591;Xraven;http://comicvine.gamespot.com/ultimate-spider-man-89-silver-sable-part-4/4000-113591/
+Marvel Legacy,2006-02-08;108424;Xraven;http://comicvine.gamespot.com/marvel-legacy-1-marvel-legacy-the-1960s-handbook/4000-108424/
+Essential Amazing Spider-Man,2006-01-01;140999;Xraven;http://comicvine.gamespot.com/essential-amazing-spider-man-3-volume-3/4000-140999/
+Spider-Man by Mark Millar Ultimate Collection,2005-11-16;294048;Xraven;http://comicvine.gamespot.com/spider-man-by-mark-millar-ultimate-collection-1-sp/4000-294048/
+Marvel Masterworks: The Amazing Spider-Man,2005-04-30;140392;Xraven;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-7-volume/4000-140392/
+Marvel Masterworks: The Amazing Spider-Man,2004-02-01;140396;Xraven;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-5-volume/4000-140396/
+Spider-Man: Blue,2004-01-01;216547;Xraven;http://comicvine.gamespot.com/spider-man-blue-1-spider-man-blue/4000-216547/
+Marvel Encyclopedia,2003-11-12;136882;Xraven;http://comicvine.gamespot.com/marvel-encyclopedia-4-spider-man/4000-136882/
+Spider-Girl,2000-03-01;47880;Xraven;http://comicvine.gamespot.com/spider-girl-18-raptors-regret/4000-47880/
+Marvel Masterworks,1992-12-01;35181;Xraven;http://comicvine.gamespot.com/marvel-masterworks-22-volume-22-amazing-spider-man/4000-35181/
+Spider-Man Comics Magazine,1987-07-01;57112;Xraven;http://comicvine.gamespot.com/spider-man-comics-magazine-4/4000-57112/
+Marvel Tales,1973-10-01;13705;Xraven;http://comicvine.gamespot.com/marvel-tales-46-wings-in-the-night/4000-13705/
+Marvel Tales,1972-06-01;12271;Xraven;http://comicvine.gamespot.com/marvel-tales-35-from-the-depths-of-defeat/4000-12271/
+The Amazing Spider-Man,1968-08-01;109500;Xraven;http://comicvine.gamespot.com/the-amazing-spider-man-63-wings-in-the-night/4000-109500/
+The Amazing Spider-Man,1967-06-01;9423;Xraven;http://comicvine.gamespot.com/the-amazing-spider-man-49-from-the-depths-of-defea/4000-9423/
+The Amazing Spider-Man,1967-05-01;9353;Xraven;http://comicvine.gamespot.com/the-amazing-spider-man-48-the-wings-of-the-vulture/4000-9353/
+Spider-Man Chronicle,None;437407;Xraven;http://comicvine.gamespot.com/spider-man-chronicle-1-hc/4000-437407/
+Spider-Verse Team-Up,2015-01-31;469497;Ana Kravinoff;http://comicvine.gamespot.com/spider-verse-team-up-1-the-power-of-positive-think/4000-469497/
+Yellow, Blue and Gray,2014-08-31;462574;Ana Kravinoff;http://comicvine.gamespot.com/yellow-blue-and-gray-1-hc/4000-462574/
+Amazing Spider-Man Omnibus,2012-04-18;336183;Ana Kravinoff;http://comicvine.gamespot.com/amazing-spider-man-omnibus-2-volume-two/4000-336183/
+Ultimate Spider-Man,2011-07-01;270467;Ana Kravinoff;http://comicvine.gamespot.com/ultimate-spider-man-158-death-of-spider-man-part-t/4000-270467/
+Ultimatum: Fantastic Four Requiem,2009-08-05;166262;Ana Kravinoff;http://comicvine.gamespot.com/ultimatum-fantastic-four-requiem-1-fantastic-four-/4000-166262/
+Ultimate Spider-Man: Silver Sable,2006-05-24;237649;Ana Kravinoff;http://comicvine.gamespot.com/ultimate-spider-man-silver-sable-1-silver-sable/4000-237649/
+Ultimate Spider-Man,2006-04-01;113592;Ana Kravinoff;http://comicvine.gamespot.com/ultimate-spider-man-90-silver-sable-part-5/4000-113592/
+Ultimate Spider-Man,2006-03-01;113591;Ana Kravinoff;http://comicvine.gamespot.com/ultimate-spider-man-89-silver-sable-part-4/4000-113591/
+Marvel Legacy,2006-02-08;108424;Ana Kravinoff;http://comicvine.gamespot.com/marvel-legacy-1-marvel-legacy-the-1960s-handbook/4000-108424/
+Essential Amazing Spider-Man,2006-01-01;140999;Ana Kravinoff;http://comicvine.gamespot.com/essential-amazing-spider-man-3-volume-3/4000-140999/
+Spider-Man by Mark Millar Ultimate Collection,2005-11-16;294048;Ana Kravinoff;http://comicvine.gamespot.com/spider-man-by-mark-millar-ultimate-collection-1-sp/4000-294048/
+Marvel Masterworks: The Amazing Spider-Man,2005-04-30;140392;Ana Kravinoff;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-7-volume/4000-140392/
+Marvel Masterworks: The Amazing Spider-Man,2004-02-01;140396;Ana Kravinoff;http://comicvine.gamespot.com/marvel-masterworks-the-amazing-spider-man-5-volume/4000-140396/
+Spider-Man: Blue,2004-01-01;216547;Ana Kravinoff;http://comicvine.gamespot.com/spider-man-blue-1-spider-man-blue/4000-216547/
+Marvel Encyclopedia,2003-11-12;136882;Ana Kravinoff;http://comicvine.gamespot.com/marvel-encyclopedia-4-spider-man/4000-136882/
+Spider-Girl,2000-03-01;47880;Ana Kravinoff;http://comicvine.gamespot.com/spider-girl-18-raptors-regret/4000-47880/
+Marvel Masterworks,1992-12-01;35181;Ana Kravinoff;http://comicvine.gamespot.com/marvel-masterworks-22-volume-22-amazing-spider-man/4000-35181/
+Spider-Man Comics Magazine,1987-07-01;57112;Ana Kravinoff;http://comicvine.gamespot.com/spider-man-comics-magazine-4/4000-57112/
+Marvel Tales,1973-10-01;13705;Ana Kravinoff;http://comicvine.gamespot.com/marvel-tales-46-wings-in-the-night/4000-13705/
+Marvel Tales,1972-06-01;12271;Ana Kravinoff;http://comicvine.gamespot.com/marvel-tales-35-from-the-depths-of-defeat/4000-12271/
+The Amazing Spider-Man,1968-08-01;109500;Ana Kravinoff;http://comicvine.gamespot.com/the-amazing-spider-man-63-wings-in-the-night/4000-109500/
+The Amazing Spider-Man,1967-06-01;9423;Ana Kravinoff;http://comicvine.gamespot.com/the-amazing-spider-man-49-from-the-depths-of-defea/4000-9423/
+The Amazing Spider-Man,1967-05-01;9353;Ana Kravinoff;http://comicvine.gamespot.com/the-amazing-spider-man-48-the-wings-of-the-vulture/4000-9353/
+Spider-Man Chronicle,None;437407;Ana Kravinoff;http://comicvine.gamespot.com/spider-man-chronicle-1-hc/4000-437407/

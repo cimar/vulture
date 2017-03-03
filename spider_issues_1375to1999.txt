@@ -1,0 +1,340 @@
+volume_name,volume_id,issue_id,cover_date
+New Avengers;11497;108305;2005-05-01
+Venom: Lethal Protector;5059;57642;1993-03-31
+The Amazing Spider-Man;2127;131395;2008-08-01
+Marvel Adventures Spider-Man;32888;253761;2011-02-01
+Amazing Fantasy #15: Spider-Man!;55967;380863;2012-08-01
+FF;39453;294897;2011-12-01
+Amazing Spider-Man & Silk: the Spider(Fly) Effect;88547;517823;2016-05-31
+Thunderbolts By Warren Ellis: Faith In Monsters;35129;231799;2008-01-01
+Spider-Girl;6218;117061;2003-08-01
+Spider-Girl;6218;117320;2006-07-01
+Marvel Tales;2293;64919;1983-11-01
+Spider-Man and the Fantastic Four;18482;109445;2007-08-01
+Thunderbolts;6020;43591;1997-04-30
+Marvel Tales;2293;21041;1981-02-01
+Marvel Tales;2293;110314;1980-08-01
+Marvel Collectible Classics: X-Men;38724;259703;1998-08-01
+Doctor Strange;2676;14486;1974-08-01
+The Spectacular Spider-Man;2870;20254;1980-03-01
+Spider-Man Special Edition;21781;131350;1992-11-01
+Amazing Spider-Man: Who Am I?;80155;480166;2015-02-28
+Spider-Man vs. Vampires (MDCU);36404;240290;2010-12-01
+The Amazing Spider-Man;2127;9876;1968-01-01
+Superior Spider-Man Annual;69348;433849;2014-01-01
+Deadpool: Back In Black;94618;552157;2016-12-31
+The Amazing Spider-Man;2127;101785;1997-07-01
+The Pulse;11310;99293;2004-07-01
+Warlock;3156;23142;1983-05-01
+The 100 Greatest Marvels of All Time;21546;133634;2001-12-01
+The Amazing Spider-Man;78701;113465;2001-10-01
+Daily Bugle;5778;43269;1997-01-01
+Marvels: Eye of the Camera;38221;255846;2010-12-22
+Vision;85793;523270;2016-06-30
+Marvel Adventures Spider-Man;32888;288773;2011-10-01
+The Spectacular Spider-Man;2870;25396;1985-04-01
+New Avengers by Brian Michael Bendis;39277;292766;2011-08-31
+The Amazing Spider-Man;2127;153667;2009-05-01
+Amazing Spider-Man: The Fantastic Spider-Man;42582;291033;2011-08-31
+Marvel Tales;2293;65121;1994-07-01
+The Amazing Spider-Man;2127;331858;2012-06-18
+Spider-Man Unlimited;11306;114315;2005-11-01
+What If...?;4249;37673;1993-08-01
+Marvel Adventures Avengers: Mighty Marvels;32379;203751;2008-06-18
+Exiles;6983;92777;2003-05-01
+Siege: Battlefield;35579;235163;2010-07-28
+Thunderstrike;36953;251476;2011-02-01
+Web of Spider-Man;3519;29159;1988-01-01
+The Amazing Spider-Man;2127;290665;2011-10-31
+1985;21711;139377;2008-11-01
+X-Men vs. Apocalypse;26953;162315;2008-10-31
+The Marvel Saga The Official History of the Marvel Universe;3490;95167;1986-08-30
+The Infinity Crusade;5019;37517;1993-07-01
+Spider-Man: Death and Destiny;31431;195914;2000-10-01
+Marvel Super Heroes Secret Wars;3352;57510;1984-11-01
+Superior Spider-Man Team-Up;65629;437496;2014-02-01
+The Amazing Spider-Man;2127;194422;2010-03-01
+Power Pack;3358;25270;1985-02-01
+X-Men: To Serve and Protect;40425;272360;2011-08-31
+Not Brand Echh;2354;10211;1969-05-01
+New Mangaverse: The Rings of Fate;18500;108686;2006-05-01
+The Amazing Spider-Man;2127;189487;2010-02-01
+Marvel Adventures: Avengers;18100;118465;2008-01-01
+Venom: The Madness;5060;57659;1994-01-03
+Spider-Man: With Great Power Comes Great Responsibility;53184;362499;2011-12-01
+Powerless;11364;99685;2004-12-01
+Marvel Adventures Spider-Man;32888;317063;2012-04-01
+Journey into Mystery;7168;152366;1997-01-01
+The Amazing Spider-Man;78701;113442;1999-11-01
+Deadpool;53726;485511;2015-06-30
+X-Men: The Hidden Years;9202;124309;1999-12-01
+X-Men Annual;22988;107610;1990-08-31
+Spider-Man Loves Mary Jane;18104;113656;2007-09-01
+Venom: Lethal Protector;43379;297582;2011-10-31
+The Amazing Spider-Man;2127;342871;2012-08-27
+Marvel Universe Ultimate Spider-Man: Contest of Champions;93674;547286;2016-08-31
+Marvel Tales;2293;64908;1983-07-01
+The Amazing Spider-Girl;18195;127128;2008-06-01
+Civil War MGC;32890;211684;2010-06-01
+Official Handbook of the Marvel Universe: Spider-Man 2004;65725;106523;2004-01-25
+X-Men/Spider-Man;23606;145746;2009-02-28
+The Spectacular Spider-Man;2870;30189;1988-10-01
+Rom;3010;25007;1984-12-01
+Spider-Man Activision;52384;358697;2000-01-01
+The New Avengers;40895;275710;2008-04-01
+Marvel Spectacular;2640;101437;1975-11-01
+X-Men: Inferno Crossovers;35543;234899;2010-08-01
+Ultimatum;23592;141520;2009-01-01
+Avenging Spider-Man;43884;371257;2013-02-01
+Marvel Age;19176;157263;1994-06-01
+Fantastic Four By Jonathan Hickman;32296;346115;2012-07-11
+Marvel Tales;2293;64905;1981-11-01
+Fantastic Four;6211;321298;2012-05-01
+Fun and Games Magazine;3004;66616;1980-06-01
+Ultimate Spider-Man;48343;358884;2012-11-01
+Bullet Points;23586;141506;2007-04-01
+Daredevil;6209;66269;2001-10-31
+The Amazing Spider-Man '97;60438;143309;1997-07-01
+Deadpool's Secret Secret Wars;82102;492216;2015-08-31
+Spidey Super Stories;2702;67517;1978-03-01
+Chaos War: Chaos King;36737;244976;2011-01-01
+Marvel 1602: New World;18845;111384;2005-10-31
+Marvel Adventures Spider-Man: Spectacular;38932;261471;2011-01-26
+Marvel Apes;22854;139088;2008-11-01
+Marvel Firsts: The 1980's;68972;432502;2013-11-30
+Spider-Man Collectible Series;66450;439243;2006-10-01
+Ultimate Spider-Man Infinite Comic;83348;499894;2015-09-09
+Deadpool Annual;69572;435051;2014-01-01
+The Amazing Spider-Man;2127;6595;1963-07-01
+What If...?;4249;41259;1995-08-01
+The Ultimates 2;18326;107443;2006-11-01
+The Amazing Spider-Man;2127;64435;1994-12-01
+Spider-Man: The Next Chapter;42958;315553;2012-02-08
+Ultimate Spider-Man;7257;51619;2000-10-01
+Ultimate Spider-Man;7257;109905;2003-05-01
+Black Widow: Web of Intrigue;32505;205562;1999-06-01
+Red Hulk: Planet Red Hulk;43147;294313;2011-10-05
+Spidey Super Stories;2702;67506;1977-02-01
+Peter Parker: Spider-Man;9142;68507;2001-06-01
+DC vs. Marvel;31909;200223;1996-09-01
+Uncanny Avengers: Ragnarok Now;72685;449289;2014-03-31
+The Amazing Spider-Man;2127;6422;1963-03-01
+Uncanny X-Men by Kieron Gillen;47000;341698;2012-06-06
+The Amazing Spider-Man;2127;64451;1996-07-01
+Marvel Visionaries: Stan Lee;41316;279049;2005-02-09
+The Amazing Spider-Man Annual;2189;20047;1980-10-01
+Spider-Man Loves Mary Jane;18104;113649;2006-11-30
+Secret Invasion: Who Do You Trust?;33146;213945;2008-05-31
+Amazing Spider-Man & Silk: the Spider(Fly) Effect;88547;537929;2016-08-31
+Ultimate Spider-Man;7257;106521;2007-11-01
+New Avengers by Brian Michael Bendis;39277;372564;2012-12-12
+Avengers and the Infinity Gauntlet;35001;230719;2010-10-01
+Avenging Spider-Man;43884;335249;2012-07-01
+Ghost Rider;4397;66431;1991-08-01
+What If...?;4249;39514;1994-08-01
+Brian Michael Bendis: Ten Years At Marvel;30702;189634;2009-12-01
+Timestorm 2009/2099;26163;155239;2009-06-01
+Daredevil/Echo: Parts of a Hole;43113;294047;2010-03-24
+Spider-Man/Hulk/Deadpool: Identity Wars;42580;291030;2011-08-10
+Gambit;9111;66900;2000-01-01
+Deadpool: Suicide Kings;2709;155160;2009-06-01
+Beyond!;18221;111333;2007-02-01
+Spider-Man: With Great Power Comes Great Responsibility;53184;362494;2011-07-01
+Avengers: Clear and Present Dangers;29383;181501;2001-01-01
+Powerless;11364;99685;2004-12-01
+Venom: Space Knight;86263;521348;2016-05-31
+The Sensational Spider-Man;18177;113627;2007-02-01
+Venom: Lethal Protector;5059;57644;1993-05-31
+Captain America: Red, White & Blue;26426;157636;2007-09-01
+The Amazing Spider-Man;73420;479254;2015-04-30
+Ultimate Spider-Man;27381;270467;2011-07-01
+The Amazing Spider-Girl;18195;108537;2007-06-01
+Fantastic Four;6211;335951;2012-07-01
+Marvel Zombies Supreme;39236;269529;2011-07-01
+Spider-Man's Tangled Web;7255;114271;2003-03-18
+Amazing Spider-Man: Coming Home;50828;347588;2002-04-01
+Peter Parker;32170;201849;2010-05-01
+The Marvel Saga The Official History of the Marvel Universe;3490;95160;1986-01-31
+Color Your Own Deadpool;87159;510490;2016-01-31
+The Spectacular Spider-Man;2870;65557;1990-04-01
+Vengeance of Moon Knight: Shock and Awe;34479;224982;2010-07-07
+The Avengers;2128;20446;1980-06-30
+Ultimate Spider-Man Hardcover;26105;154949;2007-05-01
+Marvel Universe: The End;36500;241089;2010-10-27
+Marvel Team-Up;2576;17970;1977-11-30
+Fantastic Four;6211;303357;2012-01-01
+Superior Spider-Man;55552;448978;2014-05-31
+The Amazing Spider-Man;2127;33983;1991-03-31
+Astonishing X-Men;10746;341838;2012-08-01
+The Amazing Spider-Man;2127;21432;1981-08-31
+Defenders;21661;130731;2005-12-31
+Marvel Adventures;31326;227104;1997-08-01
+Creatures on the Loose;2512;14957;1975-01-01
+What If?;2918;18434;1978-04-01
+The Amazing Spider-Man;73420;484888;2015-06-30
+Spider-Man Collectible Series;66450;439244;2006-10-08
+Amazing Spider-Man & Silk: The Spider(Fly) Effect;94248;550345;2016-09-30
+Avengers: The Children's Crusade;34241;319366;2012-05-01
+Spider-Girl;6218;45922;1999-07-01
+Peter Parker: Spider-Man;9142;68512;2001-11-01
+Doctor Strange;2676;14486;1974-08-01
+Marvel Team-Up;18024;120888;2005-12-31
+Excalibur;4052;31866;1989-11-30
+Peter Parker: Spider-Man 1999;39919;269238;1999-08-31
+Exiles;26159;169213;2009-11-01
+The Amazing Spider-Man;2127;109502;1968-10-01
+The Amazing Spider-Man;2127;7198;1964-07-31
+Peter Parker;32170;216451;2010-07-01
+A+X;53535;441423;2014-03-31
+Spider-Man's Greatest Villains;27423;167039;1995-01-01
+Wolverine: Civil War;27959;171452;2007-05-30
+Avengers/Invaders;21470;131324;2008-08-01
+Spectacular Spider-Man: The Final Curtain;30306;186653;2005-11-02
+Marvel Age;19176;157206;1991-01-01
+The Amazing Spider-Man;2127;173423;2009-11-01
+Ultimate Spider-Man;7257;51625;2001-05-01
+Carnage: Family Feud;42370;289469;2011-08-24
+Avengers;95402;556467;2017-01-31
+Howard the Duck;80597;482157;2015-05-31
+Marvel Age;19176;127450;1992-01-01
+Black Panther Annual;20713;124232;2008-04-01
+What If? Classic;28489;175593;2007-01-31
+Marvel Adventures Spider-Man: The Black Costume;32350;203578;2007-05-09
+Incredible Hulk: Fall of the Hulks;34944;229935;2010-05-31
+Marvel Special Edition Featuring The Spectacular Spider-Man;39272;265145;1975-01-01
+Daredevil;6209;93409;2004-06-01
+The Amazing Spider-Man;2127;437484;2014-02-01
+Civil War: Front Line;18245;108696;2006-10-01
+Avengers Log;29380;181498;1994-02-01
+Spider-Man 1602;28515;189470;2010-02-01
+Marvel Team-Up;2576;16267;1976-04-30
+New Avengers: Luke Cage: Town Without Pity;35917;237420;2010-09-30
+Spider-Man: Clone Genesis;27332;166480;1995-06-01
+Siege: Spider-Man;32661;208654;2010-06-01
+Fear Itself;39611;269476;2011-07-01
+Avengers;33227;239856;2010-12-01
+Exiles;6983;92796;2004-04-01
+Spider-Man: Web of Doom;5329;57131;1994-10-01
+Spider-Man 2099;18354;107620;1992-11-01
+Marvel Adventures Avengers: Thor/Captain America;43024;293588;2011-09-14
+Spider-Man and the Incredible Hulk;52383;358696;1982-01-01
+Marvel Tales;2293;64785;1976-08-01
+Spider-Man/Human Torch;11800;103520;2005-03-01
+Marvel Age;19176;145972;1985-06-01
+The Amazing Scarlet Spider;9539;78466;1995-11-01
+The Unbeatable Squirrel Girl;79269;475464;2015-03-31
+Marvel Team-Up;2576;19648;1979-07-31
+Ultimate Spider-Man;7257;100978;2005-05-01
+Ultimate Enemy;31298;216695;2010-07-01
+Untold Tales of Spider-Man;5562;42305;1996-04-01
+Spider-Man Magazine;25460;166243;1994-05-01
+Felicia Hardy: The Black Cat;18930;111968;1994-07-01
+The Amazing Spider-Man;2127;223277;2010-09-01
+Ultimate Spider-Man Infinite Comic;83348;498600;2015-08-25
+Web of Spider-Man;3519;36287;1992-10-01
+Daredevil;6209;239035;2010-12-01
+Fantastic Four;71949;468907;2014-12-31
+Civil War II;90521;541199;2016-09-30
+Spider-Man Super Special;23406;140411;1995-07-31
+The New Warriors Annual;11874;103923;1991-07-01
+Fantastic Four: World's Greatest;32323;203179;2009-03-04
+Secret Avengers;33350;363162;2012-12-01
+Daredevil: End of Days;52640;408994;2013-08-15
+Marvel 1602;31889;200110;2010-02-10
+Spider-Man Family;18459;110316;2007-08-31
+Friendly Neighborhood Spider-Man;17998;105377;2006-02-01
+Marvel Spotlight Spider-Man;21418;129355;2007-01-01
+FF;39453;358975;2012-11-01
+Spider-Girl;6218;51757;2001-06-01
+Spider-Man: Swing Shift Director's Cut;31249;194425;2008-06-01
+The Amazing Spider-Man;2127;28453;1987-08-31
+Untold Tales of Spider-Man;5562;43982;1997-08-01
+X-Statix;9478;108659;2003-11-01
+Spider-Man Unlimited;5048;57292;1994-05-01
+Hercules;19104;114175;2005-06-01
+Ultimate Avengers vs. New Ultimates;38900;268333;2011-06-01
+Spider-Man Megazine;5326;40462;1995-02-01
+Silver Surfer;3857;96292;1997-10-01
+Universe X;9149;69367;2001-05-01
+Ultimate Spider-Man;7257;109188;2006-05-01
+The Spectacular Spider-Man;2870;30901;1989-02-01
+Web of Spider-Man Annual;3520;77999;1994-06-01
+Spider-Man Collectible Series;66450;439246;2006-10-29
+FF;39453;333394;2012-06-01
+Nova;57535;469838;2015-01-31
+Marvel Adventures Spider-Man: Thwip!;30734;189773;2010-01-01
+Avengers: Earth's Mightiest Heroes II;18603;141073;2007-03-31
+X-Men: Curse of the Mutants Spotlight;36922;246845;2011-01-01
+Avengers/Invaders;21470;156399;2009-06-01
+Venom;39301;349678;2012-10-01
+Thor;2294;18515;1978-05-31
+Marvel Adventures: Avengers;18100;133996;2008-06-01
+What If...?;4249;35376;1992-02-01
+Spider-Woman;2960;20542;1980-07-01
+The Amazing Spider-Man;2127;198252;2010-04-01
+Dark Reign: Sinister Spider-Man;26945;162247;2009-08-01
+The Amazing Spider-Man;2127;227715;2010-09-01
+Marvel Adventures: Avengers;18100;150621;2009-03-01
+Howard the Duck;80597;488648;2015-07-31
+The Amazing Spider-Man;78701;113450;2000-07-01
+Avengers;7084;50801;2001-07-01
+Avengers: Saving the Day;47329;324808;2011-12-01
+Marvel Fairy Tales;59211;394803;2010-01-20
+The Amazing Spider-Man Annual;2189;64428;1988-09-01
+The Amazing Spider-Man;2127;151129;2009-04-01
+Thunderbolts;18128;106253;2006-08-01
+Spider-Girl;6218;117050;2003-04-01
+The Spectacular Spider-Man Magazine;27251;166098;1968-11-01
+Spider-Man: New York Stories;40487;272861;2011-04-20
+Marvel Comics Presents;19164;114655;2007-09-17
+Spider-Verse;82108;497959;2015-10-31
+Web of Spider-Man;3519;26415;1986-01-01
+The Spectacular Spider-Man;2870;65590;1993-01-01
+Defenders: Indefensible;32670;208695;2007-01-31
+Crazy Magazine;23630;217206;1977-01-01
+Fantastic Four;71949;476785;2015-03-31
+Thor: Heaven & Earth;41511;288832;2011-10-01
+Spider-Man: One More Day;21105;126733;2008-01-01
+Spidey Super Stories;2702;67533;1980-09-01
+The New Avengers;40895;275708;2007-11-01
+Avengers by Brian Michael Bendis;38936;341468;2012-05-09
+Vengeance of the Moon Knight;27914;182686;2010-01-31
+The Unbeatable Squirrel Girl;79269;493804;2015-09-30
+White Tiger;18155;126738;2007-03-01
+Marvel Universe Ultimate Spider-Man: Web-Warriors;80974;483684;2015-03-31
+Web Warriors;85976;537253;2016-08-31
+X-Men: With Great Power;40500;272895;2011-03-01
+Spider-Man;4421;39088;1994-05-01
+Secret Wars;49729;341204;2011-12-28
+The Spectacular Spider-Man;2870;65589;1992-12-01
+Exiles: Bump in the Night;36177;238589;2007-07-11
+Spider-Girl;6218;45526;1998-12-01
+Webspinners: Tales of Spider-Man;9375;117434;2000-05-31
+She-Hulk;11058;96792;2005-02-01
+Marvel Adventures: Avengers;18100;133905;2008-07-01
+Scarlet Spider;45101;310812;2012-03-01
+Ultimate Spider-Man Infinite Comic;83348;497553;2015-08-11
+Marvel Age;19176;170863;1987-09-01
+The Amazing Spider-Man;2127;31991;1989-12-01
+Hero Initiative: Fantastic Four;63604;411572;2012-11-30
+Web of Spider-Man;3519;38109;1993-11-01
+Spider-Man and the Dallas Cowboys: "Danger in Dallas";34090;222240;1983-01-01
+White Tiger;18155;126739;2007-05-01
+X-Men Forever 2: Back in Action;38964;261692;2011-01-01
+Marvel Zombies Return;33018;212701;2009-12-31
+Secret Defenders;5044;36977;1993-03-31
+Ghost Rider: The Last Stand;32325;203181;2009-07-31
+Original Sin;73241;453417;2014-07-31
+Peter Parker: Spider-Man;9142;68511;2001-10-01
+Marvel Team-Up;2576;14770;1974-11-30
+Marvel Universe Ultimate Spider-Man Vs. The Sinister Six;92564;550364;2016-11-30
+Web of Spider-Man;3519;33444;1990-11-01
+Original Sin Special Edition;74652;462502;2014-08-31
+Ultimate Marvel Team-Up;7515;69347;2002-04-01
+Marvel Tales;2293;11059;1970-10-01
+The Amazing Spider-Man;2127;10461;1969-10-01
+The Amazing Spider-Man;2127;34638;1991-09-01
+The Amazing Spider-Man;2127;19698;1979-08-31
+The Ultimates;18327;107785;2002-04-01
+Venom;11068;96954;2004-07-31
+Marvel Adventures Avengers: Bizarre Adventures;32376;203740;2007-06-20

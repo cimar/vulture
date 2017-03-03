@@ -1,0 +1,168 @@
+volume_name,volume_id,issue_id,cover_date
+Spider-Man's Tangled Web;77727;468582;2003-12-31
+The Amazing Spider-Man;2127;107505;2003-12-31
+JLA/Avengers;10941;105427;2003-12-31
+The Amazing Spider-Man: Unintended Consequences;65759;167543;2003-12-25
+Thanos;20764;124492;2003-12-01
+Doctor Octopus: Negative Exposure;19447;116457;2003-12-31
+Ultimate Six;19405;116271;2003-12-01
+The Amazing Spider-Man;78701;113489;2003-12-01
+Ultimate Spider-Man;7257;110207;2003-12-01
+Ultimate Spider-Man;7257;110197;2003-12-01
+Spectacular Spider-Man;11069;96975;2003-12-01
+Kingpin;10989;95792;2003-12-01
+Kingpin;10989;95791;2003-12-01
+Marvel Encyclopedia;18366;136882;2003-11-12
+Ultimate Spider-Man Hardcover;26105;154744;2003-11-01
+Ultimate Six;19405;116269;2003-11-01
+Ultimate Six;19405;116253;2003-11-01
+The Amazing Spider-Man;78701;113488;2003-11-01
+Ultimate Spider-Man;7257;110199;2003-11-01
+Ultimate Spider-Man;7257;110198;2003-11-01
+X-Statix;9478;108659;2003-11-01
+Ultimate X-Men;7258;105516;2003-11-01
+Spectacular Spider-Man;11069;96974;2003-11-01
+Kingpin;10989;95790;2003-11-01
+JLA/Avengers;10941;93978;2003-11-01
+Peter Parker: Spider-Man: Senseless Violence;30311;186658;2003-10-31
+Prevent Child Abuse America Presents: Amazing Spider-Man on Bullying Prevention;44164;303730;2003-10-01
+Captain Marvel: Coven;30849;190611;2003-10-01
+Paradise X Special: A;24750;146004;2003-10-01
+Spider-Girl;6218;117063;2003-10-01
+The Amazing Spider-Man;78701;113487;2003-10-01
+Ultimate Spider-Man;7257;110200;2003-10-01
+X-Statix;9478;108657;2003-10-01
+Ultimate X-Men;7258;105514;2003-10-01
+Spectacular Spider-Man;11069;96973;2003-10-01
+Kingpin;10989;95789;2003-10-01
+The Amazing Spider-Man;78701;113486;2003-09-01
+Ultimate Spider-Man;7257;110201;2003-09-01
+Ultimate X-Men;7258;105513;2003-09-01
+Spectacular Spider-Man;11069;96972;2003-09-01
+Spectacular Spider-Man;11069;96971;2003-09-01
+Kingpin;10989;95788;2003-09-01
+Thunderbolts;6020;90014;2003-09-01
+Exiles: Legacy;36116;238397;2003-08-31
+Peter Parker: Spider-Man;9142;90351;2003-08-31
+The Amazing Spider-Man: Life and Death of Spiders;65758;167541;2003-08-25
+Spider-Man Visionaries: Todd McFarlane;41456;280734;2003-08-01
+Spider-Girl;6218;117061;2003-08-01
+The Amazing Spider-Man;78701;113485;2003-08-01
+Ultimate Spider-Man;7257;110202;2003-08-01
+Marvel Universe: The End;18641;110007;2003-08-01
+Ultimate X-Men;7258;105512;2003-08-01
+Kingpin;10989;95787;2003-08-01
+Thunderbolts;6020;90013;2003-08-01
+Peter Parker: Spider-Man;9142;90350;2003-07-31
+Ultimate Spider-Man;7257;109909;2003-07-26
+Spider-Man Legends;41457;280735;2003-07-07
+Spider-Man: Legend of the Spider-Clan;38273;256234;2003-07-01
+Captain Marvel;18296;152543;2003-07-01
+Marville;22130;133143;2003-07-01
+Spider-Girl;6218;117052;2003-07-01
+The Amazing Spider-Man;78701;113484;2003-07-01
+Ultimate Spider-Man;7257;110203;2003-07-01
+Marvel Universe: The End;18641;110006;2003-07-01
+Paradise X;9547;80597;2003-07-01
+Peter Parker: Spider-Man: Trials and Tribulations;30310;186657;2003-06-30
+Peter Parker: Spider-Man;9142;90349;2003-06-30
+Ultimate Spider-Man;7257;109908;2003-06-26
+Spider-Girl;6218;117053;2003-06-01
+The Amazing Spider-Man;78701;113483;2003-06-01
+Marvel Universe: The End;18641;110005;2003-06-01
+Marvel Universe: The End;18641;110004;2003-06-01
+Exiles;6983;92779;2003-06-01
+Exiles;6983;92778;2003-06-01
+Ultimate Spider-Man;7257;109907;2003-05-31
+Peter Parker: Spider-Man;9142;90348;2003-05-31
+The Best of Spider-Man;38710;259632;2003-05-28
+The Marvelous Adventures of Gus Beezer: Hulk;39872;268929;2003-05-01
+Marvelous Adventures of Gus Beezer: Spider-Man;27262;166135;2003-05-01
+Ultimate Spider-Man Hardcover;26105;154668;2003-05-01
+Spidey And The Mini Marvels;19970;119387;2003-05-01
+Spider-Girl;6218;117051;2003-05-01
+The Amazing Spider-Man;78701;113482;2003-05-01
+Marvel Universe: The End;18641;109997;2003-05-01
+Ultimate Spider-Man;7257;109905;2003-05-01
+Exiles;6983;92777;2003-05-01
+Exiles;6983;92776;2003-05-01
+Paradise X;9547;80595;2003-05-01
+Peter Parker: Spider-Man;9142;90347;2003-04-30
+Thunderbolts: How to Lose;37563;249580;2003-04-01
+Marville;22130;133144;2003-04-01
+Spider-Girl;6218;117050;2003-04-01
+The Amazing Spider-Man;78701;113481;2003-04-01
+Ultimate Spider-Man;7257;109904;2003-04-01
+Spider-Man: Legend of the Spider-Clan;18501;108694;2003-04-01
+The Amazing Spider-Man: Until the Stars Turn Cold;65757;167540;2003-03-31
+Peter Parker: Spider-Man;9142;90346;2003-03-31
+Spider-Man's Tangled Web;7255;114271;2003-03-18
+Spider-Girl;6218;117048;2003-03-01
+The Amazing Spider-Man;78701;113480;2003-03-01
+Spider-Man: Legend of the Spider-Clan;18501;108693;2003-03-01
+X-Men Unlimited;5066;108322;2003-03-01
+Ultimate Spider-Man;7257;108170;2003-03-01
+Ultimate Spider-Man;7257;108169;2003-03-01
+Exiles;6983;92774;2003-03-01
+Ultimate Daredevil and Elektra;38522;258523;2003-02-28
+Peter Parker: Spider-Man;9142;90345;2003-02-28
+Spider-Man's Tangled Web;7255;114270;2003-02-18
+Daredevil: Out;43107;294041;2003-02-01
+Black Panther;6496;126751;2003-02-01
+Spider-Girl;6218;117047;2003-02-01
+The Amazing Spider-Man;78701;113479;2003-02-01
+Spider-Man: Legend of the Spider-Clan;18501;108692;2003-02-01
+Ultimate Spider-Man;7257;108168;2003-02-01
+Ultimate Spider-Man;7257;108167;2003-02-01
+Exiles;6983;105372;2003-02-01
+Paradise X;9547;80594;2003-02-01
+Peter Parker: Spider-Man;9142;113661;2003-01-31
+Thanos: Infinity Abyss;40977;276369;2003-01-01
+DC/Marvel Crossover Classics;34284;223689;2003-01-01
+Peter Parker: Spider-Man: Return of the Goblin;30309;186656;2003-01-01
+Spider-Man's Get Kraven;21106;126864;2003-01-01
+Spidey And The Mini Marvels;19970;123007;2003-01-01
+The Amazing Spider-Man;78701;113478;2003-01-01
+Spider-Man: Legend of the Spider-Clan;18501;108691;2003-01-01
+Ultimate Spider-Man;7257;108166;2003-01-01
+Ultimate Spider-Man;7257;108165;2003-01-01
+Paradise X;9547;80593;2003-01-01
+Spider-Man's Tangled Web;77727;468569;2002-12-31
+Peter Parker: Spider-Man;9142;113660;2002-12-31
+Ultimate Spider-Man;7257;108163;2002-12-31
+Spider-Man's Tangled Web;7255;114268;2002-12-18
+Marville;22130;133148;2002-12-01
+The Amazing Spider-Man;78701;113477;2002-12-01
+Spider-Man: Legend of the Spider-Clan;18501;108616;2002-12-01
+Ultimate Spider-Man;7257;108164;2002-12-01
+Paradise X;9547;80592;2002-12-01
+Peter Parker: Spider-Man;9142;113659;2002-11-30
+Spider-Man's Tangled Web;7255;114267;2002-11-18
+Avengers: The Kang Dynasty;40979;276371;2002-11-01
+Spider-Girl;6218;117031;2002-11-01
+The Amazing Spider-Man;78701;113476;2002-11-01
+Ultimate Spider-Man;7257;108162;2002-11-01
+Ultimate Spider-Man;7257;108161;2002-11-01
+Marvel Encyclopedia;18366;111424;2002-10-09
+Thunderbolts;6020;128903;2002-10-01
+Spider-Girl;6218;117029;2002-10-01
+Peter Parker: Spider-Man;9142;113658;2002-10-01
+The Amazing Spider-Man;78701;113475;2002-10-01
+Infinity Abyss;9504;78321;2002-10-01
+Infinity Abyss;9504;78320;2002-10-01
+Spider-Man: Quality of Life;9470;77964;2002-10-01
+Spider-Man/Black Cat: The Evil that Men Do;9469;77955;2002-10-01
+Ultimate Spider-Man;7257;74732;2002-10-01
+The Amazing Spider-Man: Revelations;27474;167479;2002-09-30
+Spider-Girl;6218;117028;2002-09-01
+Peter Parker: Spider-Man;9142;113657;2002-09-01
+The Amazing Spider-Man;78701;113474;2002-09-01
+Thor;6226;99297;2002-09-01
+Daredevil;6209;88708;2002-09-01
+Infinity Abyss;9504;78319;2002-09-01
+Infinity Abyss;9504;78318;2002-09-01
+The Order;9496;78213;2002-09-01
+Spider-Man: Quality of Life;9470;77963;2002-09-01
+Spider-Man/Black Cat: The Evil that Men Do;9469;77954;2002-09-01
+Ultimate Spider-Man;7257;74731;2002-09-01
+Spider-Man's Tangled Web;7255;114264;2002-08-18
