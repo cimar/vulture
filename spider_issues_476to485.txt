@@ -1,8 +1,0 @@
-volume_name,volume_id,issue_id,cover_date
-Giant Size Little Marvel: AvX;82359;493791;2015-09-30
-The Amazing Spider-Man;73420;493788;2015-09-30
-Ultimate Spider-Man Infinite Comic;83348;501755;2015-09-29
-Ultimate Spider-Man Infinite Comic;83348;501151;2015-09-22
-Ultimate Spider-Man Infinite Comic;83348;500529;2015-09-15
-Ultimate Spider-Man Infinite Comic;83348;499894;2015-09-09
-Ultimate Spider-Man Infinite Comic;83348;499173;2015-09-01

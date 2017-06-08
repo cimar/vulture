@@ -1,1 +1,0 @@
-volume_name,volume_id,issue_id,cover_date
